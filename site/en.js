@@ -16,7 +16,7 @@ let W=[],P=[],byId=new Map(),lv=-1,shown=200,view='home',cur=null,sess=null,quer
 const fresh=()=>({rec:{},today:{date:'',steps:0},streak:{last:'',days:0},perDay:1,rate:0.9});
 let S=fresh();
 function load(){try{const v=JSON.parse(localStorage.getItem(KEY)||'{}');S={...fresh(),...sanitize(v)}}catch{S=fresh()}}
-function sanitize(v){const out=fresh();if(!v||typeof v!=='object')return out;for(const [id,r] of Object.entries(v.rec||{})){if(!/^e[np]-\d{3}$/.test(id)||!r||typeof r!=='object')continue;const n=x=>Math.max(0,Math.floor(Number(x)||0));out.rec[id]={seen:n(r.seen),stage:Math.min(6,n(r.stage)),due:n(r.due),fav:!!r.fav,ok:n(r.ok),ng:n(r.ng)}}
+function sanitize(v){const out=fresh();if(!v||typeof v!=='object')return out;for(const [id,r] of Object.entries(v.rec||{})){if(!/^e[np]-\d{3,4}$/.test(id)||!r||typeof r!=='object')continue;const n=x=>Math.max(0,Math.floor(Number(x)||0));out.rec[id]={seen:n(r.seen),stage:Math.min(6,n(r.stage)),due:n(r.due),fav:!!r.fav,ok:n(r.ok),ng:n(r.ng)}}
  if(v.today&&/^\d{4}-\d\d-\d\d$/.test(v.today.date))out.today={date:v.today.date,steps:Math.min(99,Math.max(0,Number(v.today.steps)||0))};if(v.streak&&/^\d{4}-\d\d-\d\d$/.test(v.streak.last))out.streak={last:v.streak.last,days:Math.max(0,Number(v.streak.days)||0)};if([1,2,3].includes(v.perDay))out.perDay=v.perDay;if([0.7,0.8,0.9,1].includes(v.rate))out.rate=v.rate;return out}
 function save(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch{}}
 const rec=id=>S.rec[id]||{seen:0,stage:0,due:0,fav:false,ok:0,ng:0};
@@ -110,7 +110,7 @@ function resultView(){const s=sess;return `<section class="card result"><p class
 function endSession(){if(sess&&sess.kind==='step'&&sess.i>=sess.tasks.length)finishSession();sess=null;render();window.scrollTo(0,0)}
 // ---- boot ----
 load();
-Promise.all(['data/words.json','data/phrases.json'].map(u=>fetch(u+'?v=20261116e').then(r=>{if(!r.ok)throw Error();return r.json()}))).then(([w,p])=>{W=w;P=p;byId=new Map([...W,...P].map(x=>[x.id,x]));loadState='ready';render()}).catch(()=>{loadState='error';render()});
+Promise.all(['data/words.json','data/phrases.json'].map(u=>fetch(u+'?v=20261116f').then(r=>{if(!r.ok)throw Error();return r.json()}))).then(([w,p])=>{W=w;P=p;byId=new Map([...W,...P].map(x=>[x.id,x]));loadState='ready';render()}).catch(()=>{loadState='error';render()});
 if(typeof navigator!=='undefined'&&'serviceWorker'in navigator&&location.protocol==='https:')navigator.serviceWorker.register('sw.js',{scope:'./'}).catch(()=>{});
 window.addEventListener('hashchange',()=>{const v=location.hash.slice(1);if(['home','words','phrases','review','favorites','settings'].includes(v))go(v)});
 render();

@@ -16,7 +16,7 @@ vm.runInContext(fs.readFileSync('site/en.js','utf8').replace("window.addEventLis
  const st=JSON.parse(store['english-steps-v1']);assert.equal(Object.values(st.rec).filter(r=>r.seen>0).length,10);assert.equal(st.today.steps,1);
  assert(Object.values(st.rec).every(r=>r.stage===1&&r.due>Date.now()+20*3600000));
  // Backups: bad ids and values are dropped.
- const z=vm.runInContext("sanitize({rec:{'en-001':{seen:2,stage:9,fav:1},'x':{}},perDay:7,rate:3})",ctx);assert.deepEqual(Object.keys(z.rec),['en-001']);assert.equal(z.rec['en-001'].stage,6);assert.equal(z.perDay,1);
+ const z=vm.runInContext("sanitize({rec:{'en-001':{seen:2,stage:9,fav:1},'en-1500':{seen:1},'x':{}},perDay:7,rate:3})",ctx);assert.deepEqual(Object.keys(z.rec),['en-001','en-1500']);assert.equal(z.rec['en-001'].stage,6);assert.equal(z.perDay,1);
  // App identity: own manifest, icon and worker.
  const m=JSON.parse(fs.readFileSync('site/site.webmanifest','utf8'));assert(m.name==='English Steps'&&m.start_url==='./'&&m.scope==='./');assert(fs.existsSync('site/sw.js')&&fs.existsSync('site/icon.svg'));
  console.log('PASS: English Steps — 2000 words, 120 phrases, step learning with spaced follow-up, separate storage, safe import.')})().catch(e=>{console.error(e);process.exit(1)});
