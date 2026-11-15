@@ -1,0 +1,3406 @@
+[
+ {
+  "id": "g01",
+  "lv": 1,
+  "title": "be動詞（am / is / are）",
+  "form": "主語 ＋ be動詞 ＋ 名詞・形容詞 ／ 主語 ＋ be動詞 ＋ 場所を表す語句",
+  "point": "be動詞は「〜です」「〜にいる・ある」を表します。主語によって形が変わり、I には am、he・she・it や1人の人・1つの物には is、you や複数の主語には are を使います。後ろには名詞・形容詞・場所を表す語句が続きます。",
+  "tips": [
+   "I am → I'm、you are → you're、he is → he's のように短縮できます。",
+   "Ken and Amy のように主語が2人以上なら are を使います。",
+   "be動詞と一般動詞を並べないようにしましょう（× I am play tennis.）。"
+  ],
+  "ex": [
+   {
+    "en": "I am a student.",
+    "ja": "私は学生です。"
+   },
+   {
+    "en": "She is very kind.",
+    "ja": "彼女はとても親切です。"
+   },
+   {
+    "en": "We are in the park.",
+    "ja": "私たちは公園にいます。"
+   },
+   {
+    "en": "The book is on the table.",
+    "ja": "その本はテーブルの上にあります。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "I ___ hungry.",
+    "ja": "私はおなかがすいています。",
+    "choices": [
+     "is",
+     "am",
+     "are",
+     "be"
+    ],
+    "a": 1,
+    "why": "主語が I のときは am を使います。"
+   },
+   {
+    "q": "Ken and Amy ___ friends.",
+    "ja": "ケンとエイミーは友だちです。",
+    "choices": [
+     "are",
+     "is",
+     "am",
+     "be"
+    ],
+    "a": 0,
+    "why": "主語が2人（複数）なので are を使います。"
+   },
+   {
+    "q": "My mother ___ a nurse.",
+    "ja": "私の母は看護師です。",
+    "choices": [
+     "am",
+     "are",
+     "is",
+     "be"
+    ],
+    "a": 2,
+    "why": "my mother は3人称単数なので is を使います。"
+   },
+   {
+    "q": "You ___ a good cook.",
+    "ja": "あなたは料理が上手です。",
+    "choices": [
+     "is",
+     "am",
+     "be",
+     "are"
+    ],
+    "a": 3,
+    "why": "主語が you のときは are を使います。"
+   },
+   {
+    "q": "It ___ cold today.",
+    "ja": "今日は寒いです。",
+    "choices": [
+     "are",
+     "is",
+     "am",
+     "be"
+    ],
+    "a": 1,
+    "why": "主語が it のときは is を使います。"
+   }
+  ]
+ },
+ {
+  "id": "g02",
+  "lv": 1,
+  "title": "一般動詞の現在形（3人称単数の -s）",
+  "form": "主語 ＋ 動詞 ＋ 目的語 ／ 3人称単数の主語 ＋ 動詞-s（-es） ＋ 目的語",
+  "point": "一般動詞は「食べる」「住む」など、動作や状態を表す動詞です。現在形は、ふだんの習慣や変わらない事実を表します。主語が he・she・it や1人の人・1つの物（3人称単数）のときは、動詞の語尾に -s または -es を付けます。",
+  "tips": [
+   "go → goes、watch → watches のように、o・s・sh・ch・x で終わる語には -es を付けます。",
+   "study → studies のように〈子音字＋y〉は y を i に変えて -es。have は has になります。",
+   "I・you や複数の主語のときは -s を付けません。"
+  ],
+  "ex": [
+   {
+    "en": "I play tennis every Sunday.",
+    "ja": "私は毎週日曜日にテニスをします。"
+   },
+   {
+    "en": "Tom lives in Tokyo.",
+    "ja": "トムは東京に住んでいます。"
+   },
+   {
+    "en": "She watches TV after dinner.",
+    "ja": "彼女は夕食後にテレビを見ます。"
+   },
+   {
+    "en": "My brother has a dog.",
+    "ja": "私の兄は犬を飼っています。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "Amy ___ English every day.",
+    "ja": "エイミーは毎日英語を勉強します。",
+    "choices": [
+     "study",
+     "studys",
+     "studies",
+     "studying"
+    ],
+    "a": 2,
+    "why": "〈子音字＋y〉で終わる動詞は y を i に変えて -es を付けます。"
+   },
+   {
+    "q": "My father ___ coffee in the morning.",
+    "ja": "父は朝コーヒーを飲みます。",
+    "choices": [
+     "drinks",
+     "drink",
+     "drinkes",
+     "drinking"
+    ],
+    "a": 0,
+    "why": "主語が3人称単数なので、drink に -s を付けます。"
+   },
+   {
+    "q": "We ___ to school by bus.",
+    "ja": "私たちはバスで学校へ行きます。",
+    "choices": [
+     "goes",
+     "going",
+     "gos",
+     "go"
+    ],
+    "a": 3,
+    "why": "主語が we なので、動詞に -s は付けません。"
+   },
+   {
+    "q": "Ken ___ a new bike.",
+    "ja": "ケンは新しい自転車を持っています。",
+    "choices": [
+     "have",
+     "has",
+     "haves",
+     "having"
+    ],
+    "a": 1,
+    "why": "3人称単数の主語では have は has になります。"
+   },
+   {
+    "q": "The store ___ at ten.",
+    "ja": "その店は10時に開きます。",
+    "choices": [
+     "open",
+     "opening",
+     "opens",
+     "openes"
+    ],
+    "a": 2,
+    "why": "the store は3人称単数なので opens です。"
+   }
+  ]
+ },
+ {
+  "id": "g03",
+  "lv": 1,
+  "title": "be動詞の否定文・疑問文",
+  "form": "主語 ＋ be動詞 ＋ not ＋ 名詞・形容詞 ／ be動詞 ＋ 主語 ＋ 名詞・形容詞 ＋ ?",
+  "point": "be動詞の否定文は、be動詞のすぐ後ろに not を置きます。疑問文は、be動詞を主語の前に出し、文の最後に「?」を付けます。答えるときも be動詞を使い、Yes, I am. / No, it isn't. のように答えます。",
+  "tips": [
+   "is not → isn't、are not → aren't と短縮できます。am not は短縮せず I'm not とします。",
+   "Yes の答えでは短縮しません（× Yes, I'm.）。",
+   "be動詞の疑問文に do・does は使いません（× Do you are ...?）。"
+  ],
+  "ex": [
+   {
+    "en": "I'm not tired.",
+    "ja": "私は疲れていません。"
+   },
+   {
+    "en": "This bag isn't mine.",
+    "ja": "このかばんは私のものではありません。"
+   },
+   {
+    "en": "Are you a teacher? — Yes, I am.",
+    "ja": "あなたは先生ですか。――はい、そうです。"
+   },
+   {
+    "en": "Is Tom at home?",
+    "ja": "トムは家にいますか。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "___ you from Canada?",
+    "ja": "あなたはカナダ出身ですか。",
+    "choices": [
+     "Do",
+     "Is",
+     "Are",
+     "Am"
+    ],
+    "a": 2,
+    "why": "主語が you なので、Are を文の最初に出します。"
+   },
+   {
+    "q": "My sister ___ not busy today.",
+    "ja": "姉は今日は忙しくありません。",
+    "choices": [
+     "is",
+     "are",
+     "does",
+     "do"
+    ],
+    "a": 0,
+    "why": "busy は形容詞なので be動詞を使い、主語に合わせて is にします。"
+   },
+   {
+    "q": "Is this your pen? — Yes, it ___.",
+    "ja": "これはあなたのペンですか。――はい、そうです。",
+    "choices": [
+     "does",
+     "is",
+     "are",
+     "isn't"
+    ],
+    "a": 1,
+    "why": "Is ...? には is を使って答え、Yes のときは否定形にしません。"
+   },
+   {
+    "q": "We ___ in the same class.",
+    "ja": "私たちは同じクラスではありません。",
+    "choices": [
+     "don't",
+     "isn't",
+     "aren't",
+     "not"
+    ],
+    "a": 2,
+    "why": "主語が we なので are not の短縮形 aren't を使います。"
+   },
+   {
+    "q": "___ Yuki and Ken at school now?",
+    "ja": "ユキとケンは今、学校にいますか。",
+    "choices": [
+     "Is",
+     "Are",
+     "Do",
+     "Does"
+    ],
+    "a": 1,
+    "why": "主語が2人（複数）なので Are を使います。"
+   }
+  ]
+ },
+ {
+  "id": "g04",
+  "lv": 1,
+  "title": "一般動詞の否定文・疑問文（do / does）",
+  "form": "主語 ＋ do not（does not） ＋ 動詞の原形 ／ Do（Does） ＋ 主語 ＋ 動詞の原形 ＋ ?",
+  "point": "一般動詞の否定文は、動詞の前に do not（don't）を置きます。疑問文は Do を文の最初に置きます。主語が3人称単数のときは does・doesn't を使い、後ろの動詞は必ず原形にします。",
+  "tips": [
+   "× She doesn't plays. → ○ She doesn't play.（does を使ったら動詞に -s は付けません）",
+   "答えるときは Yes, I do. / No, he doesn't. のように do・does を使います。",
+   "be動詞と do を一緒に使わないようにしましょう（× I don't am ...）。"
+  ],
+  "ex": [
+   {
+    "en": "I don't like carrots.",
+    "ja": "私はにんじんが好きではありません。"
+   },
+   {
+    "en": "Ken doesn't eat breakfast.",
+    "ja": "ケンは朝食を食べません。"
+   },
+   {
+    "en": "Do you play the piano?",
+    "ja": "あなたはピアノを弾きますか。"
+   },
+   {
+    "en": "Does Amy live near here?",
+    "ja": "エイミーはこの近くに住んでいますか。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "___ you speak Japanese?",
+    "ja": "あなたは日本語を話しますか。",
+    "choices": [
+     "Are",
+     "Does",
+     "Do",
+     "Is"
+    ],
+    "a": 2,
+    "why": "一般動詞 speak の疑問文で主語が you なので Do を使います。"
+   },
+   {
+    "q": "Tom ___ like cold weather.",
+    "ja": "トムは寒い天気が好きではありません。",
+    "choices": [
+     "don't",
+     "doesn't",
+     "isn't",
+     "not"
+    ],
+    "a": 1,
+    "why": "主語が3人称単数の一般動詞の否定文なので doesn't を使います。"
+   },
+   {
+    "q": "Does your sister ___ tennis?",
+    "ja": "あなたのお姉さんはテニスをしますか。",
+    "choices": [
+     "plays",
+     "playing",
+     "played",
+     "play"
+    ],
+    "a": 3,
+    "why": "Does の疑問文では、動詞は原形にします。"
+   },
+   {
+    "q": "We ___ have class on Sunday.",
+    "ja": "私たちは日曜日には授業がありません。",
+    "choices": [
+     "don't",
+     "doesn't",
+     "aren't",
+     "not"
+    ],
+    "a": 0,
+    "why": "主語が we の一般動詞の否定文なので don't を使います。"
+   },
+   {
+    "q": "Do they live in Osaka? — No, they ___.",
+    "ja": "彼らは大阪に住んでいますか。――いいえ、住んでいません。",
+    "choices": [
+     "aren't",
+     "doesn't",
+     "don't",
+     "not"
+    ],
+    "a": 2,
+    "why": "Do ...? の問いには do を使い、No なら don't で答えます。"
+   }
+  ]
+ },
+ {
+  "id": "g05",
+  "lv": 1,
+  "title": "名詞の複数形と a / an / the",
+  "form": "a（an） ＋ 数えられる名詞の単数形 ／ 名詞の複数形（-s・-es） ／ the ＋ 名詞",
+  "point": "数えられる名詞が1つのときは a を付け、母音の音で始まる語には an を付けます。2つ以上のときは名詞を複数形にします。the は「その〜」のように、話し手と聞き手のどちらにも何を指すかわかっているものや、ただ1つしかないものに付けます。",
+  "tips": [
+   "an apple、an hour のように、つづりではなく発音が母音で始まるかで決めます（a university は a）。",
+   "child → children、man → men、foot → feet など、不規則な複数形もあります。",
+   "water・milk・money など数えられない名詞には a を付けず、複数形にもしません。"
+  ],
+  "ex": [
+   {
+    "en": "I have a cat and two dogs.",
+    "ja": "私は猫を1匹と犬を2匹飼っています。"
+   },
+   {
+    "en": "She eats an apple every day.",
+    "ja": "彼女は毎日りんごを1個食べます。"
+   },
+   {
+    "en": "The children are in the park.",
+    "ja": "子どもたちは公園にいます。"
+   },
+   {
+    "en": "Please close the door.",
+    "ja": "ドアを閉めてください。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "I want ___ orange.",
+    "ja": "オレンジが1個ほしいです。",
+    "choices": [
+     "a",
+     "an",
+     "two",
+     "many"
+    ],
+    "a": 1,
+    "why": "orange は母音の音で始まり単数形なので an を付けます。"
+   },
+   {
+    "q": "There are three ___ on the desk.",
+    "ja": "机の上に本が3冊あります。",
+    "choices": [
+     "book",
+     "a book",
+     "books",
+     "bookes"
+    ],
+    "a": 2,
+    "why": "3冊なので複数形 books にします。"
+   },
+   {
+    "q": "Ken has two ___.",
+    "ja": "ケンには子どもが2人います。",
+    "choices": [
+     "child",
+     "childs",
+     "childrens",
+     "children"
+    ],
+    "a": 3,
+    "why": "child の複数形は不規則で children です。"
+   },
+   {
+    "q": "___ sun rises in the east.",
+    "ja": "太陽は東から昇ります。",
+    "choices": [
+     "A",
+     "An",
+     "The",
+     "Many"
+    ],
+    "a": 2,
+    "why": "太陽のようにただ1つしかないものには the を付けます。"
+   },
+   {
+    "q": "I drink ___ every morning.",
+    "ja": "私は毎朝牛乳を飲みます。",
+    "choices": [
+     "a milk",
+     "milks",
+     "milk",
+     "an milk"
+    ],
+    "a": 2,
+    "why": "milk は数えられない名詞なので、a も複数の -s も付けません。"
+   }
+  ]
+ },
+ {
+  "id": "g06",
+  "lv": 1,
+  "title": "代名詞（I・my・me・mine など）",
+  "form": "主格（I・he など） ＝ 主語 ／ 所有格（my・his など） ＋ 名詞 ／ 動詞・前置詞 ＋ 目的格（me・him など） ／ 所有代名詞（mine・hers など） ＝「〜のもの」",
+  "point": "代名詞は、文の中での役割によって形が変わります。主語には I・he・she など、「〜の」には my・his・her など、動詞や前置詞の後ろには me・him・her などを使います。mine・yours のような形は「〜のもの」という意味で、1語で〈所有格＋名詞〉の代わりになります。",
+  "tips": [
+   "I・my・me・mine ／ you・your・you・yours ／ he・his・him・his ／ she・her・her・hers ／ we・our・us・ours ／ they・their・them・theirs",
+   "its（それの）と it's（it is の短縮形）を混同しないようにしましょう。",
+   "Ken's（ケンの・ケンのもの）のように、名前には 's を付けます。"
+  ],
+  "ex": [
+   {
+    "en": "This is my bag.",
+    "ja": "これは私のかばんです。"
+   },
+   {
+    "en": "Do you know him?",
+    "ja": "あなたは彼を知っていますか。"
+   },
+   {
+    "en": "The red cup is hers.",
+    "ja": "その赤いカップは彼女のものです。"
+   },
+   {
+    "en": "Please call me tonight.",
+    "ja": "今夜、私に電話してください。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "This is ___ house.",
+    "ja": "これは私たちの家です。",
+    "choices": [
+     "we",
+     "us",
+     "our",
+     "ours"
+    ],
+    "a": 2,
+    "why": "名詞 house の前で「私たちの」を表すのは所有格 our です。"
+   },
+   {
+    "q": "I like ___ very much.",
+    "ja": "私は彼女のことがとても好きです。",
+    "choices": [
+     "she",
+     "she's",
+     "her",
+     "herself"
+    ],
+    "a": 2,
+    "why": "動詞 like の後ろ（目的語）には目的格 her を使います。"
+   },
+   {
+    "q": "Is this pen ___?",
+    "ja": "このペンはあなたのものですか。",
+    "choices": [
+     "yours",
+     "your",
+     "you",
+     "you're"
+    ],
+    "a": 0,
+    "why": "「あなたのもの」は所有代名詞 yours で表します。"
+   },
+   {
+    "q": "___ are good friends.",
+    "ja": "彼らは仲のよい友だちです。",
+    "choices": [
+     "Them",
+     "Their",
+     "Theirs",
+     "They"
+    ],
+    "a": 3,
+    "why": "主語になるのは主格の They です。"
+   },
+   {
+    "q": "The dog likes ___ bed.",
+    "ja": "その犬は自分のベッドが好きです。",
+    "choices": [
+     "it",
+     "its",
+     "it's",
+     "its'"
+    ],
+    "a": 1,
+    "why": "「それの」は所有格 its で、it's は it is の短縮形です。"
+   }
+  ]
+ },
+ {
+  "id": "g07",
+  "lv": 1,
+  "title": "疑問詞（what / who / where など）",
+  "form": "疑問詞 ＋ be動詞 ＋ 主語 ＋ ? ／ 疑問詞 ＋ do（does） ＋ 主語 ＋ 動詞の原形 ＋ ? ／ 疑問詞（主語） ＋ 動詞 ＋ ?",
+  "point": "疑問詞は文の最初に置き、その後ろは普通の疑問文と同じ語順にします。what は「何」、who は「だれ」、where は「どこ」、when は「いつ」、why は「なぜ」、how は「どのように」、which は「どちら」を表します。答えるときは Yes・No ではなく、たずねられた内容を答えます。",
+  "tips": [
+   "how old（何歳）、how much（いくら）、how many（いくつ）のように、how は他の語と組み合わせてよく使います。",
+   "what time（何時）、which bag（どちらのかばん）のように、〈疑問詞＋名詞〉の形もあります。",
+   "Who lives here? のように疑問詞が主語のときは、do・does を使いません。"
+  ],
+  "ex": [
+   {
+    "en": "What do you want for lunch?",
+    "ja": "昼食に何が食べたいですか。"
+   },
+   {
+    "en": "Where does Ken live?",
+    "ja": "ケンはどこに住んでいますか。"
+   },
+   {
+    "en": "How old is your brother?",
+    "ja": "あなたのお兄さんは何歳ですか。"
+   },
+   {
+    "en": "Which bag is yours?",
+    "ja": "どちらのかばんがあなたのものですか。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "___ is Amy? — She's in the library.",
+    "ja": "エイミーはどこにいますか。――図書館にいます。",
+    "choices": [
+     "Where",
+     "What",
+     "When",
+     "How"
+    ],
+    "a": 0,
+    "why": "場所をたずねるときは where を使います。"
+   },
+   {
+    "q": "___ many pencils do you have?",
+    "ja": "鉛筆を何本持っていますか。",
+    "choices": [
+     "What",
+     "Which",
+     "How",
+     "Who"
+    ],
+    "a": 2,
+    "why": "数をたずねるときは how many を使います。"
+   },
+   {
+    "q": "___ are you sad? — Because my cat is sick.",
+    "ja": "なぜ悲しいのですか。――猫が病気だからです。",
+    "choices": [
+     "What",
+     "Why",
+     "Where",
+     "Which"
+    ],
+    "a": 1,
+    "why": "理由をたずねるときは why を使い、Because ... で答えます。"
+   },
+   {
+    "q": "___ is that man? — He's my uncle.",
+    "ja": "あの男性はだれですか。――私のおじです。",
+    "choices": [
+     "What",
+     "When",
+     "How",
+     "Who"
+    ],
+    "a": 3,
+    "why": "人がだれなのかをたずねるときは who を使います。"
+   },
+   {
+    "q": "What ___ Tom want?",
+    "ja": "トムは何がほしいのですか。",
+    "choices": [
+     "is",
+     "do",
+     "does",
+     "are"
+    ],
+    "a": 2,
+    "why": "一般動詞 want の疑問文で主語が3人称単数なので does を使います。"
+   }
+  ]
+ },
+ {
+  "id": "g08",
+  "lv": 1,
+  "title": "can（〜できる）",
+  "form": "主語 ＋ can ＋ 動詞の原形 ／ 主語 ＋ cannot（can't） ＋ 動詞の原形 ／ Can ＋ 主語 ＋ 動詞の原形 ＋ ?",
+  "point": "can は動詞の前に置いて「〜できる」という能力や可能を表します。主語が何であっても can の形は変わらず、後ろの動詞は原形です。Can I ...? は「〜してもいいですか」、Can you ...? は「〜してくれますか」という依頼にも使います。",
+  "tips": [
+   "× He cans swim. ／ × He can swims. → ○ He can swim.",
+   "否定は cannot または can't です。can not と2語に分けることはあまりありません。",
+   "答え方は Yes, I can. / No, I can't. です。"
+  ],
+  "ex": [
+   {
+    "en": "I can swim fast.",
+    "ja": "私は速く泳げます。"
+   },
+   {
+    "en": "Yuki can't eat spicy food.",
+    "ja": "ユキは辛い食べ物が食べられません。"
+   },
+   {
+    "en": "Can you help me?",
+    "ja": "手伝ってくれますか。"
+   },
+   {
+    "en": "Can I use this pen?",
+    "ja": "このペンを使ってもいいですか。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "Tom can ___ the guitar.",
+    "ja": "トムはギターを弾けます。",
+    "choices": [
+     "plays",
+     "play",
+     "playing",
+     "to play"
+    ],
+    "a": 1,
+    "why": "can の後ろの動詞は原形です。"
+   },
+   {
+    "q": "My grandma ___ use a smartphone.",
+    "ja": "祖母はスマートフォンを使えません。",
+    "choices": [
+     "can't",
+     "doesn't can",
+     "not can",
+     "isn't can"
+    ],
+    "a": 0,
+    "why": "can の否定は can't（cannot）で、do・be動詞は使いません。"
+   },
+   {
+    "q": "___ you read this word?",
+    "ja": "この単語が読めますか。",
+    "choices": [
+     "Are",
+     "Is",
+     "Cans",
+     "Can"
+    ],
+    "a": 3,
+    "why": "can の疑問文は Can を主語の前に出します。"
+   },
+   {
+    "q": "Can Ken drive? — Yes, he ___.",
+    "ja": "ケンは運転できますか。――はい、できます。",
+    "choices": [
+     "does",
+     "is",
+     "can",
+     "cans"
+    ],
+    "a": 2,
+    "why": "Can ...? の問いには can を使って答えます。"
+   },
+   {
+    "q": "She can ___ Chinese well.",
+    "ja": "彼女は中国語を上手に話せます。",
+    "choices": [
+     "speak",
+     "speaks",
+     "speaking",
+     "spoke"
+    ],
+    "a": 0,
+    "why": "主語が3人称単数でも、can の後ろは原形です。"
+   }
+  ]
+ },
+ {
+  "id": "g09",
+  "lv": 1,
+  "title": "命令文と Let's",
+  "form": "動詞の原形 ＋ ...（〜しなさい） ／ Don't ＋ 動詞の原形 ＋ ...（〜してはいけない） ／ Let's ＋ 動詞の原形 ＋ ...（〜しよう）",
+  "point": "命令文は主語を置かず、動詞の原形で文を始めます。「〜してはいけません」と言うときは Don't を、「〜しましょう」と誘うときは Let's を動詞の原形の前に置きます。please を付けると、ていねいな言い方になります。",
+  "tips": [
+   "be動詞の命令文は Be quiet. のように Be で始め、否定は Don't be ... です。",
+   "Let's ... には Yes, let's. / Sure. や No, let's not. などと答えます。",
+   "please は文の最初にも、文の最後（..., please.）にも置けます。"
+  ],
+  "ex": [
+   {
+    "en": "Open the window, please.",
+    "ja": "窓を開けてください。"
+   },
+   {
+    "en": "Don't run in the hallway.",
+    "ja": "廊下を走ってはいけません。"
+   },
+   {
+    "en": "Be careful.",
+    "ja": "気をつけて。"
+   },
+   {
+    "en": "Let's have lunch together.",
+    "ja": "一緒にお昼を食べましょう。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "___ quiet in the library.",
+    "ja": "図書館では静かにしなさい。",
+    "choices": [
+     "Are",
+     "Be",
+     "Is",
+     "Do"
+    ],
+    "a": 1,
+    "why": "quiet は形容詞なので、be動詞の原形 Be で命令文を始めます。"
+   },
+   {
+    "q": "___ touch the stove. It's hot.",
+    "ja": "コンロに触らないで。熱いです。",
+    "choices": [
+     "Not",
+     "No",
+     "Don't",
+     "Doesn't"
+    ],
+    "a": 2,
+    "why": "「〜してはいけない」は Don't ＋ 動詞の原形で表します。"
+   },
+   {
+    "q": "Let's ___ soccer after school.",
+    "ja": "放課後サッカーをしよう。",
+    "choices": [
+     "playing",
+     "plays",
+     "to play",
+     "play"
+    ],
+    "a": 3,
+    "why": "Let's の後ろは動詞の原形です。"
+   },
+   {
+    "q": "Please ___ your name here.",
+    "ja": "ここにお名前を書いてください。",
+    "choices": [
+     "write",
+     "writes",
+     "writing",
+     "to write"
+    ],
+    "a": 0,
+    "why": "命令文なので、please の後ろは動詞の原形です。"
+   },
+   {
+    "q": "___ be late for class.",
+    "ja": "授業に遅れてはいけません。",
+    "choices": [
+     "Not",
+     "Don't",
+     "Aren't",
+     "No"
+    ],
+    "a": 1,
+    "why": "be動詞の否定の命令文は Don't be ... です。"
+   }
+  ]
+ },
+ {
+  "id": "g10",
+  "lv": 1,
+  "title": "現在進行形",
+  "form": "主語 ＋ be動詞 ＋ 動詞の-ing形 ／ 主語 ＋ be動詞 ＋ not ＋ 動詞の-ing形 ／ be動詞 ＋ 主語 ＋ 動詞の-ing形 ＋ ?",
+  "point": "現在進行形は「（今）〜しているところです」と、今まさに進んでいる動作を表します。be動詞は主語に合わせて am・is・are を使い分けます。否定文・疑問文の作り方は be動詞の文と同じです。",
+  "tips": [
+   "make → making（e を取る）、run → running（最後の文字を重ねる）に注意しましょう。",
+   "like・know・want など状態を表す動詞は、ふつう進行形にしません（× I am knowing.）。",
+   "be動詞を忘れないようにしましょう（× I watching TV.）。"
+  ],
+  "ex": [
+   {
+    "en": "I'm reading a book now.",
+    "ja": "私は今、本を読んでいます。"
+   },
+   {
+    "en": "Ken is swimming in the pool.",
+    "ja": "ケンはプールで泳いでいます。"
+   },
+   {
+    "en": "They aren't watching TV.",
+    "ja": "彼らはテレビを見ていません。"
+   },
+   {
+    "en": "What are you doing?",
+    "ja": "何をしているのですか。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "Amy ___ cooking dinner now.",
+    "ja": "エイミーは今、夕食を作っています。",
+    "choices": [
+     "are",
+     "is",
+     "does",
+     "am"
+    ],
+    "a": 1,
+    "why": "主語が3人称単数なので is ＋ -ing形にします。"
+   },
+   {
+    "q": "The kids are ___ in the park.",
+    "ja": "子どもたちは公園で走っています。",
+    "choices": [
+     "runing",
+     "run",
+     "running",
+     "runs"
+    ],
+    "a": 2,
+    "why": "run の -ing形は n を重ねて running です。"
+   },
+   {
+    "q": "___ you listening to me?",
+    "ja": "私の話を聞いていますか。",
+    "choices": [
+     "Do",
+     "Does",
+     "Is",
+     "Are"
+    ],
+    "a": 3,
+    "why": "進行形の疑問文は be動詞を前に出し、主語が you なので Are です。"
+   },
+   {
+    "q": "I ___ studying now. I'm playing a game.",
+    "ja": "私は今、勉強していません。ゲームをしています。",
+    "choices": [
+     "am not",
+     "don't",
+     "not",
+     "isn't"
+    ],
+    "a": 0,
+    "why": "進行形の否定文は be動詞の後ろに not を置きます。"
+   },
+   {
+    "q": "Look! It ___.",
+    "ja": "見て！雨が降っています。",
+    "choices": [
+     "rain",
+     "is raining",
+     "raining",
+     "are raining"
+    ],
+    "a": 1,
+    "why": "今まさに起きていることなので現在進行形 is raining を使います。"
+   }
+  ]
+ },
+ {
+  "id": "g11",
+  "lv": 2,
+  "title": "過去形（規則動詞・不規則動詞・be動詞）",
+  "form": "主語 ＋ 動詞の過去形 ／ 主語 ＋ did not（didn't） ＋ 動詞の原形 ／ Did ＋ 主語 ＋ 動詞の原形 ＋ ? ／ 主語 ＋ was（were） ＋ 名詞・形容詞",
+  "point": "過去のことは、動詞を過去形にして表します。多くの動詞は -ed を付けますが、go → went のように形が変わる不規則動詞もあります。否定文・疑問文では did を使い、動詞は原形に戻します。be動詞の過去形は was（I・3人称単数）と were（you・複数）です。",
+  "tips": [
+   "study → studied、stop → stopped のように、つづりが変わる動詞に注意しましょう。",
+   "主な不規則動詞：go → went、eat → ate、see → saw、buy → bought、have → had",
+   "× Did you went? → ○ Did you go?（did の後ろは原形）"
+  ],
+  "ex": [
+   {
+    "en": "I visited Kyoto last year.",
+    "ja": "私は去年、京都を訪れました。"
+   },
+   {
+    "en": "We ate pizza for dinner.",
+    "ja": "私たちは夕食にピザを食べました。"
+   },
+   {
+    "en": "Did you see the movie?",
+    "ja": "その映画を見ましたか。"
+   },
+   {
+    "en": "It was very hot yesterday.",
+    "ja": "昨日はとても暑かったです。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "Ken ___ to the library yesterday.",
+    "ja": "ケンは昨日、図書館へ行きました。",
+    "choices": [
+     "goes",
+     "went",
+     "goed",
+     "going"
+    ],
+    "a": 1,
+    "why": "go は不規則動詞で、過去形は went です。"
+   },
+   {
+    "q": "Did you ___ your homework?",
+    "ja": "宿題をしましたか。",
+    "choices": [
+     "did",
+     "done",
+     "do",
+     "does"
+    ],
+    "a": 2,
+    "why": "Did の疑問文では、動詞は原形にします。"
+   },
+   {
+    "q": "We ___ at home last night.",
+    "ja": "私たちは昨夜、家にいました。",
+    "choices": [
+     "was",
+     "are",
+     "been",
+     "were"
+    ],
+    "a": 3,
+    "why": "過去のことで主語が we なので were を使います。"
+   },
+   {
+    "q": "I ___ watch TV yesterday.",
+    "ja": "私は昨日テレビを見ませんでした。",
+    "choices": [
+     "didn't",
+     "don't",
+     "wasn't",
+     "not"
+    ],
+    "a": 0,
+    "why": "一般動詞の過去の否定文は didn't ＋ 動詞の原形です。"
+   },
+   {
+    "q": "Amy ___ a new dress last Sunday.",
+    "ja": "エイミーは先週の日曜日に新しいワンピースを買いました。",
+    "choices": [
+     "buyed",
+     "buys",
+     "bought",
+     "buy"
+    ],
+    "a": 2,
+    "why": "buy は不規則動詞で、過去形は bought です。"
+   }
+  ]
+ },
+ {
+  "id": "g12",
+  "lv": 2,
+  "title": "過去進行形",
+  "form": "主語 ＋ was（were） ＋ 動詞の-ing形 ／ 主語 ＋ was（were） ＋ not ＋ 動詞の-ing形 ／ Was（Were） ＋ 主語 ＋ 動詞の-ing形 ＋ ?",
+  "point": "過去進行形は「（そのとき）〜していました」と、過去のある時点で進んでいた動作を表します。be動詞を過去形の was・were にして、後ろに -ing形を続けます。「〜したとき、…していた」のように when と一緒によく使います。",
+  "tips": [
+   "I・he・she・it などには was、you・we・they などには were を使います。",
+   "× I was watched TV. → ○ I was watching TV.",
+   "know・like など状態を表す動詞は、過去進行形にもふつうしません。"
+  ],
+  "ex": [
+   {
+    "en": "I was sleeping at ten last night.",
+    "ja": "昨夜10時、私は寝ていました。"
+   },
+   {
+    "en": "They were playing soccer then.",
+    "ja": "彼らはそのときサッカーをしていました。"
+   },
+   {
+    "en": "What were you doing at noon?",
+    "ja": "お昼に何をしていましたか。"
+   },
+   {
+    "en": "It was raining when I got up.",
+    "ja": "私が起きたとき、雨が降っていました。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "I ___ taking a bath when you called.",
+    "ja": "あなたが電話してきたとき、私はお風呂に入っていました。",
+    "choices": [
+     "were",
+     "was",
+     "am",
+     "did"
+    ],
+    "a": 1,
+    "why": "過去のことで主語が I なので was ＋ -ing形にします。"
+   },
+   {
+    "q": "We were ___ lunch at noon.",
+    "ja": "私たちは正午に昼食を食べていました。",
+    "choices": [
+     "eat",
+     "ate",
+     "eating",
+     "eaten"
+    ],
+    "a": 2,
+    "why": "過去進行形は was・were の後ろに -ing形を置きます。"
+   },
+   {
+    "q": "___ they studying at that time?",
+    "ja": "彼らはそのとき勉強していましたか。",
+    "choices": [
+     "Was",
+     "Did",
+     "Do",
+     "Were"
+    ],
+    "a": 3,
+    "why": "主語が they の過去進行形の疑問文なので Were を前に出します。"
+   },
+   {
+    "q": "Ken ___ sleeping. He was reading.",
+    "ja": "ケンは寝ていませんでした。読書をしていました。",
+    "choices": [
+     "wasn't",
+     "didn't",
+     "weren't",
+     "isn't"
+    ],
+    "a": 0,
+    "why": "主語が3人称単数の過去進行形の否定文なので wasn't を使います。"
+   },
+   {
+    "q": "What ___ you doing at eight last night?",
+    "ja": "昨夜8時に何をしていましたか。",
+    "choices": [
+     "was",
+     "did",
+     "were",
+     "are"
+    ],
+    "a": 2,
+    "why": "last night の進行中の動作で主語が you なので were を使います。"
+   }
+  ]
+ },
+ {
+  "id": "g13",
+  "lv": 2,
+  "title": "未来の表現（will / be going to）",
+  "form": "主語 ＋ will ＋ 動詞の原形 ／ 主語 ＋ be動詞 ＋ going to ＋ 動詞の原形",
+  "point": "未来のことは will や be going to で表します。will はその場で決めたことや予想に、be going to は前から決めている予定や、今の様子から起こりそうなことによく使います。どちらも後ろの動詞は原形です。",
+  "tips": [
+   "I will → I'll、will not → won't と短縮できます。",
+   "be going to の be は、主語に合わせて am・is・are を使い分けます。",
+   "× She will goes. → ○ She will go."
+  ],
+  "ex": [
+   {
+    "en": "I'll call you tonight.",
+    "ja": "今夜、電話しますね。"
+   },
+   {
+    "en": "It will be sunny tomorrow.",
+    "ja": "明日は晴れるでしょう。"
+   },
+   {
+    "en": "We're going to visit Hawaii.",
+    "ja": "私たちはハワイを訪れる予定です。"
+   },
+   {
+    "en": "Are you going to take the test?",
+    "ja": "あなたはその試験を受けるつもりですか。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "It ___ rain tomorrow.",
+    "ja": "明日は雨が降るでしょう。",
+    "choices": [
+     "will",
+     "is",
+     "going",
+     "wills"
+    ],
+    "a": 0,
+    "why": "未来の予想は will ＋ 動詞の原形で表し、will の形は変わりません。"
+   },
+   {
+    "q": "Tom will ___ home soon.",
+    "ja": "トムはもうすぐ帰ってくるでしょう。",
+    "choices": [
+     "comes",
+     "came",
+     "come",
+     "coming"
+    ],
+    "a": 2,
+    "why": "will の後ろの動詞は原形です。"
+   },
+   {
+    "q": "I'm going ___ buy a new phone.",
+    "ja": "私は新しい電話を買うつもりです。",
+    "choices": [
+     "for",
+     "to",
+     "at",
+     "will"
+    ],
+    "a": 1,
+    "why": "be going to ＋ 動詞の原形で予定を表します。"
+   },
+   {
+    "q": "She ___ going to study abroad.",
+    "ja": "彼女は留学するつもりです。",
+    "choices": [
+     "are",
+     "will",
+     "am",
+     "is"
+    ],
+    "a": 3,
+    "why": "主語が she なので be going to の be は is です。"
+   },
+   {
+    "q": "I ___ be late. I promise.",
+    "ja": "遅れません。約束します。",
+    "choices": [
+     "don't",
+     "won't",
+     "am not",
+     "not"
+    ],
+    "a": 1,
+    "why": "will not の短縮形 won't ＋ 動詞の原形で「〜しない（つもり）」を表します。"
+   }
+  ]
+ },
+ {
+  "id": "g14",
+  "lv": 2,
+  "title": "助動詞（must / have to / should / may）",
+  "form": "主語 ＋ must（should / may） ＋ 動詞の原形 ／ 主語 ＋ have to（has to） ＋ 動詞の原形",
+  "point": "must と have to は「〜しなければならない」、should は「〜したほうがいい・〜すべきだ」、may は「〜してもよい」「〜かもしれない」を表します。どれも後ろの動詞は原形です。have to は、主語が3人称単数なら has to になります。",
+  "tips": [
+   "must not は「〜してはいけない」（禁止）、don't have to は「〜しなくてもよい」で、意味が大きく違います。",
+   "過去の「〜しなければならなかった」は had to で表します。",
+   "May I ...? は「〜してもよろしいですか」と、ていねいに許可を求める言い方です。"
+  ],
+  "ex": [
+   {
+    "en": "You must wear a seat belt.",
+    "ja": "シートベルトを締めなければなりません。"
+   },
+   {
+    "en": "Ken has to work on Saturday.",
+    "ja": "ケンは土曜日に働かなければなりません。"
+   },
+   {
+    "en": "You should see a doctor.",
+    "ja": "医者に診てもらったほうがいいですよ。"
+   },
+   {
+    "en": "May I sit here?",
+    "ja": "ここに座ってもよろしいですか。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "Amy ___ to get up early tomorrow.",
+    "ja": "エイミーは明日、早く起きなければなりません。",
+    "choices": [
+     "have",
+     "has",
+     "must",
+     "should"
+    ],
+    "a": 1,
+    "why": "後ろに to があり主語が3人称単数なので has to です。"
+   },
+   {
+    "q": "You ___ use your phone here.",
+    "ja": "ここで携帯電話を使ってはいけません。",
+    "choices": [
+     "must not",
+     "don't must",
+     "must not to",
+     "not must"
+    ],
+    "a": 0,
+    "why": "禁止は must not ＋ 動詞の原形で表します。"
+   },
+   {
+    "q": "You don't ___ come tomorrow.",
+    "ja": "明日は来なくてもいいですよ。",
+    "choices": [
+     "must",
+     "should",
+     "have to",
+     "may"
+    ],
+    "a": 2,
+    "why": "「〜しなくてもよい」は don't have to で表します。"
+   },
+   {
+    "q": "You should ___ more water.",
+    "ja": "水をもっと飲んだほうがいいですよ。",
+    "choices": [
+     "drinks",
+     "to drink",
+     "drinking",
+     "drink"
+    ],
+    "a": 3,
+    "why": "should の後ろの動詞は原形です。"
+   },
+   {
+    "q": "It ___ snow tonight.",
+    "ja": "今夜は雪が降るかもしれません。",
+    "choices": [
+     "must to",
+     "mays",
+     "may",
+     "has"
+    ],
+    "a": 2,
+    "why": "「〜かもしれない」は may ＋ 動詞の原形で、may の形は変わりません。"
+   }
+  ]
+ },
+ {
+  "id": "g15",
+  "lv": 2,
+  "title": "不定詞（to＋動詞の原形）",
+  "form": "動詞 ＋ to ＋ 動詞の原形（〜すること） ／ 名詞 ＋ to ＋ 動詞の原形（〜するための・〜すべき） ／ 文 ＋ to ＋ 動詞の原形（〜するために）",
+  "point": "〈to ＋ 動詞の原形〉を不定詞といいます。「〜すること」、「〜するための・〜すべき」、「〜するために」「〜して（うれしい）」などの意味になります。主語や時制に関係なく、to の後ろは必ず動詞の原形です。",
+  "tips": [
+   "want to・hope to・decide to など、後ろに不定詞をとる動詞をまとめて覚えましょう。",
+   "× She wants to goes. → ○ She wants to go.",
+   "something to drink（何か飲むもの）のように、名詞を後ろから説明できます。"
+  ],
+  "ex": [
+   {
+    "en": "I want to be a doctor.",
+    "ja": "私は医者になりたいです。"
+   },
+   {
+    "en": "I have a lot of homework to do.",
+    "ja": "やるべき宿題がたくさんあります。"
+   },
+   {
+    "en": "Ken went to the store to buy milk.",
+    "ja": "ケンは牛乳を買いに店へ行きました。"
+   },
+   {
+    "en": "I'm happy to see you.",
+    "ja": "あなたに会えてうれしいです。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "I want ___ Paris someday.",
+    "ja": "いつかパリを訪れたいです。",
+    "choices": [
+     "visit",
+     "to visit",
+     "visiting",
+     "visits"
+    ],
+    "a": 1,
+    "why": "want の後ろには不定詞 to ＋ 動詞の原形を続けます。"
+   },
+   {
+    "q": "She went to the park ___ tennis.",
+    "ja": "彼女はテニスをするために公園へ行きました。",
+    "choices": [
+     "play",
+     "played",
+     "to play",
+     "for play"
+    ],
+    "a": 2,
+    "why": "「〜するために」という目的は不定詞で表します。"
+   },
+   {
+    "q": "Do you have anything ___?",
+    "ja": "何か食べるものはありますか。",
+    "choices": [
+     "eat",
+     "eats",
+     "ate",
+     "to eat"
+    ],
+    "a": 3,
+    "why": "「食べるための何か」は anything の後ろに to eat を置きます。"
+   },
+   {
+    "q": "We were glad ___ the news.",
+    "ja": "私たちはその知らせを聞いてうれしかったです。",
+    "choices": [
+     "to hear",
+     "hear",
+     "heard",
+     "hearing"
+    ],
+    "a": 0,
+    "why": "感情の原因「〜して」は glad の後ろに不定詞を置きます。"
+   },
+   {
+    "q": "Tom decided ___ harder.",
+    "ja": "トムはもっと一生懸命勉強しようと決めました。",
+    "choices": [
+     "study",
+     "to study",
+     "studying",
+     "studies"
+    ],
+    "a": 1,
+    "why": "decide の後ろには動名詞ではなく不定詞が続きます。"
+   }
+  ]
+ },
+ {
+  "id": "g16",
+  "lv": 2,
+  "title": "動名詞（-ing）と不定詞の使い分け",
+  "form": "動詞 ＋ 動詞の-ing形 ／ 動詞 ＋ to ＋ 動詞の原形 ／ 前置詞 ＋ 動詞の-ing形",
+  "point": "動詞の-ing形は「〜すること」という意味で名詞のように使えます。これを動名詞といいます。enjoy・finish・stop などの後ろには動名詞だけ、want・hope・decide などの後ろには不定詞だけが続きます。like・start・begin はどちらも使え、前置詞の後ろには動名詞を置きます。",
+  "tips": [
+   "動名詞だけをとる動詞：enjoy、finish、stop、mind、give up",
+   "不定詞だけをとる動詞：want、hope、decide、plan、need",
+   "stop talking は「話すのをやめる」、stop to talk は「話すために立ち止まる」で意味が違います。"
+  ],
+  "ex": [
+   {
+    "en": "I enjoy cooking on weekends.",
+    "ja": "私は週末に料理をするのを楽しんでいます。"
+   },
+   {
+    "en": "Reading books is fun.",
+    "ja": "本を読むことは楽しいです。"
+   },
+   {
+    "en": "He finished writing the report.",
+    "ja": "彼は報告書を書き終えました。"
+   },
+   {
+    "en": "Thank you for coming today.",
+    "ja": "今日は来てくれてありがとう。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "We enjoyed ___ in the sea.",
+    "ja": "私たちは海で泳ぐのを楽しみました。",
+    "choices": [
+     "to swim",
+     "swimming",
+     "swim",
+     "swam"
+    ],
+    "a": 1,
+    "why": "enjoy の後ろには動名詞を続けます。"
+   },
+   {
+    "q": "I hope ___ you again soon.",
+    "ja": "またすぐにお会いできるといいです。",
+    "choices": [
+     "seeing",
+     "see",
+     "to see",
+     "saw"
+    ],
+    "a": 2,
+    "why": "hope の後ろには不定詞を続けます。"
+   },
+   {
+    "q": "Ken is good at ___ pictures.",
+    "ja": "ケンは絵を描くのが得意です。",
+    "choices": [
+     "draw",
+     "to draw",
+     "drew",
+     "drawing"
+    ],
+    "a": 3,
+    "why": "前置詞 at の後ろには動名詞を置きます。"
+   },
+   {
+    "q": "Did you finish ___ the book?",
+    "ja": "その本は読み終えましたか。",
+    "choices": [
+     "reading",
+     "to read",
+     "read",
+     "reads"
+    ],
+    "a": 0,
+    "why": "finish の後ろには動名詞を続けます。"
+   },
+   {
+    "q": "She decided ___ for a new job.",
+    "ja": "彼女は新しい仕事を探すことに決めました。",
+    "choices": [
+     "looking",
+     "to look",
+     "look",
+     "looked"
+    ],
+    "a": 1,
+    "why": "decide の後ろには不定詞を続けます。"
+   }
+  ]
+ },
+ {
+  "id": "g17",
+  "lv": 2,
+  "title": "比較（-er / -est、more / most、as ... as）",
+  "form": "A ＋ be動詞 ＋ 形容詞-er ＋ than ＋ B ／ A ＋ be動詞 ＋ the ＋ 形容詞-est ＋ in（of） ... ／ more（most） ＋ 長い形容詞 ／ A ＋ be動詞 ＋ as ＋ 形容詞 ＋ as ＋ B",
+  "point": "2つを比べて「〜より…だ」と言うときは〈-er than〉、3つ以上の中で「いちばん…だ」と言うときは〈the -est〉を使います。beautiful のような長い語は、前に more・most を置きます。〈as ... as〉は「〜と同じくらい…」、not as ... as は「〜ほど…ない」という意味です。",
+  "tips": [
+   "good → better → best、bad → worse → worst は不規則に変化します。",
+   "big → bigger、easy → easier のように、つづりが変わる語があります。",
+   "「〜の中で」は、範囲・場所なら in（in my class）、複数の仲間なら of（of the three）を使います。"
+  ],
+  "ex": [
+   {
+    "en": "Tom is taller than Ken.",
+    "ja": "トムはケンより背が高いです。"
+   },
+   {
+    "en": "This is the biggest park in our city.",
+    "ja": "ここは私たちの市でいちばん大きな公園です。"
+   },
+   {
+    "en": "This book is more interesting than that one.",
+    "ja": "この本はあの本よりおもしろいです。"
+   },
+   {
+    "en": "I'm not as busy as Amy.",
+    "ja": "私はエイミーほど忙しくありません。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "My bag is ___ than yours.",
+    "ja": "私のかばんはあなたのより重いです。",
+    "choices": [
+     "heavyer",
+     "heavier",
+     "more heavy",
+     "heaviest"
+    ],
+    "a": 1,
+    "why": "heavy は y を i に変えて -er を付け、heavier になります。"
+   },
+   {
+    "q": "Mt. Fuji is the ___ mountain in Japan.",
+    "ja": "富士山は日本でいちばん高い山です。",
+    "choices": [
+     "high",
+     "higher",
+     "highest",
+     "most high"
+    ],
+    "a": 2,
+    "why": "「いちばん〜」は the ＋ -est形で表します。"
+   },
+   {
+    "q": "This question is ___ difficult than that one.",
+    "ja": "この問題はあの問題より難しいです。",
+    "choices": [
+     "most",
+     "very",
+     "as",
+     "more"
+    ],
+    "a": 3,
+    "why": "difficult は長い語なので、than の前では more を使います。"
+   },
+   {
+    "q": "Ken runs as ___ as Tom.",
+    "ja": "ケンはトムと同じくらい速く走ります。",
+    "choices": [
+     "fast",
+     "faster",
+     "fastest",
+     "more fast"
+    ],
+    "a": 0,
+    "why": "as ... as の間には、もとの形（原級）を入れます。"
+   },
+   {
+    "q": "This is the ___ movie of the year.",
+    "ja": "これは今年いちばんの映画です。",
+    "choices": [
+     "goodest",
+     "best",
+     "better",
+     "most good"
+    ],
+    "a": 1,
+    "why": "good の最上級は不規則で best です。"
+   }
+  ]
+ },
+ {
+  "id": "g18",
+  "lv": 2,
+  "title": "接続詞（when / if / because / that）",
+  "form": "文 ＋ when（if・because） ＋ 主語 ＋ 動詞 ／ When（If） ＋ 主語 ＋ 動詞, ＋ 文 ／ 主語 ＋ think（know など） ＋ that ＋ 主語 ＋ 動詞",
+  "point": "接続詞は、文と文をつなぐ言葉です。when は「〜するとき」、if は「もし〜なら」、because は「〜なので」という意味です。that は think・know などの後ろで「〜ということ」を表し、会話ではよく省略されます。",
+  "tips": [
+   "when や if の後ろでは、未来のことでも現在形を使います（× If it will rain → ○ If it rains）。",
+   "When ... や If ... を文の前半に置くときは、区切りにコンマを付けます。",
+   "because of の後ろには名詞、because の後ろには〈主語＋動詞〉が続きます。"
+  ],
+  "ex": [
+   {
+    "en": "I was sleeping when you called.",
+    "ja": "あなたが電話したとき、私は寝ていました。"
+   },
+   {
+    "en": "If you're tired, take a rest.",
+    "ja": "疲れているなら、休みなさい。"
+   },
+   {
+    "en": "I stayed home because I had a cold.",
+    "ja": "風邪をひいていたので、家にいました。"
+   },
+   {
+    "en": "I think that Amy is right.",
+    "ja": "エイミーは正しいと思います。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "If it ___ tomorrow, we'll stay home.",
+    "ja": "明日雨が降ったら、私たちは家にいます。",
+    "choices": [
+     "will rain",
+     "rains",
+     "rain",
+     "raining"
+    ],
+    "a": 1,
+    "why": "if の後ろでは未来のことでも現在形を使い、主語が it なので rains です。"
+   },
+   {
+    "q": "I like Ken ___ he is kind.",
+    "ja": "ケンは優しいので好きです。",
+    "choices": [
+     "because of",
+     "because",
+     "why",
+     "reason"
+    ],
+    "a": 1,
+    "why": "後ろに〈主語＋動詞〉が続く理由は because で表します。"
+   },
+   {
+    "q": "I think ___ this plan is good.",
+    "ja": "この計画はよいと思います。",
+    "choices": [
+     "what",
+     "that",
+     "it",
+     "which"
+    ],
+    "a": 1,
+    "why": "think の後ろで「〜ということ」を表すのは that です。"
+   },
+   {
+    "q": "Call me ___ you get home.",
+    "ja": "家に着いたら電話してね。",
+    "choices": [
+     "during",
+     "at",
+     "in",
+     "when"
+    ],
+    "a": 3,
+    "why": "〈主語＋動詞〉をつないで「〜したとき」を表すのは when です。"
+   },
+   {
+    "q": "___ I was young, I lived in Kobe.",
+    "ja": "若いころ、私は神戸に住んでいました。",
+    "choices": [
+     "When",
+     "During",
+     "Because of",
+     "What"
+    ],
+    "a": 0,
+    "why": "during は後ろに名詞が来るので、〈主語＋動詞〉の前では When を使います。"
+   }
+  ]
+ },
+ {
+  "id": "g19",
+  "lv": 2,
+  "title": "There is / There are",
+  "form": "There ＋ be動詞 ＋ 名詞（主語）＋ 場所など ／ be動詞 ＋ there ＋ 名詞 ...?",
+  "point": "「〜がある・〜がいる」と、聞き手にとって新しい物や人の存在を伝える表現です。be動詞は後ろの名詞に合わせ、単数ならis、複数ならareを使います。疑問文はbe動詞をthereの前に出し、否定文はbe動詞の後にnotを置きます。",
+  "tips": [
+   "特定の物（the book, my bag）には使わず、My bag is on the desk. のように言います。",
+   "数えられない名詞は単数扱い：There is some milk in the fridge.",
+   "過去は There was / were、未来は There will be となります。"
+  ],
+  "ex": [
+   {
+    "en": "There is a cat under the table.",
+    "ja": "テーブルの下に猫がいます。"
+   },
+   {
+    "en": "There are three parks near my house.",
+    "ja": "家の近くに公園が3つあります。"
+   },
+   {
+    "en": "Is there a bank around here?",
+    "ja": "この辺りに銀行はありますか。"
+   },
+   {
+    "en": "There wasn't any milk in the fridge.",
+    "ja": "冷蔵庫に牛乳がありませんでした。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "There ___ two books on the desk.",
+    "ja": "机の上に本が2冊あります。",
+    "choices": [
+     "is",
+     "are",
+     "be",
+     "has"
+    ],
+    "a": 1,
+    "why": "two books は複数なので are を使います。"
+   },
+   {
+    "q": "There ___ some water in the bottle.",
+    "ja": "ボトルに水が少し入っています。",
+    "choices": [
+     "are",
+     "have",
+     "is",
+     "were"
+    ],
+    "a": 2,
+    "why": "water は数えられない名詞なので単数扱いの is です。"
+   },
+   {
+    "q": "___ there a post office near here?",
+    "ja": "この近くに郵便局はありますか。",
+    "choices": [
+     "Is",
+     "Are",
+     "Does",
+     "Do"
+    ],
+    "a": 0,
+    "why": "a post office は単数なので Is there ...? の形にします。"
+   },
+   {
+    "q": "There ___ a lot of people at the party last night.",
+    "ja": "昨夜のパーティーには大勢の人がいました。",
+    "choices": [
+     "was",
+     "is",
+     "were",
+     "are"
+    ],
+    "a": 2,
+    "why": "last night で過去、people は複数なので were です。"
+   },
+   {
+    "q": "There ___ be a test tomorrow.",
+    "ja": "明日テストがあります。",
+    "choices": [
+     "is",
+     "are",
+     "has",
+     "will"
+    ],
+    "a": 3,
+    "why": "未来のことは There will be ＋名詞 で表します。"
+   }
+  ]
+ },
+ {
+  "id": "g20",
+  "lv": 2,
+  "title": "受け身（be動詞＋過去分詞）",
+  "form": "主語 ＋ be動詞 ＋ 過去分詞（＋ by ＋ 行為者）",
+  "point": "「〜される・〜された」と、動作を受ける側を主語にする文です。時制はbe動詞で表し、行為者を示したいときだけ by ＋ 行為者を加えます。行為者が不明なとき、言わなくてもわかるとき、重要でないときによく使われます。",
+  "tips": [
+   "過去分詞の不規則変化に注意：write → written、build → built",
+   "by 以外の前置詞をとる表現もあります：be interested in、be covered with",
+   "助動詞の後は be ＋ 過去分詞：It can be seen."
+  ],
+  "ex": [
+   {
+    "en": "This temple was built in 1650.",
+    "ja": "このお寺は1650年に建てられました。"
+   },
+   {
+    "en": "English is spoken in many countries.",
+    "ja": "英語は多くの国で話されています。"
+   },
+   {
+    "en": "The window was broken by Tom.",
+    "ja": "窓はトムに割られました。"
+   },
+   {
+    "en": "The meeting will be held next Monday.",
+    "ja": "会議は来週の月曜日に開かれます。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "This book was ___ by a famous writer.",
+    "ja": "この本は有名な作家によって書かれました。",
+    "choices": [
+     "write",
+     "wrote",
+     "written",
+     "writing"
+    ],
+    "a": 2,
+    "why": "受け身は be動詞 ＋ 過去分詞なので written です。"
+   },
+   {
+    "q": "The room ___ cleaned every day.",
+    "ja": "その部屋は毎日掃除されます。",
+    "choices": [
+     "is",
+     "does",
+     "has",
+     "be"
+    ],
+    "a": 0,
+    "why": "現在の習慣的な受け身なので is ＋ 過去分詞です。"
+   },
+   {
+    "q": "Many stars can ___ seen from here.",
+    "ja": "ここから多くの星が見えます。",
+    "choices": [
+     "are",
+     "been",
+     "being",
+     "be"
+    ],
+    "a": 3,
+    "why": "助動詞の後は原形なので be seen になります。"
+   },
+   {
+    "q": "The bridge ___ built ten years ago.",
+    "ja": "この橋は10年前に建てられました。",
+    "choices": [
+     "is",
+     "were",
+     "has",
+     "was"
+    ],
+    "a": 3,
+    "why": "ten years ago は過去で主語は単数なので was です。"
+   },
+   {
+    "q": "Was this photo ___ by Yuki?",
+    "ja": "この写真はユキが撮ったのですか。",
+    "choices": [
+     "take",
+     "taken",
+     "took",
+     "taking"
+    ],
+    "a": 1,
+    "why": "受け身の疑問文でも be動詞 ＋ 過去分詞の taken を使います。"
+   }
+  ]
+ },
+ {
+  "id": "g21",
+  "lv": 2,
+  "title": "現在完了（経験・継続・完了）",
+  "form": "主語 ＋ have / has ＋ 過去分詞 ／ 主語 ＋ have / has ＋ not ＋ 過去分詞 ／ Have / Has ＋ 主語 ＋ 過去分詞 ...?",
+  "point": "過去の出来事が現在とつながっていることを表す形です。「〜したことがある（経験）」「ずっと〜している（継続）」「〜したところだ・〜してしまった（完了）」の3つの意味があります。主語が三人称単数なら has を使います。",
+  "tips": [
+   "yesterday、last week、ago など過去の一点を示す語とは一緒に使えません。",
+   "継続の for は期間、since は起点：for three years ／ since 2020",
+   "経験は ever・never・before、完了は just・already・yet とよく使います。"
+  ],
+  "ex": [
+   {
+    "en": "I have been to Kyoto twice.",
+    "ja": "私は京都に2回行ったことがあります。"
+   },
+   {
+    "en": "Amy has lived in Tokyo since 2020.",
+    "ja": "エイミーは2020年から東京に住んでいます。"
+   },
+   {
+    "en": "I've just finished my homework.",
+    "ja": "ちょうど宿題を終えたところです。"
+   },
+   {
+    "en": "Have you ever seen a koala?",
+    "ja": "コアラを見たことがありますか。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "I have ___ this movie three times.",
+    "ja": "この映画を3回見たことがあります。",
+    "choices": [
+     "see",
+     "saw",
+     "seen",
+     "seeing"
+    ],
+    "a": 2,
+    "why": "have の後は過去分詞の seen です。"
+   },
+   {
+    "q": "Ken has known Yuki ___ ten years.",
+    "ja": "ケンはユキと10年来の知り合いです。",
+    "choices": [
+     "since",
+     "for",
+     "ago",
+     "during"
+    ],
+    "a": 1,
+    "why": "ten years は期間なので for を使います。"
+   },
+   {
+    "q": "We ___ in this town since 2015.",
+    "ja": "私たちは2015年からこの町に住んでいます。",
+    "choices": [
+     "have lived",
+     "live",
+     "lived",
+     "are living"
+    ],
+    "a": 0,
+    "why": "since 2015 から今まで続く継続なので現在完了です。"
+   },
+   {
+    "q": "I ___ Kyoto last year.",
+    "ja": "私は去年京都を訪れました。",
+    "choices": [
+     "have visited",
+     "visited",
+     "have visit",
+     "visiting"
+    ],
+    "a": 1,
+    "why": "last year は過去の一点なので現在完了ではなく過去形です。"
+   },
+   {
+    "q": "Have you ever ___ to Okinawa?",
+    "ja": "沖縄に行ったことがありますか。",
+    "choices": [
+     "go",
+     "went",
+     "going",
+     "been"
+    ],
+    "a": 3,
+    "why": "「行ったことがある」は have been to で表します。"
+   }
+  ]
+ },
+ {
+  "id": "g22",
+  "lv": 2,
+  "title": "関係代名詞（who / which / that）",
+  "form": "先行詞（人）＋ who ＋ 動詞 ... ／ 先行詞（物）＋ which ＋ 動詞 ... ／ 先行詞 ＋（that / which / who）＋ 主語 ＋ 動詞（目的格）",
+  "point": "関係代名詞は名詞（先行詞）の後ろに文をつなげ、「〜する人」「〜な物」と説明を加えます。先行詞が人なら who、物なら which を使い、that はどちらにも使えます。関係代名詞が後ろの文の目的語にあたるときは、省略することがよくあります。",
+  "tips": [
+   "主格の後の動詞は先行詞に合わせます：a girl who lives ／ girls who live",
+   "目的格は省略可能：the book (that) I bought",
+   "関係詞節の中で目的語を重ねない：× the book that I bought it"
+  ],
+  "ex": [
+   {
+    "en": "I have a friend who lives in Canada.",
+    "ja": "私にはカナダに住んでいる友達がいます。"
+   },
+   {
+    "en": "This is the bag which I bought yesterday.",
+    "ja": "これが昨日買ったバッグです。"
+   },
+   {
+    "en": "The man that you met is my uncle.",
+    "ja": "あなたが会った男性は私のおじです。"
+   },
+   {
+    "en": "Ken ate the cake Amy made.",
+    "ja": "ケンはエイミーが作ったケーキを食べました。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "I know a boy ___ can speak three languages.",
+    "ja": "私は3か国語を話せる男の子を知っています。",
+    "choices": [
+     "which",
+     "who",
+     "what",
+     "whose"
+    ],
+    "a": 1,
+    "why": "先行詞 a boy は人なので who を使います。"
+   },
+   {
+    "q": "This is the train ___ goes to Osaka.",
+    "ja": "これは大阪へ行く電車です。",
+    "choices": [
+     "who",
+     "where",
+     "which",
+     "what"
+    ],
+    "a": 2,
+    "why": "先行詞 the train は物で、後ろに主語がないので which です。"
+   },
+   {
+    "q": "The book that I bought ___ very interesting.",
+    "ja": "私が買った本はとても面白いです。",
+    "choices": [
+     "are",
+     "were",
+     "it is",
+     "is"
+    ],
+    "a": 3,
+    "why": "文の主語は単数の The book なので is です。"
+   },
+   {
+    "q": "The movie ___ we saw last night was great.",
+    "ja": "昨夜見た映画は最高でした。",
+    "choices": [
+     "that",
+     "who",
+     "what",
+     "it"
+    ],
+    "a": 0,
+    "why": "物を先行詞とする目的格なので that を使います。"
+   },
+   {
+    "q": "I have an uncle who ___ in Kobe.",
+    "ja": "私には神戸に住んでいるおじがいます。",
+    "choices": [
+     "live",
+     "living",
+     "to live",
+     "lives"
+    ],
+    "a": 3,
+    "why": "who の後の動詞は単数の先行詞 an uncle に合わせて lives です。"
+   }
+  ]
+ },
+ {
+  "id": "g23",
+  "lv": 2,
+  "title": "間接疑問文（I know where he lives.）",
+  "form": "主語 ＋ 動詞 ＋ 疑問詞 ＋ 主語 ＋ 動詞 ／ 主語 ＋ 動詞 ＋ if / whether ＋ 主語 ＋ 動詞",
+  "point": "疑問文が別の文の一部に入ると、疑問詞の後は「主語 ＋ 動詞」のふつうの語順になります。Where does he live? が I know where he lives. になるように、do や does は消え、動詞の形が主語と時制に合わせて変わります。疑問詞のない Yes / No 疑問文は if または whether でつなぎます。",
+  "tips": [
+   "× I don't know where does he live. は典型的な誤りです。",
+   "Do you know ...? の文全体は疑問文でも、中の部分はふつうの語順です。",
+   "疑問詞が主語のときはそのまま：I know who broke the window."
+  ],
+  "ex": [
+   {
+    "en": "I know where he lives.",
+    "ja": "彼がどこに住んでいるか知っています。"
+   },
+   {
+    "en": "Do you know what time it is?",
+    "ja": "今何時かわかりますか。"
+   },
+   {
+    "en": "I wonder why Amy is late.",
+    "ja": "エイミーはなぜ遅れているのだろう。"
+   },
+   {
+    "en": "Can you tell me if this bus goes to the station?",
+    "ja": "このバスが駅へ行くかどうか教えてもらえますか。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "I don't know where ___.",
+    "ja": "彼女がどこに住んでいるか知りません。",
+    "choices": [
+     "does she live",
+     "she lives",
+     "she live",
+     "lives she"
+    ],
+    "a": 1,
+    "why": "間接疑問文では疑問詞の後を「主語 ＋ 動詞」の語順にします。"
+   },
+   {
+    "q": "Can you tell me what time ___?",
+    "ja": "映画が何時に始まるか教えてもらえますか。",
+    "choices": [
+     "the movie starts",
+     "does the movie start",
+     "the movie start",
+     "starts the movie"
+    ],
+    "a": 0,
+    "why": "does は使わず、主語 ＋ 動詞（三単現の s）の語順にします。"
+   },
+   {
+    "q": "I'm not sure ___ Ken will come to the party.",
+    "ja": "ケンがパーティーに来るかどうかわかりません。",
+    "choices": [
+     "what",
+     "which",
+     "if",
+     "who"
+    ],
+    "a": 2,
+    "why": "「〜かどうか」は if（または whether）でつなぎます。"
+   },
+   {
+    "q": "I wonder why ___ so angry.",
+    "ja": "トムはなぜあんなに怒っているのだろう。",
+    "choices": [
+     "is Tom",
+     "does Tom",
+     "Tom does",
+     "Tom is"
+    ],
+    "a": 3,
+    "why": "why の後は「主語 ＋ be動詞」の語順になります。"
+   },
+   {
+    "q": "Do you know who ___ this picture?",
+    "ja": "誰がこの絵を描いたか知っていますか。",
+    "choices": [
+     "painted",
+     "did he paint",
+     "did painted",
+     "painting"
+    ],
+    "a": 0,
+    "why": "疑問詞 who が主語なので、そのまま「who ＋ 動詞」の語順です。"
+   }
+  ]
+ },
+ {
+  "id": "g24",
+  "lv": 2,
+  "title": "目的語を2つとる文・補語をとる文",
+  "form": "主語 ＋ 動詞 ＋ 目的語（人）＋ 目的語（物）／ 主語 ＋ 動詞 ＋ 目的語（物）＋ to / for ＋ 人 ／ 主語 ＋ 動詞 ＋ 目的語 ＋ 補語（形容詞・名詞）",
+  "point": "give、show、tell、buy などは「人に物を」と目的語を2つとれます。物を先に言うときは give 物 to 人、buy 物 for 人 のように前置詞を使います。make、keep、call、name などは目的語の後に補語を置き、「目的語を〜（の状態）にする」「目的語を〜と呼ぶ」を表します。",
+  "tips": [
+   "to をとる動詞：give、show、send、tell ／ for をとる動詞：buy、make、cook、get",
+   "補語には副詞ではなく形容詞を使います：× make me happily → ○ make me happy",
+   "call A B は「A を B と呼ぶ」：We call him Ken-chan."
+  ],
+  "ex": [
+   {
+    "en": "Tom gave me a nice watch.",
+    "ja": "トムは私にすてきな腕時計をくれました。"
+   },
+   {
+    "en": "Could you show me the photos?",
+    "ja": "写真を見せてもらえますか。"
+   },
+   {
+    "en": "This song always makes me happy.",
+    "ja": "この歌を聞くといつも幸せな気持ちになります。"
+   },
+   {
+    "en": "We call our dog Max.",
+    "ja": "私たちは犬をマックスと呼んでいます。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "My father bought a bike ___ me.",
+    "ja": "父が私に自転車を買ってくれました。",
+    "choices": [
+     "to",
+     "for",
+     "with",
+     "at"
+    ],
+    "a": 1,
+    "why": "buy は「人のために」の for をとる動詞です。"
+   },
+   {
+    "q": "Please keep the door ___.",
+    "ja": "ドアを閉めたままにしておいてください。",
+    "choices": [
+     "to close",
+     "closing",
+     "closely",
+     "closed"
+    ],
+    "a": 3,
+    "why": "「ドアが閉められた状態」なので補語は過去分詞の closed です。"
+   },
+   {
+    "q": "Amy showed ___ her new phone.",
+    "ja": "エイミーは私たちに新しい電話を見せてくれました。",
+    "choices": [
+     "we",
+     "our",
+     "us",
+     "to us"
+    ],
+    "a": 2,
+    "why": "show 人 物 の「人」は目的格の us です。"
+   },
+   {
+    "q": "His words made Yuki ___.",
+    "ja": "彼の言葉でユキは悲しくなりました。",
+    "choices": [
+     "sad",
+     "sadly",
+     "sadness",
+     "to sad"
+    ],
+    "a": 0,
+    "why": "make 人 ＋ 形容詞 で「人を〜にする」なので sad です。"
+   },
+   {
+    "q": "Ken told ___ the truth.",
+    "ja": "ケンは私に本当のことを話しました。",
+    "choices": [
+     "to me",
+     "me",
+     "for me",
+     "my"
+    ],
+    "a": 1,
+    "why": "tell 人 物 の語順では人の前に前置詞は不要です。"
+   }
+  ]
+ },
+ {
+  "id": "g25",
+  "lv": 3,
+  "title": "現在完了進行形と過去完了",
+  "form": "主語 ＋ have / has ＋ been ＋ 動詞のing形 ／ 主語 ＋ had ＋ 過去分詞",
+  "point": "現在完了進行形は、過去に始まった動作が今まで続いていることを「ずっと〜している」と表します。過去完了は、過去のある時点よりさらに前の出来事や、その時点までの経験・継続・完了を表します。2つの過去の出来事の前後関係をはっきりさせたいときに便利です。",
+  "tips": [
+   "know、like、have（持っている）などの状態動詞は進行形にせず現在完了にします：I've known him for years.",
+   "When I arrived, the train had left.（着いたときには出ていた）と the train left（着いてから出た）は意味が違います。",
+   "before / after で順序が明らかなら、過去形で済ませることもよくあります。"
+  ],
+  "ex": [
+   {
+    "en": "I've been studying English for two hours.",
+    "ja": "2時間ずっと英語を勉強しています。"
+   },
+   {
+    "en": "It has been raining since this morning.",
+    "ja": "今朝からずっと雨が降っています。"
+   },
+   {
+    "en": "When we got to the station, the train had already left.",
+    "ja": "駅に着いたとき、電車はもう出ていました。"
+   },
+   {
+    "en": "Amy had never seen snow before she came to Japan.",
+    "ja": "エイミーは日本に来るまで雪を見たことがありませんでした。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "Ken has been ___ the guitar since noon.",
+    "ja": "ケンは正午からずっとギターを弾いています。",
+    "choices": [
+     "play",
+     "played",
+     "playing",
+     "plays"
+    ],
+    "a": 2,
+    "why": "現在完了進行形は have / has been ＋ ing形です。"
+   },
+   {
+    "q": "I ___ him since we were children.",
+    "ja": "私は子どものころから彼を知っています。",
+    "choices": [
+     "have known",
+     "have been knowing",
+     "know",
+     "knew"
+    ],
+    "a": 0,
+    "why": "know は状態動詞なので進行形にせず現在完了にします。"
+   },
+   {
+    "q": "When I got home, my sister had already ___ dinner.",
+    "ja": "私が帰宅したとき、妹はもう夕食を済ませていました。",
+    "choices": [
+     "ate",
+     "eaten",
+     "eat",
+     "eating"
+    ],
+    "a": 1,
+    "why": "過去完了は had ＋ 過去分詞なので eaten です。"
+   },
+   {
+    "q": "Tom lost the watch his father ___ him.",
+    "ja": "トムは父親がくれた腕時計をなくしました。",
+    "choices": [
+     "has given",
+     "had given",
+     "gives",
+     "has been giving"
+    ],
+    "a": 1,
+    "why": "なくした時点より前にもらっているので過去完了です。"
+   },
+   {
+    "q": "How long ___ you been waiting?",
+    "ja": "どのくらい待っていますか。",
+    "choices": [
+     "are",
+     "did",
+     "were",
+     "have"
+    ],
+    "a": 3,
+    "why": "今まで続いている動作なので have been ＋ ing形です。"
+   }
+  ]
+ },
+ {
+  "id": "g26",
+  "lv": 3,
+  "title": "分詞の形容詞的用法（the boy playing tennis / a broken window）",
+  "form": "動詞のing形 ＋ 名詞 ／ 名詞 ＋ 動詞のing形 ＋ 語句 ／ 過去分詞 ＋ 名詞 ／ 名詞 ＋ 過去分詞 ＋ 語句",
+  "point": "分詞は形容詞のように名詞を説明できます。現在分詞（ing形）は「〜している」という能動・進行、過去分詞は「〜された」という受け身を表します。分詞1語なら名詞の前、語句を伴うときは名詞の後ろに置くのが基本です。",
+  "tips": [
+   "感情を表す分詞：an exciting game（わくわくさせる試合）／ excited fans（わくわくしたファン）",
+   "the boy playing tennis は the boy who is playing tennis と同じ意味です。",
+   "fallen leaves（落ち葉）のように、自動詞の過去分詞は「〜した」という完了を表します。"
+  ],
+  "ex": [
+   {
+    "en": "Who is the boy playing tennis over there?",
+    "ja": "あそこでテニスをしている男の子は誰ですか。"
+   },
+   {
+    "en": "Be careful of the broken window.",
+    "ja": "割れた窓に気をつけてください。"
+   },
+   {
+    "en": "I read a book written in simple English.",
+    "ja": "やさしい英語で書かれた本を読みました。"
+   },
+   {
+    "en": "Look at that sleeping baby.",
+    "ja": "あの眠っている赤ちゃんを見て。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "The girl ___ with Ken is his sister.",
+    "ja": "ケンと話している女の子は彼の妹です。",
+    "choices": [
+     "talking",
+     "talks",
+     "talked",
+     "to talk"
+    ],
+    "a": 0,
+    "why": "「〜している」と能動・進行を表すので現在分詞です。"
+   },
+   {
+    "q": "This is a car ___ in Germany.",
+    "ja": "これはドイツで作られた車です。",
+    "choices": [
+     "making",
+     "makes",
+     "made",
+     "make"
+    ],
+    "a": 2,
+    "why": "車は「作られた」側なので過去分詞の made です。"
+   },
+   {
+    "q": "The game was really ___.",
+    "ja": "その試合は本当にわくわくするものでした。",
+    "choices": [
+     "excite",
+     "excited",
+     "excitement",
+     "exciting"
+    ],
+    "a": 3,
+    "why": "試合は人をわくわくさせる側なので exciting です。"
+   },
+   {
+    "q": "Yuki has a dog ___ Shiro.",
+    "ja": "ユキはシロという名前の犬を飼っています。",
+    "choices": [
+     "naming",
+     "named",
+     "names",
+     "to name"
+    ],
+    "a": 1,
+    "why": "犬は「名づけられた」側なので過去分詞の named です。"
+   },
+   {
+    "q": "The people ___ at the bus stop looked cold.",
+    "ja": "バス停で待っている人たちは寒そうでした。",
+    "choices": [
+     "waited",
+     "wait",
+     "waiting",
+     "were waiting"
+    ],
+    "a": 2,
+    "why": "「待っている人たち」と名詞を後ろから説明するので現在分詞です。"
+   }
+  ]
+ },
+ {
+  "id": "g27",
+  "lv": 3,
+  "title": "分詞構文",
+  "form": "動詞のing形 ＋ 語句, 主語 ＋ 動詞 ... ／ 過去分詞 ＋ 語句, 主語 ＋ 動詞 ... ／ Not ＋ 動詞のing形 ＋ 語句, 主語 ＋ 動詞 ...",
+  "point": "分詞で始まる語句が、文全体に「〜するとき」「〜なので」「〜しながら」などの意味を添える形です。接続詞と主語を省いた形と考えるとわかりやすく、分詞の意味上の主語は原則として文の主語と同じです。主に書き言葉で使われ、会話では接続詞を使った文がふつうです。",
+  "tips": [
+   "受け身の意味なら過去分詞で始めます：Seen from the sky, the island looks like a heart.",
+   "否定は not を分詞の前に置きます：Not knowing what to do, ...",
+   "分詞と文の主語がずれる誤りに注意：× Walking home, the rain started."
+  ],
+  "ex": [
+   {
+    "en": "Walking along the beach, I found a pretty shell.",
+    "ja": "浜辺を歩いていて、きれいな貝殻を見つけました。"
+   },
+   {
+    "en": "Feeling tired, Amy went to bed early.",
+    "ja": "疲れていたので、エイミーは早く寝ました。"
+   },
+   {
+    "en": "Written in easy English, this book is good for beginners.",
+    "ja": "やさしい英語で書かれているので、この本は初心者に向いています。"
+   },
+   {
+    "en": "Not knowing what to say, Ken just smiled.",
+    "ja": "何と言えばいいかわからず、ケンはただほほえみました。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "___ the news, she started to cry.",
+    "ja": "その知らせを聞いて、彼女は泣き出しました。",
+    "choices": [
+     "Hear",
+     "Heard",
+     "Hearing",
+     "To hearing"
+    ],
+    "a": 2,
+    "why": "彼女が「聞いた」という能動の意味なので現在分詞で始めます。"
+   },
+   {
+    "q": "___ from the hill, the town looks beautiful.",
+    "ja": "丘から見ると、町は美しく見えます。",
+    "choices": [
+     "Seeing",
+     "Seen",
+     "See",
+     "Saw"
+    ],
+    "a": 1,
+    "why": "町は「見られる」側なので過去分詞の Seen です。"
+   },
+   {
+    "q": "___ what to do, I called my mother.",
+    "ja": "どうすればいいかわからなかったので、母に電話しました。",
+    "choices": [
+     "Not knowing",
+     "Knowing not",
+     "Don't know",
+     "Not known"
+    ],
+    "a": 0,
+    "why": "分詞構文の否定は not を分詞の前に置きます。"
+   },
+   {
+    "q": "Tom sat on the sofa, ___ TV.",
+    "ja": "トムはテレビを見ながらソファーに座っていました。",
+    "choices": [
+     "watched",
+     "watches",
+     "to watching",
+     "watching"
+    ],
+    "a": 3,
+    "why": "「〜しながら」と同時の動作を表すので現在分詞です。"
+   },
+   {
+    "q": "___ in 1900, this hotel is the oldest in town.",
+    "ja": "1900年に建てられたこのホテルは、町でいちばん古いです。",
+    "choices": [
+     "Building",
+     "Built",
+     "Builds",
+     "Being building"
+    ],
+    "a": 1,
+    "why": "ホテルは「建てられた」側なので過去分詞の Built です。"
+   }
+  ]
+ },
+ {
+  "id": "g28",
+  "lv": 3,
+  "title": "関係副詞（where / when / why / how）と関係代名詞 what",
+  "form": "先行詞（場所）＋ where ＋ 主語 ＋ 動詞 ／ 先行詞（時）＋ when ＋ 主語 ＋ 動詞 ／ the reason why ＋ 主語 ＋ 動詞 ／ how ＋ 主語 ＋ 動詞 ／ what ＋（主語 ＋）動詞（〜すること・もの）",
+  "point": "関係副詞は、場所・時・理由・方法を表す先行詞の後ろに文をつなぎます。関係副詞の後ろは、主語や目的語のそろった完全な文になる点が関係代名詞との違いです。what は先行詞を含む関係代名詞で、「〜すること」「〜するもの」（the thing(s) which）を表します。",
+  "tips": [
+   "the way how とは言わず、the way か how のどちらか一方を使います。",
+   "後ろに目的語が欠けていれば関係代名詞：the town which I visited ／ 欠けていなければ関係副詞：the town where I was born",
+   "what の前に先行詞は置きません：× the thing what I want"
+  ],
+  "ex": [
+   {
+    "en": "This is the house where I grew up.",
+    "ja": "ここは私が育った家です。"
+   },
+   {
+    "en": "I remember the day when we first met.",
+    "ja": "私たちが初めて会った日を覚えています。"
+   },
+   {
+    "en": "That's the reason why I called you.",
+    "ja": "それがあなたに電話した理由です。"
+   },
+   {
+    "en": "What I need now is a good night's sleep.",
+    "ja": "今私に必要なのはぐっすり眠ることです。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "This is the park ___ I often play soccer.",
+    "ja": "ここは私がよくサッカーをする公園です。",
+    "choices": [
+     "which",
+     "where",
+     "when",
+     "what"
+    ],
+    "a": 1,
+    "why": "後ろが完全な文で、先行詞が場所なので where です。"
+   },
+   {
+    "q": "Summer is the season ___ many people go to the beach.",
+    "ja": "夏は多くの人が海へ行く季節です。",
+    "choices": [
+     "where",
+     "which",
+     "when",
+     "what"
+    ],
+    "a": 2,
+    "why": "先行詞が時を表す the season なので when です。"
+   },
+   {
+    "q": "___ he said surprised everyone.",
+    "ja": "彼の言ったことはみんなを驚かせました。",
+    "choices": [
+     "What",
+     "That",
+     "Which",
+     "It"
+    ],
+    "a": 0,
+    "why": "「〜すること」を表し先行詞を含むのは what です。"
+   },
+   {
+    "q": "This is the town ___ I visited last year.",
+    "ja": "これは私が去年訪れた町です。",
+    "choices": [
+     "where",
+     "when",
+     "what",
+     "which"
+    ],
+    "a": 3,
+    "why": "visited の目的語が欠けているので関係代名詞の which です。"
+   },
+   {
+    "q": "That's the reason ___ she was absent.",
+    "ja": "それが彼女が休んだ理由です。",
+    "choices": [
+     "what",
+     "which",
+     "why",
+     "how"
+    ],
+    "a": 2,
+    "why": "先行詞 the reason の後は関係副詞 why を使います。"
+   }
+  ]
+ },
+ {
+  "id": "g29",
+  "lv": 3,
+  "title": "仮定法過去・仮定法過去完了",
+  "form": "If ＋ 主語 ＋ 動詞の過去形, 主語 ＋ would / could / might ＋ 動詞の原形 ／ If ＋ 主語 ＋ had ＋ 過去分詞, 主語 ＋ would / could / might ＋ have ＋ 過去分詞",
+  "point": "仮定法過去は、現在の事実と違うことや実現しそうにないことを「もし〜なら、…だろうに」と表します。仮定法過去完了は、過去の事実と違うことを「もし〜だったら、…だっただろうに」と表します。動詞の形は1つ過去にずれますが、仮定法過去は現在の話、仮定法過去完了は過去の話です。",
+  "tips": [
+   "be動詞は主語に関係なく were が正式です（口語では was も）：If I were you, ...",
+   "if 節には would を入れません：× If I would have time, ...",
+   "過去の条件と現在の結果を組み合わせる形もあります：If I had taken that job, I would be in Paris now."
+  ],
+  "ex": [
+   {
+    "en": "If I had more time, I would learn Spanish.",
+    "ja": "もっと時間があれば、スペイン語を習うのに。"
+   },
+   {
+    "en": "If I were you, I would take the train.",
+    "ja": "私があなたなら、電車で行きます。"
+   },
+   {
+    "en": "If it hadn't rained, we would have gone camping.",
+    "ja": "雨が降らなかったら、キャンプに行っていたでしょう。"
+   },
+   {
+    "en": "If Ken had left earlier, he could have caught the bus.",
+    "ja": "ケンがもっと早く出ていれば、バスに間に合ったのに。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "If I ___ rich, I would buy a big house.",
+    "ja": "もしお金持ちなら、大きな家を買うのに。",
+    "choices": [
+     "were",
+     "am",
+     "will be",
+     "have been"
+    ],
+    "a": 0,
+    "why": "現在の事実に反する仮定なので were を使います。"
+   },
+   {
+    "q": "If I knew her number, I ___ call her.",
+    "ja": "彼女の番号を知っていれば電話するのに。",
+    "choices": [
+     "will",
+     "would",
+     "would have",
+     "am"
+    ],
+    "a": 1,
+    "why": "仮定法過去の主節は would ＋ 動詞の原形です。"
+   },
+   {
+    "q": "If you ___ harder, you would have passed the test.",
+    "ja": "もっと勉強していたら、テストに合格していたでしょう。",
+    "choices": [
+     "studied",
+     "have studied",
+     "had studied",
+     "would study"
+    ],
+    "a": 2,
+    "why": "過去の事実に反する仮定なので if 節は had ＋ 過去分詞です。"
+   },
+   {
+    "q": "If it had been sunny, we ___ to the beach.",
+    "ja": "晴れていたら、海に行っていたでしょう。",
+    "choices": [
+     "would go",
+     "will go",
+     "had gone",
+     "would have gone"
+    ],
+    "a": 3,
+    "why": "仮定法過去完了の主節は would have ＋ 過去分詞です。"
+   },
+   {
+    "q": "What would you do if you ___ a million dollars?",
+    "ja": "100万ドルあったらどうしますか。",
+    "choices": [
+     "have",
+     "will have",
+     "had",
+     "would have"
+    ],
+    "a": 2,
+    "why": "現在の事実に反する仮定なので if 節は過去形の had です。"
+   }
+  ]
+ },
+ {
+  "id": "g30",
+  "lv": 3,
+  "title": "使役動詞・知覚動詞（make / let / have、see / hear ＋人＋動詞）",
+  "form": "make / let / have ＋ 目的語 ＋ 動詞の原形 ／ have ＋ 目的語（物）＋ 過去分詞 ／ see / hear / feel ＋ 目的語 ＋ 動詞の原形 / 動詞のing形",
+  "point": "make は「（無理に）〜させる」、let は「（望みどおり）〜させてあげる」、have は「（頼んで・仕事として）〜してもらう」を表し、後ろは目的語 ＋ 動詞の原形です。物が「〜される」関係なら have ＋ 物 ＋ 過去分詞（I had my hair cut.）を使います。see、hear などの知覚動詞は、目的語の後に動詞の原形を置くと動作の全体、ing形を置くと動作の途中を表します。",
+  "tips": [
+   "× let me to go ／ ○ let me go（to は付けません）",
+   "make の受け身では to が必要になります：He was made to wait.",
+   "get は to 不定詞をとります：I got Ken to help me."
+  ],
+  "ex": [
+   {
+    "en": "My mom made me clean my room.",
+    "ja": "母は私に部屋を掃除させました。"
+   },
+   {
+    "en": "Let me know if you need help.",
+    "ja": "助けが必要なら知らせてください。"
+   },
+   {
+    "en": "I had my hair cut yesterday.",
+    "ja": "昨日、髪を切ってもらいました。"
+   },
+   {
+    "en": "I heard someone calling my name.",
+    "ja": "誰かが私の名前を呼んでいるのが聞こえました。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "My boss made me ___ late.",
+    "ja": "上司は私を遅くまで働かせました。",
+    "choices": [
+     "work",
+     "to work",
+     "working",
+     "worked"
+    ],
+    "a": 0,
+    "why": "make ＋ 人 ＋ 動詞の原形 で「〜させる」です。"
+   },
+   {
+    "q": "Please let me ___ you.",
+    "ja": "お手伝いさせてください。",
+    "choices": [
+     "to help",
+     "helping",
+     "help",
+     "helped"
+    ],
+    "a": 2,
+    "why": "let ＋ 人 ＋ 動詞の原形 なので help です。"
+   },
+   {
+    "q": "I had my bike ___ at the shop.",
+    "ja": "店で自転車を修理してもらいました。",
+    "choices": [
+     "repair",
+     "repairing",
+     "to repair",
+     "repaired"
+    ],
+    "a": 3,
+    "why": "自転車は「修理される」側なので過去分詞です。"
+   },
+   {
+    "q": "I saw Tom ___ the street.",
+    "ja": "トムが通りを渡るのを見ました。",
+    "choices": [
+     "crossed",
+     "cross",
+     "to cross",
+     "was crossing"
+    ],
+    "a": 1,
+    "why": "知覚動詞 see ＋ 人 ＋ 動詞の原形 の形です。"
+   },
+   {
+    "q": "I'll have Amy ___ you back.",
+    "ja": "エイミーに折り返し電話させます。",
+    "choices": [
+     "to call",
+     "called",
+     "call",
+     "calls"
+    ],
+    "a": 2,
+    "why": "have ＋ 人 ＋ 動詞の原形 で「人に〜してもらう・させる」です。"
+   }
+  ]
+ },
+ {
+  "id": "g31",
+  "lv": 3,
+  "title": "助動詞＋have＋過去分詞（should have / must have / can't have）",
+  "form": "should ＋ have ＋ 過去分詞 ／ must ＋ have ＋ 過去分詞 ／ can't ＋ have ＋ 過去分詞 ／ may / might ＋ have ＋ 過去分詞",
+  "point": "助動詞の後に have ＋ 過去分詞を続けると、過去のことについての推量や後悔を表せます。should have は「〜すべきだったのに（しなかった）」、must have は「〜したに違いない」、can't have は「〜したはずがない」、may / might have は「〜したかもしれない」という意味です。",
+  "tips": [
+   "shouldn't have ＋ 過去分詞は「〜すべきではなかった（のにしてしまった）」という後悔です。",
+   "会話では should've、must've と短くなり、× should of と書く誤りがよく見られます。",
+   "「〜したはずがない」には mustn't have ではなく can't / couldn't have を使います。"
+  ],
+  "ex": [
+   {
+    "en": "I should have studied harder.",
+    "ja": "もっと勉強しておくべきでした。"
+   },
+   {
+    "en": "Ken must have missed the bus.",
+    "ja": "ケンはバスに乗り遅れたに違いありません。"
+   },
+   {
+    "en": "Amy can't have said that.",
+    "ja": "エイミーがそんなことを言ったはずがありません。"
+   },
+   {
+    "en": "I might have left my phone at home.",
+    "ja": "家に携帯電話を置いてきたかもしれません。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "The ground is wet. It ___ rained last night.",
+    "ja": "地面がぬれています。昨夜雨が降ったに違いありません。",
+    "choices": [
+     "must have",
+     "should have",
+     "can't have",
+     "must"
+    ],
+    "a": 0,
+    "why": "過去についての確信のある推量は must have ＋ 過去分詞です。"
+   },
+   {
+    "q": "I'm sorry. I ___ told you earlier.",
+    "ja": "ごめんなさい。もっと早く言うべきでした。",
+    "choices": [
+     "must have",
+     "should have",
+     "can't have",
+     "will have"
+    ],
+    "a": 1,
+    "why": "「〜すべきだったのに」という後悔は should have です。"
+   },
+   {
+    "q": "Tom was at home all day. He ___ gone to the party.",
+    "ja": "トムは一日中家にいました。パーティーに行ったはずがありません。",
+    "choices": [
+     "must have",
+     "should have",
+     "may have",
+     "can't have"
+    ],
+    "a": 3,
+    "why": "「〜したはずがない」は can't have ＋ 過去分詞です。"
+   },
+   {
+    "q": "You shouldn't have ___ so much cake.",
+    "ja": "あんなにケーキを食べるべきではなかったのに。",
+    "choices": [
+     "eat",
+     "ate",
+     "eaten",
+     "eating"
+    ],
+    "a": 2,
+    "why": "have の後は過去分詞の eaten です。"
+   },
+   {
+    "q": "I'm not sure, but Yuki may have ___ the key.",
+    "ja": "よくわかりませんが、ユキが鍵を持っていったのかもしれません。",
+    "choices": [
+     "took",
+     "taken",
+     "take",
+     "taking"
+    ],
+    "a": 1,
+    "why": "may have の後は過去分詞の taken です。"
+   }
+  ]
+ },
+ {
+  "id": "g32",
+  "lv": 3,
+  "title": "時制の一致と話法",
+  "form": "主節の動詞が過去形 ＋ 従属節の動詞も過去形・過去完了 ／ 主語 ＋ said (that) ＋ 主語 ＋ 動詞 ／ 主語 ＋ told ＋ 人 ＋ to ＋ 動詞の原形 ／ 主語 ＋ asked ＋ 人 ＋ if / 疑問詞 ＋ 主語 ＋ 動詞",
+  "point": "主節の動詞が過去形のとき、that 節などの動詞もふつう過去にずらします（is → was、will → would、過去形 → 過去完了）。人の発言をそのまま引用するのが直接話法、自分の言葉で伝え直すのが間接話法です。間接話法では時制のほか、代名詞や here → there、tomorrow → the next day などの語も視点に合わせて変えます。",
+  "tips": [
+   "今も変わらない事実は現在形のままでもかまいません：He said the earth is round.",
+   "命令は tell 人 to ～、依頼は ask 人 to ～ で伝えます。",
+   "疑問文を伝えるときはふつうの語順にします：She asked where I lived."
+  ],
+  "ex": [
+   {
+    "en": "Ken said that he was tired.",
+    "ja": "ケンは疲れていると言いました。"
+   },
+   {
+    "en": "Amy told me she would call later.",
+    "ja": "エイミーは後で電話すると私に言いました。"
+   },
+   {
+    "en": "My teacher told us to be quiet.",
+    "ja": "先生は私たちに静かにするように言いました。"
+   },
+   {
+    "en": "Tom asked me if I liked sushi.",
+    "ja": "トムは私にすしが好きかと尋ねました。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "Yuki said she ___ busy that day.",
+    "ja": "ユキはその日は忙しいと言いました。",
+    "choices": [
+     "is",
+     "was",
+     "were",
+     "be"
+    ],
+    "a": 1,
+    "why": "主節が said なので、時制を合わせて was にします。"
+   },
+   {
+    "q": "I thought Ken ___ come, but he didn't.",
+    "ja": "ケンは来ると思っていましたが、来ませんでした。",
+    "choices": [
+     "will",
+     "can",
+     "is",
+     "would"
+    ],
+    "a": 3,
+    "why": "主節が過去なので will は would になります。"
+   },
+   {
+    "q": "The doctor told me ___ more water.",
+    "ja": "医者は私にもっと水を飲むように言いました。",
+    "choices": [
+     "drink",
+     "drinking",
+     "to drink",
+     "that drink"
+    ],
+    "a": 2,
+    "why": "指示を伝えるときは tell 人 to ＋ 動詞の原形です。"
+   },
+   {
+    "q": "She asked me where ___.",
+    "ja": "彼女は私がどこに住んでいるのか尋ねました。",
+    "choices": [
+     "I lived",
+     "did I live",
+     "do I live",
+     "lived I"
+    ],
+    "a": 0,
+    "why": "伝える疑問文はふつうの語順で、時制も過去に合わせます。"
+   },
+   {
+    "q": "Tom said he ___ the movie the week before.",
+    "ja": "トムはその前の週にその映画を見たと言いました。",
+    "choices": [
+     "has seen",
+     "had seen",
+     "sees",
+     "has been seeing"
+    ],
+    "a": 1,
+    "why": "言った時点より前のことなので過去完了です。"
+   }
+  ]
+ },
+ {
+  "id": "g33",
+  "lv": 4,
+  "title": "倒置（Never have I ... / Only then did ...）",
+  "form": "否定の語句（Never / Rarely / Little など）＋ 助動詞 ＋ 主語 ＋ 動詞 ／ Only ＋ 語句 ＋ 助動詞 ＋ 主語 ＋ 動詞 ／ Not only ＋ 助動詞 ＋ 主語 ＋ 動詞, but (also) ... ／ So / Neither ＋ 助動詞 ＋ 主語",
+  "point": "否定や限定の意味をもつ語句を文頭に出して強調すると、その後ろが疑問文と同じ語順（助動詞 ＋ 主語）になります。一般動詞の文では do / does / did を補い、完了形なら have / had を前に出します。主に書き言葉やスピーチで使われますが、So do I. や Neither can I. のような短い形は会話でもよく使います。",
+  "tips": [
+   "Only after ... や Not until ... では、その語句の中ではなく後ろの主節で倒置が起きます。",
+   "be動詞の文はそのまま前に出します：Rarely is he late.",
+   "So do I.（私もです）／ Neither do I.（私も〜ではありません）は会話でよく使います。"
+  ],
+  "ex": [
+   {
+    "en": "Never have I seen such a beautiful sunset.",
+    "ja": "こんなに美しい夕日は見たことがありません。"
+   },
+   {
+    "en": "Only then did I realize my mistake.",
+    "ja": "そのとき初めて自分の間違いに気づきました。"
+   },
+   {
+    "en": "Not only is Amy smart, but she is also very kind.",
+    "ja": "エイミーは頭がいいだけでなく、とても親切です。"
+   },
+   {
+    "en": "I can't swim, and neither can my brother.",
+    "ja": "私は泳げませんし、兄も泳げません。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "Never ___ such a delicious meal.",
+    "ja": "こんなにおいしい食事はしたことがありません。",
+    "choices": [
+     "I have eaten",
+     "have I eaten",
+     "I ate",
+     "did I eaten"
+    ],
+    "a": 1,
+    "why": "Never が文頭に来ると「have ＋ 主語 ＋ 過去分詞」の語順になります。"
+   },
+   {
+    "q": "Rarely ___ Ken late for work.",
+    "ja": "ケンが仕事に遅れることはめったにありません。",
+    "choices": [
+     "is",
+     "does",
+     "has",
+     "are"
+    ],
+    "a": 0,
+    "why": "late は形容詞なので be動詞 is を主語の前に出します。"
+   },
+   {
+    "q": "Only after the meeting ___ the problem.",
+    "ja": "会議が終わって初めて、私はその問題に気づきました。",
+    "choices": [
+     "I noticed",
+     "noticed I",
+     "did I notice",
+     "I did notice"
+    ],
+    "a": 2,
+    "why": "Only ＋ 語句が文頭なので「did ＋ 主語 ＋ 動詞の原形」になります。"
+   },
+   {
+    "q": "Little ___ know what was waiting for her.",
+    "ja": "何が待ち受けているか、彼女は知る由もありませんでした。",
+    "choices": [
+     "she did",
+     "she does",
+     "does she",
+     "did she"
+    ],
+    "a": 3,
+    "why": "Little が文頭に来ると倒置し、過去の話なので did she です。"
+   },
+   {
+    "q": "Tom doesn't like coffee, and neither ___ I.",
+    "ja": "トムはコーヒーが好きではありませんし、私も好きではありません。",
+    "choices": [
+     "am",
+     "do",
+     "don't",
+     "does"
+    ],
+    "a": 1,
+    "why": "like は一般動詞で主語が I なので neither do I です。"
+   }
+  ]
+ },
+ {
+  "id": "g34",
+  "lv": 4,
+  "title": "強調構文（It is ... that ...）",
+  "form": "It is / was ＋ 強調する語句 ＋ that ＋ 残りの文 ／ It is / was ＋ 人 ＋ who ＋ 残りの文 ／ What ＋ 主語 ＋ 動詞 ＋ is ＋ 強調する語句",
+  "point": "文の中の主語・目的語・副詞語句などを It is と that の間にはさむと、「〜なのは…だ」とその部分を強調できます。強調する部分が人のときは that の代わりに who も使えます。It is と that を取り除くと元の文に戻るのが、形式主語の It ... that 構文と見分けるポイントです。",
+  "tips": [
+   "過去の話なら It was ... that ... とします。",
+   "who / that の後の動詞は強調された語に合わせます：It is you who are wrong.",
+   "What I want is ... の形も、会話でよく使う強調の表現です。"
+  ],
+  "ex": [
+   {
+    "en": "It was Ken who found my wallet.",
+    "ja": "私の財布を見つけたのはケンでした。"
+   },
+   {
+    "en": "It was in Kyoto that I first met Amy.",
+    "ja": "私が初めてエイミーに会ったのは京都でした。"
+   },
+   {
+    "en": "It is not money that makes people happy.",
+    "ja": "人を幸せにするのはお金ではありません。"
+   },
+   {
+    "en": "What I really need is a long vacation.",
+    "ja": "私が本当に必要としているのは長い休暇です。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "It was Tom ___ broke the window.",
+    "ja": "窓を割ったのはトムでした。",
+    "choices": [
+     "which",
+     "who",
+     "what",
+     "where"
+    ],
+    "a": 1,
+    "why": "強調する部分が人なので who（または that）を使います。"
+   },
+   {
+    "q": "It was yesterday ___ I lost my umbrella.",
+    "ja": "傘をなくしたのは昨日でした。",
+    "choices": [
+     "that",
+     "which",
+     "what",
+     "who"
+    ],
+    "a": 0,
+    "why": "時を表す語句を強調するときは that を使います。"
+   },
+   {
+    "q": "___ was at this station that I met Yuki.",
+    "ja": "私がユキに会ったのはこの駅でした。",
+    "choices": [
+     "This",
+     "There",
+     "It",
+     "That"
+    ],
+    "a": 2,
+    "why": "強調構文は It was ... that ... の形です。"
+   },
+   {
+    "q": "It is you who ___ wrong.",
+    "ja": "間違っているのはあなたです。",
+    "choices": [
+     "is",
+     "am",
+     "be",
+     "are"
+    ],
+    "a": 3,
+    "why": "who の後の動詞は強調された you に合わせて are です。"
+   },
+   {
+    "q": "What I want ___ a cup of hot tea.",
+    "ja": "私が欲しいのは温かい紅茶です。",
+    "choices": [
+     "are",
+     "is",
+     "does",
+     "being"
+    ],
+    "a": 1,
+    "why": "What I want は単数扱いなので is です。"
+   }
+  ]
+ },
+ {
+  "id": "g35",
+  "lv": 4,
+  "title": "仮定法の応用（I wish / as if / Without ... / Had I known ...）",
+  "form": "I wish ＋ 主語 ＋ 動詞の過去形 / had ＋ 過去分詞 ／ as if ＋ 主語 ＋ 動詞の過去形 / had ＋ 過去分詞 ／ Without ＋ 名詞, 主語 ＋ would ＋ 動詞の原形 ／ Had ＋ 主語 ＋ 過去分詞, 主語 ＋ would have ＋ 過去分詞",
+  "point": "I wish の後に仮定法を続けると、現在や過去の事実に反する願望（〜ならいいのに・〜だったらよかったのに）を表せます。as if は「まるで〜のように」、Without ～ は「〜がなければ・〜がなかったら」と if の代わりに使える表現です。また、if を省いて Had I known ... のように had を文頭に出す倒置の形は、書き言葉や改まった場面で使われます。",
+  "tips": [
+   "「〜できたらいいのに」は I wish I could ...：I wish I could fly.",
+   "If it were not for ～ ／ If it had not been for ～ も Without ～ と同じ意味です。",
+   "if を省くと倒置：If I had known → Had I known。Should you have any questions, ... も同じ仕組みです。"
+  ],
+  "ex": [
+   {
+    "en": "I wish I had a bigger kitchen.",
+    "ja": "もっと広い台所があればいいのに。"
+   },
+   {
+    "en": "I wish I had listened to my parents.",
+    "ja": "両親の言うことを聞いておけばよかった。"
+   },
+   {
+    "en": "Ken talks as if he knew everything.",
+    "ja": "ケンはまるで何でも知っているかのように話します。"
+   },
+   {
+    "en": "Without your help, I couldn't have finished on time.",
+    "ja": "あなたの助けがなかったら、時間内に終えられなかったでしょう。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "I wish I ___ speak French.",
+    "ja": "フランス語が話せたらいいのに。",
+    "choices": [
+     "can",
+     "could",
+     "will",
+     "am"
+    ],
+    "a": 1,
+    "why": "I wish の後は仮定法なので could を使います。"
+   },
+   {
+    "q": "I wish I ___ that cake.",
+    "ja": "あのケーキを食べなければよかった。",
+    "choices": [
+     "didn't eat",
+     "haven't eaten",
+     "hadn't eaten",
+     "don't eat"
+    ],
+    "a": 2,
+    "why": "過去の事実に反する願望なので had ＋ 過去分詞です。"
+   },
+   {
+    "q": "She looked as if she ___ a ghost.",
+    "ja": "彼女はまるで幽霊を見たかのような顔をしていました。",
+    "choices": [
+     "has seen",
+     "sees",
+     "would see",
+     "had seen"
+    ],
+    "a": 3,
+    "why": "見た時点より前のことを仮定するので had ＋ 過去分詞です。"
+   },
+   {
+    "q": "___ known about the traffic, I would have left earlier.",
+    "ja": "渋滞のことを知っていたら、もっと早く出たのに。",
+    "choices": [
+     "Had I",
+     "If I",
+     "I had",
+     "Have I"
+    ],
+    "a": 0,
+    "why": "If I had known の if を省くと Had I known と倒置します。"
+   },
+   {
+    "q": "___ water, nothing could live on Earth.",
+    "ja": "水がなければ、地球上では何も生きられないでしょう。",
+    "choices": [
+     "Unless",
+     "If not",
+     "Without",
+     "Except"
+    ],
+    "a": 2,
+    "why": "名詞の前に置いて「〜がなければ」を表すのは Without です。"
+   }
+  ]
+ },
+ {
+  "id": "g36",
+  "lv": 4,
+  "title": "無生物主語と名詞構文（The news made her happy. / His arrival surprised us.）",
+  "form": "無生物主語 ＋ 動詞（make / take / bring / keep / prevent など）＋ 目的語 ... ／ 所有格 ＋ 名詞（動詞・形容詞から）＋ 動詞 ...",
+  "point": "英語では物や出来事を主語にして「〜が人に…させる」と表す文がよく使われます。日本語に訳すときは「〜のおかげで」「〜すると」「〜のために」のように、主語を原因や条件として訳すと自然になります。また、His arrival（彼が到着したこと）のように、動詞や形容詞を名詞にして文を短くまとめる名詞構文も、書き言葉でよく見られます。",
+  "tips": [
+   "This road takes you to the station. ＝ この道を行けば駅に着きます。",
+   "prevent / keep ＋ 人 ＋ from ＋ 動詞のing形 で「〜のせいで人が…できない」を表します。",
+   "His arrival surprised us. ＝ 彼が着いたので私たちは驚きました。"
+  ],
+  "ex": [
+   {
+    "en": "The news made her happy.",
+    "ja": "その知らせを聞いて、彼女はうれしくなりました。"
+   },
+   {
+    "en": "His sudden arrival surprised us.",
+    "ja": "彼が突然やって来たので、私たちは驚きました。"
+   },
+   {
+    "en": "A ten-minute walk will take you to the museum.",
+    "ja": "10分歩けば博物館に着きます。"
+   },
+   {
+    "en": "The heavy rain kept us from going out.",
+    "ja": "大雨のため、私たちは外出できませんでした。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "The heavy snow prevented us ___ leaving.",
+    "ja": "大雪のため、私たちは出発できませんでした。",
+    "choices": [
+     "to",
+     "for",
+     "from",
+     "of"
+    ],
+    "a": 2,
+    "why": "prevent 人 from ～ing で「人が〜するのを妨げる」です。"
+   },
+   {
+    "q": "This medicine will ___ you feel better.",
+    "ja": "この薬を飲めば気分がよくなるでしょう。",
+    "choices": [
+     "make",
+     "get",
+     "cause",
+     "take"
+    ],
+    "a": 0,
+    "why": "make ＋ 人 ＋ 動詞の原形 で「人を〜させる」です。"
+   },
+   {
+    "q": "What ___ you to Japan?",
+    "ja": "何がきっかけで日本に来たのですか。",
+    "choices": [
+     "came",
+     "brought",
+     "went",
+     "made"
+    ],
+    "a": 1,
+    "why": "bring 人 to ～ で「人を〜に連れてくる」となり、理由を尋ねられます。"
+   },
+   {
+    "q": "His ___ to help surprised everyone.",
+    "ja": "彼が手伝うのを断ったので、みんな驚きました。",
+    "choices": [
+     "refuse",
+     "refused",
+     "refuses",
+     "refusal"
+    ],
+    "a": 3,
+    "why": "所有格 His の後には名詞の refusal が来ます。"
+   },
+   {
+    "q": "A short walk ___ us to the beach.",
+    "ja": "少し歩くと海岸に着きました。",
+    "choices": [
+     "arrived",
+     "brought",
+     "reached",
+     "went"
+    ],
+    "a": 1,
+    "why": "bring 人 to 場所 で「人を〜へ連れて行く」なので brought です。"
+   }
+  ]
+ },
+ {
+  "id": "g37",
+  "lv": 4,
+  "title": "省略・挿入・同格（the fact that ...）",
+  "form": "接続詞（when / while / if など）＋（主語 ＋ be動詞を省略）＋ 語句 ／ 文の途中に挿入語句（I think / however など）／ 名詞（fact / news / idea など）＋ that ＋ 主語 ＋ 動詞（同格）",
+  "point": "英語では、くり返しになる語や明らかな語を省略することがよくあります。たとえば when / while / if の後の「主語 ＋ be動詞」は、主節の主語と同じなら省けます。挿入は、文の途中にコンマで I think や however などをはさんで補足する形です。同格の that は the fact that ... のように直前の名詞の内容を説明し、関係代名詞と違って後ろが完全な文になります。",
+  "tips": [
+   "While (I was) in London, I met Tom. のように主語と be動詞をまとめて省きます。",
+   "if necessary（必要なら）、if possible（できれば）は決まった省略表現です。",
+   "同格の that はふつう省略しません：the news that he won"
+  ],
+  "ex": [
+   {
+    "en": "While in Paris, Amy visited many museums.",
+    "ja": "パリにいる間、エイミーは多くの美術館を訪れました。"
+   },
+   {
+    "en": "Ken, I think, is the best player on the team.",
+    "ja": "ケンはチームでいちばんうまい選手だと思います。"
+   },
+   {
+    "en": "I was surprised by the news that Tom had moved.",
+    "ja": "トムが引っ越したという知らせに驚きました。"
+   },
+   {
+    "en": "Please call me if necessary.",
+    "ja": "必要なら私に電話してください。"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "While ___ in Kyoto, I visited many temples.",
+    "ja": "京都にいる間、たくさんのお寺を訪れました。",
+    "choices": [
+     "stay",
+     "staying",
+     "stayed",
+     "to stay"
+    ],
+    "a": 1,
+    "why": "While I was staying の I was が省略された形です。"
+   },
+   {
+    "q": "I heard the news ___ Ken got married.",
+    "ja": "ケンが結婚したという知らせを聞きました。",
+    "choices": [
+     "which",
+     "that",
+     "what",
+     "whose"
+    ],
+    "a": 1,
+    "why": "後ろが完全な文で news の内容を説明するので同格の that です。"
+   },
+   {
+    "q": "There is no doubt ___ he is honest.",
+    "ja": "彼が正直であることに疑いはありません。",
+    "choices": [
+     "that",
+     "which",
+     "what",
+     "if"
+    ],
+    "a": 0,
+    "why": "doubt の内容を説明する同格の that です。"
+   },
+   {
+    "q": "Add some salt ___ necessary.",
+    "ja": "必要なら塩を少し加えてください。",
+    "choices": [
+     "what",
+     "that",
+     "so",
+     "if"
+    ],
+    "a": 3,
+    "why": "if necessary は if it is necessary の省略形です。"
+   },
+   {
+    "q": "This plan, ___, has a few problems.",
+    "ja": "この計画には、私が思うにいくつか問題があります。",
+    "choices": [
+     "I think it",
+     "think I",
+     "I think",
+     "that I think"
+    ],
+    "a": 2,
+    "why": "文の途中に I think をコンマではさんで挿入します。"
+   }
+  ]
+ }
+]
