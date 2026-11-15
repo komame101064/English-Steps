@@ -5,9 +5,9 @@ const ctx={console,Math,Date,JSON,setTimeout:()=>0,clearTimeout(){},URL,Blob:fun
 vm.runInContext(fs.readFileSync('site/en.js','utf8').replace("window.addEventListener('hashchange'","(()=>{})('hashchange'"),ctx);
 (async()=>{await new Promise(r=>setImmediate(r));await new Promise(r=>setImmediate(r));
  const W=vm.runInContext('W',ctx),P=vm.runInContext('P',ctx);
- // Data: 2000 words in learning order with Japanese meanings, IPA and an example; 120 phrases; unique ids.
- assert.equal(W.length,2000);assert.equal(P.length,120);assert(W.every((w,i)=>w.id===`en-${String(i+1).padStart(3,'0')}`&&w.w&&w.ja&&w.ipa&&w.ex&&w.exJa&&w.pos));assert(P.every(p=>/^ep-\d{3}$/.test(p.id)&&p.en&&p.ja));
- const lvOf=vm.runInContext('levelOf',ctx);assert.deepEqual([0,499,500,999,1000,1499,1500,1999].map(i=>lvOf(W[i])),[0,0,1,1,2,2,3,3]);
+ // Data: 2000 words ordered by level (lv 1-4) with Japanese meanings, IPA and an example; 120 phrases; unique, stable ids.
+ assert.equal(W.length,2000);assert.equal(P.length,120);assert(W.every(w=>/^en-\d{3,4}$/.test(w.id)&&w.w&&w.ja&&w.ipa&&w.ex&&w.exJa&&w.pos&&[1,2,3,4].includes(w.lv)));assert.equal(new Set(W.map(w=>w.id)).size,W.length);assert(P.every(p=>/^ep-\d{3}$/.test(p.id)&&p.en&&p.ja));
+ const lvOf=vm.runInContext('levelOf',ctx);assert(W.every((w,i)=>i===0||W[i-1].lv<=w.lv),'sorted by level');assert(W.every(w=>lvOf(w)===w.lv-1));
  for(const x of ['cat','dog','water','house','school'])assert(W.findIndex(w=>w.w===x)<100,x);
  assert(els['#main'].innerHTML.includes('今日の学習'));
  // A step: 10 new words shown, recalled both ways; full marks schedule them a day later; progress saved under its own key.
