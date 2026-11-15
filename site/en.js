@@ -1,7 +1,7 @@
-// English Steps: English for Japanese speakers — 200 core words and beginner phrases.
+// English Steps: English for Japanese speakers — 1,000 core words and beginner phrases.
 // Data: data/words.json, data/phrases.json. Progress is kept in localStorage under english-steps-v1 (separate from Thai Steps).
 const KEY='english-steps-v1',$=s=>document.querySelector(s),DAYS=[1,3,7,14,30,60],STEP=10;
-const THEMES={people:'人',greetings:'あいさつ',food:'食べ物',animals:'動物',body:'体',places:'場所',home:'家',time:'時',weather:'天気',transport:'乗り物',money:'お金',actions:'動作',feelings:'気持ち',description:'様子',grammar:'文法の語',numbers:'数',colors:'色',work:'仕事',nature:'自然',basics:'基本',shopping:'買い物',directions:'道案内',smalltalk:'雑談',travel:'旅行',help:'困ったとき'};
+const THEMES={people:'人',greetings:'あいさつ',food:'食べ物',animals:'動物',body:'体',places:'場所',home:'家',time:'時',weather:'天気',transport:'乗り物',money:'お金',actions:'動作',feelings:'気持ち',description:'様子',grammar:'文法の語',numbers:'数',colors:'色',work:'仕事',nature:'自然',basics:'基本',shopping:'買い物',directions:'道案内',smalltalk:'雑談',travel:'旅行',help:'困ったとき',clothes:'服',school:'学校',hobbies:'趣味',society:'社会',health:'健康'};
 const ICON={home:'<path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/>',words:'<path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 19V5"/>',phrases:'<path d="M4 5h16v10H9l-5 4z"/>',review:'<path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v4h4"/><path d="M12 8v4l3 2"/>',star:'<path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z"/>',audio:'<path d="M4 9v6h4l5 4V5L8 9z"/><path d="M16 9a4 4 0 0 1 0 6"/><path d="M18.5 6.5a7.5 7.5 0 0 1 0 11"/>'};
 const icon=n=>`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICON[n]}</svg>`;
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);
@@ -38,9 +38,9 @@ function nextWords(){return W.filter(w=>!(rec(w.id).seen>0)).slice(0,STEP)}
 function home(){const learned=W.filter(w=>rec(w.id).seen>0).length,next=nextWords(),due=W.filter(w=>isDue(w.id)).length,t=stepsToday(),met=t>=S.perDay,pct=Math.round(learned/W.length*100);
  return `<section class="card"><div class="daily-head"><h2 style="margin:0">今日の学習</h2>${met?'<span class="badge">✓ 今日の分は完了</span>':`<span class="muted">${t} / ${S.perDay}ステップ</span>`}</div>
  ${next.length||due?`<div class="tasks"><div class="task${due?'':' zero'}"><b>${Math.min(due,10)}</b><span>復習する語</span></div><div class="task${next.length?'':' zero'}"><b>${next.length}</b><span>新しい語</span></div></div>
- <button class="btn wide" onclick="startStep()">${met?'もう1ステップ進める →':'今日の学習をはじめる →'}</button>`:'<p><b>200語をすべて学習しました。</b>復習とフレーズで定着させましょう。</p>'}
- <div class="meta"><span>${S.streak.days&&S.streak.last>=yesterday()?`連続${S.streak.days}日`:''}</span><span>基本200語 ${learned} / ${W.length}</span></div><div class="bar"><i style="width:${pct}%"></i></div></section>
- <div class="home-links"><button class="home-link" onclick="go('phrases')"><b>フレーズ</b><small>${P.length}の定番表現</small></button><button class="home-link" onclick="go('words')"><b>単語一覧</b><small>200語・テーマ別</small></button></div>`}
+ <button class="btn wide" onclick="startStep()">${met?'もう1ステップ進める →':'今日の学習をはじめる →'}</button>`:'<p><b>${W.length}語をすべて学習しました。</b>復習とフレーズで定着させましょう。</p>'}
+ <div class="meta"><span>${S.streak.days&&S.streak.last>=yesterday()?`連続${S.streak.days}日`:''}</span><span>基本${W.length}語 ${learned} / ${W.length}</span></div><div class="bar"><i style="width:${pct}%"></i></div></section>
+ <div class="home-links"><button class="home-link" onclick="go('phrases')"><b>フレーズ</b><small>${P.length}の定番表現</small></button><button class="home-link" onclick="go('words')"><b>単語一覧</b><small>${W.length}語・テーマ別</small></button></div>`}
 const yesterday=()=>new Date(Date.now()-86400000).toISOString().slice(0,10);
 // ---- words ----
 const fold=s=>String(s).toLowerCase();
@@ -104,7 +104,7 @@ function resultView(){const s=sess;return `<section class="card result"><p class
 function endSession(){if(sess&&sess.kind==='step'&&sess.i>=sess.tasks.length)finishSession();sess=null;render();window.scrollTo(0,0)}
 // ---- boot ----
 load();
-Promise.all(['data/words.json','data/phrases.json'].map(u=>fetch(u+'?v=20261115b').then(r=>{if(!r.ok)throw Error();return r.json()}))).then(([w,p])=>{W=w;P=p;byId=new Map([...W,...P].map(x=>[x.id,x]));loadState='ready';render()}).catch(()=>{loadState='error';render()});
+Promise.all(['data/words.json','data/phrases.json'].map(u=>fetch(u+'?v=20261116').then(r=>{if(!r.ok)throw Error();return r.json()}))).then(([w,p])=>{W=w;P=p;byId=new Map([...W,...P].map(x=>[x.id,x]));loadState='ready';render()}).catch(()=>{loadState='error';render()});
 if(typeof navigator!=='undefined'&&'serviceWorker'in navigator&&location.protocol==='https:')navigator.serviceWorker.register('sw.js',{scope:'./'}).catch(()=>{});
 window.addEventListener('hashchange',()=>{const v=location.hash.slice(1);if(['home','words','phrases','review','favorites','settings'].includes(v))go(v)});
 render();
