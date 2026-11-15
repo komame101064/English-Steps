@@ -5,8 +5,9 @@ const ctx={console,Math,Date,JSON,setTimeout:()=>0,clearTimeout(){},URL,Blob:fun
 vm.runInContext(fs.readFileSync('site/en.js','utf8').replace("window.addEventListener('hashchange'","(()=>{})('hashchange'"),ctx);
 (async()=>{await new Promise(r=>setImmediate(r));await new Promise(r=>setImmediate(r));
  const W=vm.runInContext('W',ctx),P=vm.runInContext('P',ctx);
- // Data: 1000 words in learning order with Japanese meanings, IPA and an example; 120 phrases; unique ids.
- assert.equal(W.length,1000);assert.equal(P.length,120);assert(W.every((w,i)=>w.id===`en-${String(i+1).padStart(3,'0')}`&&w.w&&w.ja&&w.ipa&&w.ex&&w.exJa&&w.pos));assert(P.every(p=>/^ep-\d{3}$/.test(p.id)&&p.en&&p.ja));
+ // Data: 2000 words in learning order with Japanese meanings, IPA and an example; 120 phrases; unique ids.
+ assert.equal(W.length,2000);assert.equal(P.length,120);assert(W.every((w,i)=>w.id===`en-${String(i+1).padStart(3,'0')}`&&w.w&&w.ja&&w.ipa&&w.ex&&w.exJa&&w.pos));assert(P.every(p=>/^ep-\d{3}$/.test(p.id)&&p.en&&p.ja));
+ const lvOf=vm.runInContext('levelOf',ctx);assert.deepEqual([0,499,500,999,1000,1499,1500,1999].map(i=>lvOf(W[i])),[0,0,1,1,2,2,3,3]);
  for(const x of ['cat','dog','water','house','school'])assert(W.findIndex(w=>w.w===x)<100,x);
  assert(els['#main'].innerHTML.includes('今日の学習'));
  // A step: 10 new words shown, recalled both ways; full marks schedule them a day later; progress saved under its own key.
@@ -18,4 +19,4 @@ vm.runInContext(fs.readFileSync('site/en.js','utf8').replace("window.addEventLis
  const z=vm.runInContext("sanitize({rec:{'en-001':{seen:2,stage:9,fav:1},'x':{}},perDay:7,rate:3})",ctx);assert.deepEqual(Object.keys(z.rec),['en-001']);assert.equal(z.rec['en-001'].stage,6);assert.equal(z.perDay,1);
  // App identity: own manifest, icon and worker.
  const m=JSON.parse(fs.readFileSync('site/site.webmanifest','utf8'));assert(m.name==='English Steps'&&m.start_url==='./'&&m.scope==='./');assert(fs.existsSync('site/sw.js')&&fs.existsSync('site/icon.svg'));
- console.log('PASS: English Steps — 1000 words, 120 phrases, step learning with spaced follow-up, separate storage, safe import.')})().catch(e=>{console.error(e);process.exit(1)});
+ console.log('PASS: English Steps — 2000 words, 120 phrases, step learning with spaced follow-up, separate storage, safe import.')})().catch(e=>{console.error(e);process.exit(1)});

@@ -9998,5 +9998,10005 @@
   "theme": "actions",
   "ex": "Did you vote in the election?",
   "exJa": "選挙で投票しましたか。"
+ },
+ {
+  "id": "en-1001",
+  "w": "thing",
+  "pos": "名詞",
+  "ja": "もの・こと",
+  "ipa": "θɪŋ",
+  "theme": "basics",
+  "ex": "What is that thing on the table?",
+  "exJa": "テーブルの上のあれは何ですか。"
+ },
+ {
+  "id": "en-1002",
+  "w": "way",
+  "pos": "名詞",
+  "ja": "方法・やり方・道",
+  "ipa": "weɪ",
+  "theme": "basics",
+  "ex": "This is the best way to learn English.",
+  "exJa": "これが英語を学ぶ一番いい方法です。"
+ },
+ {
+  "id": "en-1003",
+  "w": "idea",
+  "pos": "名詞",
+  "ja": "考え・アイデア",
+  "ipa": "aɪˈdiə",
+  "theme": "basics",
+  "ex": "That's a great idea!",
+  "exJa": "それはすばらしい考えですね。"
+ },
+ {
+  "id": "en-1004",
+  "w": "problem",
+  "pos": "名詞",
+  "ja": "問題",
+  "ipa": "ˈprɑbləm",
+  "theme": "basics",
+  "ex": "We have a small problem.",
+  "exJa": "ちょっとした問題があります。"
+ },
+ {
+  "id": "en-1005",
+  "w": "able",
+  "pos": "形容詞",
+  "ja": "できる",
+  "ipa": "ˈeɪbəl",
+  "theme": "description",
+  "ex": "Will you be able to come tomorrow?",
+  "exJa": "明日来ることができますか。"
+ },
+ {
+  "id": "en-1006",
+  "w": "life",
+  "pos": "名詞",
+  "ja": "人生・生活・命",
+  "ipa": "laɪf",
+  "theme": "basics",
+  "ex": "She lives a happy life in Tokyo.",
+  "exJa": "彼女は東京で幸せな生活を送っています。"
+ },
+ {
+  "id": "en-1007",
+  "w": "story",
+  "pos": "名詞",
+  "ja": "話・物語",
+  "ipa": "ˈstɔri",
+  "theme": "basics",
+  "ex": "My grandmother told me a funny story.",
+  "exJa": "祖母がおもしろい話をしてくれました。"
+ },
+ {
+  "id": "en-1008",
+  "w": "word",
+  "pos": "名詞",
+  "ja": "単語・言葉",
+  "ipa": "wɝd",
+  "theme": "basics",
+  "ex": "I don't know this word.",
+  "exJa": "この単語がわかりません。"
+ },
+ {
+  "id": "en-1009",
+  "w": "place",
+  "pos": "名詞",
+  "ja": "場所",
+  "ipa": "pleɪs",
+  "theme": "basics",
+  "ex": "This is a nice place for lunch.",
+  "exJa": "ここはランチにいい場所です。"
+ },
+ {
+  "id": "en-1010",
+  "w": "part",
+  "pos": "名詞",
+  "ja": "部分・一部",
+  "ipa": "pɑrt",
+  "theme": "basics",
+  "ex": "This is the best part of the movie.",
+  "exJa": "ここが映画の一番いいところです。"
+ },
+ {
+  "id": "en-1011",
+  "w": "become",
+  "pos": "動詞",
+  "ja": "〜になる",
+  "ipa": "bɪˈkʌm",
+  "theme": "actions",
+  "ex": "Ken wants to become a doctor.",
+  "exJa": "ケンは医者になりたいと思っています。"
+ },
+ {
+  "id": "en-1012",
+  "w": "case",
+  "pos": "名詞",
+  "ja": "場合・事例・ケース",
+  "ipa": "keɪs",
+  "theme": "basics",
+  "ex": "In that case, let's meet tomorrow.",
+  "exJa": "その場合は、明日会いましょう。"
+ },
+ {
+  "id": "en-1013",
+  "w": "group",
+  "pos": "名詞",
+  "ja": "グループ・集団",
+  "ipa": "ɡrup",
+  "theme": "basics",
+  "ex": "We studied in a small group.",
+  "exJa": "私たちは少人数のグループで勉強しました。"
+ },
+ {
+  "id": "en-1014",
+  "w": "available",
+  "pos": "形容詞",
+  "ja": "利用できる・手に入る・都合がつく",
+  "ipa": "əˈveɪləbəl",
+  "theme": "description",
+  "ex": "Is this room available tonight?",
+  "exJa": "今夜この部屋は空いていますか。"
+ },
+ {
+  "id": "en-1015",
+  "w": "example",
+  "pos": "名詞",
+  "ja": "例",
+  "ipa": "ɪɡˈzæmpəl",
+  "theme": "basics",
+  "ex": "Can you give me an example?",
+  "exJa": "例を挙げてもらえますか。"
+ },
+ {
+  "id": "en-1016",
+  "w": "fact",
+  "pos": "名詞",
+  "ja": "事実",
+  "ipa": "fækt",
+  "theme": "basics",
+  "ex": "It's a fact that the earth is round.",
+  "exJa": "地球が丸いのは事実です。"
+ },
+ {
+  "id": "en-1017",
+  "w": "reason",
+  "pos": "名詞",
+  "ja": "理由",
+  "ipa": "ˈrizən",
+  "theme": "basics",
+  "ex": "What is the reason for the delay?",
+  "exJa": "遅れの理由は何ですか。"
+ },
+ {
+  "id": "en-1018",
+  "w": "others",
+  "pos": "代名詞",
+  "ja": "ほかの人たち・ほかのもの",
+  "ipa": "ˈʌðɚz",
+  "theme": "grammar",
+  "ex": "Be kind to others.",
+  "exJa": "ほかの人には親切にしましょう。"
+ },
+ {
+  "id": "en-1019",
+  "w": "sort",
+  "pos": "名詞",
+  "ja": "種類",
+  "ipa": "sɔrt",
+  "theme": "basics",
+  "ex": "What sort of music do you like?",
+  "exJa": "どんな種類の音楽が好きですか。"
+ },
+ {
+  "id": "en-1020",
+  "w": "type",
+  "pos": "名詞",
+  "ja": "種類・型・タイプ",
+  "ipa": "taɪp",
+  "theme": "basics",
+  "ex": "What type of car do you drive?",
+  "exJa": "どんなタイプの車に乗っていますか。"
+ },
+ {
+  "id": "en-1021",
+  "w": "side",
+  "pos": "名詞",
+  "ja": "側・面",
+  "ipa": "saɪd",
+  "theme": "basics",
+  "ex": "The bank is on the other side of the street.",
+  "exJa": "銀行は通りの反対側にあります。"
+ },
+ {
+  "id": "en-1022",
+  "w": "line",
+  "pos": "名詞",
+  "ja": "線・列・行",
+  "ipa": "laɪn",
+  "theme": "basics",
+  "ex": "There was a long line at the store.",
+  "exJa": "店には長い列ができていました。"
+ },
+ {
+  "id": "en-1023",
+  "w": "top",
+  "pos": "名詞",
+  "ja": "頂上・一番上・上部",
+  "ipa": "tɑp",
+  "theme": "basics",
+  "ex": "We climbed to the top of the hill.",
+  "exJa": "私たちは丘の頂上まで登りました。"
+ },
+ {
+  "id": "en-1024",
+  "w": "ready",
+  "pos": "形容詞",
+  "ja": "準備ができた",
+  "ipa": "ˈrɛdi",
+  "theme": "description",
+  "ex": "Are you ready to go?",
+  "exJa": "出かける準備はできましたか。"
+ },
+ {
+  "id": "en-1025",
+  "w": "bottom",
+  "pos": "名詞",
+  "ja": "底・下部・一番下",
+  "ipa": "ˈbɑtəm",
+  "theme": "basics",
+  "ex": "Write your name at the bottom of the page.",
+  "exJa": "ページの一番下に名前を書いてください。"
+ },
+ {
+  "id": "en-1026",
+  "w": "middle",
+  "pos": "名詞",
+  "ja": "真ん中・中央",
+  "ipa": "ˈmɪdəl",
+  "theme": "basics",
+  "ex": "There is a tree in the middle of the park.",
+  "exJa": "公園の真ん中に木があります。"
+ },
+ {
+  "id": "en-1027",
+  "w": "front",
+  "pos": "名詞",
+  "ja": "前・正面",
+  "ipa": "frʌnt",
+  "theme": "basics",
+  "ex": "Let's meet in front of the station.",
+  "exJa": "駅の前で会いましょう。"
+ },
+ {
+  "id": "en-1028",
+  "w": "center",
+  "pos": "名詞",
+  "ja": "中心・中央・センター",
+  "ipa": "ˈsɛntɚ",
+  "theme": "basics",
+  "ex": "The hotel is in the center of the city.",
+  "exJa": "そのホテルは街の中心にあります。"
+ },
+ {
+  "id": "en-1029",
+  "w": "edge",
+  "pos": "名詞",
+  "ja": "端・縁",
+  "ipa": "ɛdʒ",
+  "theme": "basics",
+  "ex": "Don't stand near the edge of the platform.",
+  "exJa": "ホームの端の近くに立たないでください。"
+ },
+ {
+  "id": "en-1030",
+  "w": "piece",
+  "pos": "名詞",
+  "ja": "一切れ・1つ・部品",
+  "ipa": "pis",
+  "theme": "basics",
+  "ex": "Can I have a piece of cake?",
+  "exJa": "ケーキを一切れもらえますか。"
+ },
+ {
+  "id": "en-1031",
+  "w": "bit",
+  "pos": "名詞",
+  "ja": "少し・小片",
+  "ipa": "bɪt",
+  "theme": "basics",
+  "ex": "I'm a bit tired today.",
+  "exJa": "今日は少し疲れています。"
+ },
+ {
+  "id": "en-1032",
+  "w": "social",
+  "pos": "形容詞",
+  "ja": "社会の・社交の",
+  "ipa": "ˈsoʊʃəl",
+  "theme": "description",
+  "ex": "Social media is popular with young people.",
+  "exJa": "ソーシャルメディアは若い人に人気があります。"
+ },
+ {
+  "id": "en-1033",
+  "w": "lot",
+  "pos": "名詞",
+  "ja": "たくさん・多数",
+  "ipa": "lɑt",
+  "theme": "basics",
+  "ex": "I have a lot of homework today.",
+  "exJa": "今日は宿題がたくさんあります。"
+ },
+ {
+  "id": "en-1034",
+  "w": "form",
+  "pos": "名詞",
+  "ja": "用紙・形・形式",
+  "ipa": "fɔrm",
+  "theme": "basics",
+  "ex": "Please fill out this form.",
+  "exJa": "この用紙に記入してください。"
+ },
+ {
+  "id": "en-1035",
+  "w": "set",
+  "pos": "動詞",
+  "ja": "置く・設定する・（日が）沈む",
+  "ipa": "sɛt",
+  "theme": "actions",
+  "ex": "I set my alarm for six.",
+  "exJa": "目覚ましを6時にセットしました。"
+ },
+ {
+  "id": "en-1036",
+  "w": "level",
+  "pos": "名詞",
+  "ja": "レベル・水準",
+  "ipa": "ˈlɛvəl",
+  "theme": "basics",
+  "ex": "This book is good for your level.",
+  "exJa": "この本はあなたのレベルに合っています。"
+ },
+ {
+  "id": "en-1037",
+  "w": "situation",
+  "pos": "名詞",
+  "ja": "状況・立場",
+  "ipa": "ˌsɪtʃuˈeɪʃən",
+  "theme": "basics",
+  "ex": "The situation is getting better.",
+  "exJa": "状況はよくなってきています。"
+ },
+ {
+  "id": "en-1038",
+  "w": "chance",
+  "pos": "名詞",
+  "ja": "機会・可能性",
+  "ipa": "tʃæns",
+  "theme": "basics",
+  "ex": "This is a good chance to practice English.",
+  "exJa": "これは英語を練習するいい機会です。"
+ },
+ {
+  "id": "en-1039",
+  "w": "choice",
+  "pos": "名詞",
+  "ja": "選択・選択肢",
+  "ipa": "tʃɔɪs",
+  "theme": "basics",
+  "ex": "You made a good choice.",
+  "exJa": "いい選択をしましたね。"
+ },
+ {
+  "id": "en-1040",
+  "w": "decision",
+  "pos": "名詞",
+  "ja": "決定・決断",
+  "ipa": "dɪˈsɪʒən",
+  "theme": "basics",
+  "ex": "It was a difficult decision.",
+  "exJa": "それは難しい決断でした。"
+ },
+ {
+  "id": "en-1041",
+  "w": "political",
+  "pos": "形容詞",
+  "ja": "政治の・政治的な",
+  "ipa": "pəˈlɪtɪkəl",
+  "theme": "description",
+  "ex": "We don't talk about political topics at work.",
+  "exJa": "職場では政治の話はしません。"
+ },
+ {
+  "id": "en-1042",
+  "w": "opinion",
+  "pos": "名詞",
+  "ja": "意見",
+  "ipa": "əˈpɪnjən",
+  "theme": "basics",
+  "ex": "What's your opinion on this?",
+  "exJa": "これについてのあなたの意見はどうですか。"
+ },
+ {
+  "id": "en-1043",
+  "w": "advice",
+  "pos": "名詞",
+  "ja": "助言・アドバイス",
+  "ipa": "ədˈvaɪs",
+  "theme": "basics",
+  "ex": "Thank you for your advice.",
+  "exJa": "アドバイスをありがとうございます。"
+ },
+ {
+  "id": "en-1044",
+  "w": "information",
+  "pos": "名詞",
+  "ja": "情報",
+  "ipa": "ˌɪnfɚˈmeɪʃən",
+  "theme": "basics",
+  "ex": "I need more information about the trip.",
+  "exJa": "旅行についてもっと情報が必要です。"
+ },
+ {
+  "id": "en-1045",
+  "w": "knowledge",
+  "pos": "名詞",
+  "ja": "知識",
+  "ipa": "ˈnɑlɪdʒ",
+  "theme": "basics",
+  "ex": "He has a lot of knowledge about cars.",
+  "exJa": "彼は車について豊富な知識を持っています。"
+ },
+ {
+  "id": "en-1046",
+  "w": "memory",
+  "pos": "名詞",
+  "ja": "記憶・思い出・記憶力",
+  "ipa": "ˈmɛməri",
+  "theme": "basics",
+  "ex": "I have a good memory of that trip.",
+  "exJa": "その旅行にはいい思い出があります。"
+ },
+ {
+  "id": "en-1047",
+  "w": "purpose",
+  "pos": "名詞",
+  "ja": "目的",
+  "ipa": "ˈpɝpəs",
+  "theme": "basics",
+  "ex": "What is the purpose of your visit?",
+  "exJa": "訪問の目的は何ですか。"
+ },
+ {
+  "id": "en-1048",
+  "w": "effort",
+  "pos": "名詞",
+  "ja": "努力",
+  "ipa": "ˈɛfɚt",
+  "theme": "basics",
+  "ex": "She made a big effort to pass the test.",
+  "exJa": "彼女は試験に合格するために大変な努力をしました。"
+ },
+ {
+  "id": "en-1049",
+  "w": "habit",
+  "pos": "名詞",
+  "ja": "習慣・癖",
+  "ipa": "ˈhæbɪt",
+  "theme": "basics",
+  "ex": "Reading every day is a good habit.",
+  "exJa": "毎日読書をするのはいい習慣です。"
+ },
+ {
+  "id": "en-1050",
+  "w": "economic",
+  "pos": "形容詞",
+  "ja": "経済の・経済的な",
+  "ipa": "ˌɛkəˈnɑmɪk",
+  "theme": "description",
+  "ex": "The country has economic problems.",
+  "exJa": "その国は経済的な問題を抱えています。"
+ },
+ {
+  "id": "en-1051",
+  "w": "mistake",
+  "pos": "名詞",
+  "ja": "間違い・誤り",
+  "ipa": "mɪˈsteɪk",
+  "theme": "basics",
+  "ex": "I made a mistake on the test.",
+  "exJa": "テストで間違えました。"
+ },
+ {
+  "id": "en-1052",
+  "w": "least",
+  "pos": "副詞",
+  "ja": "最も少なく・（at leastで）少なくとも",
+  "ipa": "list",
+  "theme": "grammar",
+  "ex": "It takes at least an hour.",
+  "exJa": "少なくとも1時間はかかります。"
+ },
+ {
+  "id": "en-1053",
+  "w": "truth",
+  "pos": "名詞",
+  "ja": "真実・本当のこと",
+  "ipa": "truθ",
+  "theme": "basics",
+  "ex": "Please tell me the truth.",
+  "exJa": "本当のことを教えてください。"
+ },
+ {
+  "id": "en-1054",
+  "w": "secret",
+  "pos": "名詞",
+  "ja": "秘密",
+  "ipa": "ˈsikrɪt",
+  "theme": "basics",
+  "ex": "Can you keep a secret?",
+  "exJa": "秘密を守れますか。"
+ },
+ {
+  "id": "en-1055",
+  "w": "letter",
+  "pos": "名詞",
+  "ja": "手紙・文字",
+  "ipa": "ˈlɛtɚ",
+  "theme": "basics",
+  "ex": "I wrote a letter to my friend.",
+  "exJa": "友達に手紙を書きました。"
+ },
+ {
+  "id": "en-1056",
+  "w": "note",
+  "pos": "名詞",
+  "ja": "メモ・注意書き・音符",
+  "ipa": "noʊt",
+  "theme": "basics",
+  "ex": "I left a note on the table.",
+  "exJa": "テーブルの上にメモを残しました。"
+ },
+ {
+  "id": "en-1057",
+  "w": "lead",
+  "pos": "動詞",
+  "ja": "導く・率いる・（道が）通じる",
+  "ipa": "lid",
+  "theme": "actions",
+  "ex": "This road leads to the station.",
+  "exJa": "この道は駅に通じています。"
+ },
+ {
+  "id": "en-1058",
+  "w": "voice",
+  "pos": "名詞",
+  "ja": "声",
+  "ipa": "vɔɪs",
+  "theme": "basics",
+  "ex": "She has a beautiful voice.",
+  "exJa": "彼女はきれいな声をしています。"
+ },
+ {
+  "id": "en-1059",
+  "w": "sound",
+  "pos": "名詞",
+  "ja": "音",
+  "ipa": "saʊnd",
+  "theme": "basics",
+  "ex": "I heard a strange sound outside.",
+  "exJa": "外で変な音が聞こえました。"
+ },
+ {
+  "id": "en-1060",
+  "w": "human",
+  "pos": "形容詞",
+  "ja": "人間の・人間らしい",
+  "ipa": "ˈhjumən",
+  "theme": "description",
+  "ex": "The human body is mostly water.",
+  "exJa": "人間の体の大部分は水です。"
+ },
+ {
+  "id": "en-1061",
+  "w": "noise",
+  "pos": "名詞",
+  "ja": "騒音・物音・雑音",
+  "ipa": "nɔɪz",
+  "theme": "basics",
+  "ex": "Please don't make so much noise.",
+  "exJa": "そんなに騒がしくしないでください。"
+ },
+ {
+  "id": "en-1062",
+  "w": "sentence",
+  "pos": "名詞",
+  "ja": "文・判決",
+  "ipa": "ˈsɛntəns",
+  "theme": "basics",
+  "ex": "Please read the first sentence.",
+  "exJa": "最初の文を読んでください。"
+ },
+ {
+  "id": "en-1063",
+  "w": "meaning",
+  "pos": "名詞",
+  "ja": "意味",
+  "ipa": "ˈminɪŋ",
+  "theme": "basics",
+  "ex": "What is the meaning of this word?",
+  "exJa": "この単語の意味は何ですか。"
+ },
+ {
+  "id": "en-1064",
+  "w": "tip",
+  "pos": "名詞",
+  "ja": "ヒント・コツ・チップ",
+  "ipa": "tɪp",
+  "theme": "basics",
+  "ex": "Thanks for the useful tip.",
+  "exJa": "役に立つヒントをありがとう。"
+ },
+ {
+  "id": "en-1065",
+  "w": "detail",
+  "pos": "名詞",
+  "ja": "詳細・細部",
+  "ipa": "dɪˈteɪl",
+  "theme": "basics",
+  "ex": "Please send me the details by email.",
+  "exJa": "詳細をメールで送ってください。"
+ },
+ {
+  "id": "en-1066",
+  "w": "difference",
+  "pos": "名詞",
+  "ja": "違い・差",
+  "ipa": "ˈdɪfrəns",
+  "theme": "basics",
+  "ex": "What's the difference between these two?",
+  "exJa": "この2つの違いは何ですか。"
+ },
+ {
+  "id": "en-1067",
+  "w": "method",
+  "pos": "名詞",
+  "ja": "方法",
+  "ipa": "ˈmɛθəd",
+  "theme": "basics",
+  "ex": "This is a good method for learning words.",
+  "exJa": "これは単語を覚えるいい方法です。"
+ },
+ {
+  "id": "en-1068",
+  "w": "system",
+  "pos": "名詞",
+  "ja": "制度・システム・仕組み",
+  "ipa": "ˈsɪstəm",
+  "theme": "basics",
+  "ex": "The school has a new computer system.",
+  "exJa": "学校に新しいコンピューターシステムが入りました。"
+ },
+ {
+  "id": "en-1069",
+  "w": "personal",
+  "pos": "形容詞",
+  "ja": "個人の・個人的な",
+  "ipa": "ˈpɝsənəl",
+  "theme": "description",
+  "ex": "May I ask a personal question?",
+  "exJa": "個人的な質問をしてもいいですか。"
+ },
+ {
+  "id": "en-1070",
+  "w": "process",
+  "pos": "名詞",
+  "ja": "過程・手順・プロセス",
+  "ipa": "ˈprɑsɛs",
+  "theme": "basics",
+  "ex": "Learning a language is a slow process.",
+  "exJa": "言語の習得はゆっくりとした過程です。"
+ },
+ {
+  "id": "en-1071",
+  "w": "step",
+  "pos": "名詞",
+  "ja": "一歩・段階・手順",
+  "ipa": "stɛp",
+  "theme": "basics",
+  "ex": "The first step is the hardest.",
+  "exJa": "最初の一歩が一番難しいです。"
+ },
+ {
+  "id": "en-1072",
+  "w": "stage",
+  "pos": "名詞",
+  "ja": "段階・舞台・ステージ",
+  "ipa": "steɪdʒ",
+  "theme": "basics",
+  "ex": "The singer walked onto the stage.",
+  "exJa": "歌手がステージに上がりました。"
+ },
+ {
+  "id": "en-1073",
+  "w": "space",
+  "pos": "名詞",
+  "ja": "空間・場所・宇宙",
+  "ipa": "speɪs",
+  "theme": "basics",
+  "ex": "There isn't enough space in my bag.",
+  "exJa": "かばんに十分なスペースがありません。"
+ },
+ {
+  "id": "en-1074",
+  "w": "shape",
+  "pos": "名詞",
+  "ja": "形・状態",
+  "ipa": "ʃeɪp",
+  "theme": "basics",
+  "ex": "The cake is in the shape of a heart.",
+  "exJa": "そのケーキはハートの形をしています。"
+ },
+ {
+  "id": "en-1075",
+  "w": "power",
+  "pos": "名詞",
+  "ja": "力・電力・権力",
+  "ipa": "ˈpaʊɚ",
+  "theme": "basics",
+  "ex": "The power went out last night.",
+  "exJa": "昨夜停電しました。"
+ },
+ {
+  "id": "en-1076",
+  "w": "energy",
+  "pos": "名詞",
+  "ja": "エネルギー・元気",
+  "ipa": "ˈɛnɚdʒi",
+  "theme": "basics",
+  "ex": "I have no energy today.",
+  "exJa": "今日は元気が出ません。"
+ },
+ {
+  "id": "en-1077",
+  "w": "natural",
+  "pos": "形容詞",
+  "ja": "自然の・当然の・生まれつきの",
+  "ipa": "ˈnætʃərəl",
+  "theme": "description",
+  "ex": "It's natural to feel nervous before a test.",
+  "exJa": "試験の前に緊張するのは当然です。"
+ },
+ {
+  "id": "en-1078",
+  "w": "force",
+  "pos": "名詞",
+  "ja": "力・強さ・軍隊",
+  "ipa": "fɔrs",
+  "theme": "basics",
+  "ex": "The force of the wind broke the window.",
+  "exJa": "風の力で窓が割れました。"
+ },
+ {
+  "id": "en-1079",
+  "w": "pressure",
+  "pos": "名詞",
+  "ja": "圧力・プレッシャー",
+  "ipa": "ˈprɛʃɚ",
+  "theme": "basics",
+  "ex": "I feel a lot of pressure at work.",
+  "exJa": "仕事で大きなプレッシャーを感じています。"
+ },
+ {
+  "id": "en-1080",
+  "w": "stand",
+  "pos": "動詞",
+  "ja": "立つ・立っている・我慢する",
+  "ipa": "stænd",
+  "theme": "actions",
+  "ex": "We had to stand on the train.",
+  "exJa": "電車では立っていなければなりませんでした。"
+ },
+ {
+  "id": "en-1081",
+  "w": "speed",
+  "pos": "名詞",
+  "ja": "速さ・速度",
+  "ipa": "spid",
+  "theme": "basics",
+  "ex": "The train was going at full speed.",
+  "exJa": "電車は全速力で走っていました。"
+ },
+ {
+  "id": "en-1082",
+  "w": "distance",
+  "pos": "名詞",
+  "ja": "距離",
+  "ipa": "ˈdɪstəns",
+  "theme": "basics",
+  "ex": "What's the distance from here to the airport?",
+  "exJa": "ここから空港までの距離はどのくらいですか。"
+ },
+ {
+  "id": "en-1083",
+  "w": "length",
+  "pos": "名詞",
+  "ja": "長さ",
+  "ipa": "lɛŋθ",
+  "theme": "basics",
+  "ex": "What's the length of this table?",
+  "exJa": "このテーブルの長さはどのくらいですか。"
+ },
+ {
+  "id": "en-1084",
+  "w": "height",
+  "pos": "名詞",
+  "ja": "高さ・身長",
+  "ipa": "haɪt",
+  "theme": "basics",
+  "ex": "What is your height?",
+  "exJa": "身長はどのくらいですか。"
+ },
+ {
+  "id": "en-1085",
+  "w": "less",
+  "pos": "限定詞",
+  "ja": "より少ない・より少なく",
+  "ipa": "lɛs",
+  "theme": "grammar",
+  "ex": "I want to spend less money.",
+  "exJa": "使うお金を減らしたいです。"
+ },
+ {
+  "id": "en-1086",
+  "w": "weight",
+  "pos": "名詞",
+  "ja": "重さ・体重",
+  "ipa": "weɪt",
+  "theme": "basics",
+  "ex": "I want to lose some weight.",
+  "exJa": "少し体重を落としたいです。"
+ },
+ {
+  "id": "en-1087",
+  "w": "medical",
+  "pos": "形容詞",
+  "ja": "医療の・医学の",
+  "ipa": "ˈmɛdɪkəl",
+  "theme": "description",
+  "ex": "She is a medical student.",
+  "exJa": "彼女は医学生です。"
+ },
+ {
+  "id": "en-1088",
+  "w": "amount",
+  "pos": "名詞",
+  "ja": "量・額",
+  "ipa": "əˈmaʊnt",
+  "theme": "basics",
+  "ex": "He drinks a large amount of coffee.",
+  "exJa": "彼は大量のコーヒーを飲みます。"
+ },
+ {
+  "id": "en-1089",
+  "w": "total",
+  "pos": "名詞",
+  "ja": "合計・総数",
+  "ipa": "ˈtoʊtəl",
+  "theme": "basics",
+  "ex": "The total is twenty dollars.",
+  "exJa": "合計は20ドルです。"
+ },
+ {
+  "id": "en-1090",
+  "w": "figure",
+  "pos": "名詞",
+  "ja": "数字・人物・図・姿",
+  "ipa": "ˈfɪɡjɚ",
+  "theme": "basics",
+  "ex": "Please check the figures again.",
+  "exJa": "数字をもう一度確認してください。"
+ },
+ {
+  "id": "en-1091",
+  "w": "image",
+  "pos": "名詞",
+  "ja": "画像・イメージ・印象",
+  "ipa": "ˈɪmɪdʒ",
+  "theme": "basics",
+  "ex": "Click on the image to see more.",
+  "exJa": "画像をクリックすると詳しく見られます。"
+ },
+ {
+  "id": "en-1092",
+  "w": "view",
+  "pos": "名詞",
+  "ja": "眺め・意見・見方",
+  "ipa": "vju",
+  "theme": "basics",
+  "ex": "The room has a great view of the sea.",
+  "exJa": "その部屋は海の眺めがすばらしいです。"
+ },
+ {
+  "id": "en-1093",
+  "w": "scene",
+  "pos": "名詞",
+  "ja": "場面・光景・現場",
+  "ipa": "sin",
+  "theme": "basics",
+  "ex": "I love the last scene of this movie.",
+  "exJa": "この映画の最後の場面が大好きです。"
+ },
+ {
+  "id": "en-1094",
+  "w": "sight",
+  "pos": "名詞",
+  "ja": "光景・視力・名所",
+  "ipa": "saɪt",
+  "theme": "basics",
+  "ex": "We went to see the sights in Kyoto.",
+  "exJa": "私たちは京都の名所を見に行きました。"
+ },
+ {
+  "id": "en-1095",
+  "w": "event",
+  "pos": "名詞",
+  "ja": "出来事・行事・イベント",
+  "ipa": "ɪˈvɛnt",
+  "theme": "basics",
+  "ex": "The school event starts at ten.",
+  "exJa": "学校の行事は10時に始まります。"
+ },
+ {
+  "id": "en-1096",
+  "w": "physical",
+  "pos": "形容詞",
+  "ja": "身体の・物理的な",
+  "ipa": "ˈfɪzɪkəl",
+  "theme": "description",
+  "ex": "Physical exercise is good for your health.",
+  "exJa": "体を動かすことは健康にいいです。"
+ },
+ {
+  "id": "en-1097",
+  "w": "activity",
+  "pos": "名詞",
+  "ja": "活動",
+  "ipa": "ækˈtɪvəti",
+  "theme": "basics",
+  "ex": "We have many fun activities at camp.",
+  "exJa": "キャンプには楽しい活動がたくさんあります。"
+ },
+ {
+  "id": "en-1098",
+  "w": "action",
+  "pos": "名詞",
+  "ja": "行動・動作・アクション",
+  "ipa": "ˈækʃən",
+  "theme": "basics",
+  "ex": "We need to take action now.",
+  "exJa": "今すぐ行動を起こす必要があります。"
+ },
+ {
+  "id": "en-1099",
+  "w": "movement",
+  "pos": "名詞",
+  "ja": "動き・運動",
+  "ipa": "ˈmuvmənt",
+  "theme": "basics",
+  "ex": "The dancer's movements were beautiful.",
+  "exJa": "そのダンサーの動きは美しかったです。"
+ },
+ {
+  "id": "en-1100",
+  "w": "direction",
+  "pos": "名詞",
+  "ja": "方向・（複数形で）指示・道順",
+  "ipa": "dəˈrɛkʃən",
+  "theme": "basics",
+  "ex": "We walked in the wrong direction.",
+  "exJa": "私たちは間違った方向に歩いてしまいました。"
+ },
+ {
+  "id": "en-1101",
+  "w": "north",
+  "pos": "名詞",
+  "ja": "北",
+  "ipa": "nɔrθ",
+  "theme": "basics",
+  "ex": "The wind is blowing from the north.",
+  "exJa": "風が北から吹いています。"
+ },
+ {
+  "id": "en-1102",
+  "w": "die",
+  "pos": "動詞",
+  "ja": "死ぬ・（植物が）枯れる",
+  "ipa": "daɪ",
+  "theme": "actions",
+  "ex": "My plants died while I was away.",
+  "exJa": "留守の間に植物が枯れてしまいました。"
+ },
+ {
+  "id": "en-1103",
+  "w": "south",
+  "pos": "名詞",
+  "ja": "南",
+  "ipa": "saʊθ",
+  "theme": "basics",
+  "ex": "Birds fly south in winter.",
+  "exJa": "鳥は冬に南へ飛んでいきます。"
+ },
+ {
+  "id": "en-1104",
+  "w": "east",
+  "pos": "名詞",
+  "ja": "東",
+  "ipa": "ist",
+  "theme": "basics",
+  "ex": "The sun rises in the east.",
+  "exJa": "太陽は東から昇ります。"
+ },
+ {
+  "id": "en-1105",
+  "w": "central",
+  "pos": "形容詞",
+  "ja": "中心の・中央の",
+  "ipa": "ˈsɛntrəl",
+  "theme": "description",
+  "ex": "Our office is in central Tokyo.",
+  "exJa": "私たちの事務所は東京の中心部にあります。"
+ },
+ {
+  "id": "en-1106",
+  "w": "west",
+  "pos": "名詞",
+  "ja": "西",
+  "ipa": "wɛst",
+  "theme": "basics",
+  "ex": "The sun sets in the west.",
+  "exJa": "太陽は西に沈みます。"
+ },
+ {
+  "id": "en-1107",
+  "w": "home",
+  "pos": "名詞",
+  "ja": "家・家庭・故郷",
+  "ipa": "hoʊm",
+  "theme": "basics",
+  "ex": "My home is near the station.",
+  "exJa": "私の家は駅の近くです。"
+ },
+ {
+  "id": "en-1108",
+  "w": "issue",
+  "pos": "名詞",
+  "ja": "問題・論点・（雑誌の）号",
+  "ipa": "ˈɪʃu",
+  "theme": "basics",
+  "ex": "This is an important issue for everyone.",
+  "exJa": "これはみんなにとって重要な問題です。"
+ },
+ {
+  "id": "en-1109",
+  "w": "body",
+  "pos": "名詞",
+  "ja": "体・本体",
+  "ipa": "ˈbɑdi",
+  "theme": "basics",
+  "ex": "Exercise is good for your body.",
+  "exJa": "運動は体にいいです。"
+ },
+ {
+  "id": "en-1110",
+  "w": "program",
+  "pos": "名詞",
+  "ja": "番組・プログラム・計画",
+  "ipa": "ˈproʊɡræm",
+  "theme": "basics",
+  "ex": "What's your favorite TV program?",
+  "exJa": "好きなテレビ番組は何ですか。"
+ },
+ {
+  "id": "en-1111",
+  "w": "interest",
+  "pos": "名詞",
+  "ja": "興味・関心・利子",
+  "ipa": "ˈɪntrəst",
+  "theme": "basics",
+  "ex": "She has a strong interest in art.",
+  "exJa": "彼女は美術に強い関心があります。"
+ },
+ {
+  "id": "en-1112",
+  "w": "effect",
+  "pos": "名詞",
+  "ja": "効果・影響",
+  "ipa": "ɪˈfɛkt",
+  "theme": "basics",
+  "ex": "The medicine had no effect on me.",
+  "exJa": "その薬は私には効果がありませんでした。"
+ },
+ {
+  "id": "en-1113",
+  "w": "role",
+  "pos": "名詞",
+  "ja": "役割・役",
+  "ipa": "roʊl",
+  "theme": "basics",
+  "ex": "She played the main role in the play.",
+  "exJa": "彼女はその劇で主役を演じました。"
+ },
+ {
+  "id": "en-1114",
+  "w": "serious",
+  "pos": "形容詞",
+  "ja": "深刻な・真剣な・重大な",
+  "ipa": "ˈsɪriəs",
+  "theme": "description",
+  "ex": "This is a serious problem.",
+  "exJa": "これは深刻な問題です。"
+ },
+ {
+  "id": "en-1115",
+  "w": "rate",
+  "pos": "名詞",
+  "ja": "割合・率・料金",
+  "ipa": "reɪt",
+  "theme": "basics",
+  "ex": "What's the exchange rate today?",
+  "exJa": "今日の為替レートはいくらですか。"
+ },
+ {
+  "id": "en-1116",
+  "w": "relationship",
+  "pos": "名詞",
+  "ja": "関係・交際",
+  "ipa": "rɪˈleɪʃənʃɪp",
+  "theme": "basics",
+  "ex": "I have a good relationship with my boss.",
+  "exJa": "上司とはいい関係を築いています。"
+ },
+ {
+  "id": "en-1117",
+  "w": "model",
+  "pos": "名詞",
+  "ja": "型・模型・モデル",
+  "ipa": "ˈmɑdəl",
+  "theme": "basics",
+  "ex": "This phone is the latest model.",
+  "exJa": "このスマホは最新モデルです。"
+ },
+ {
+  "id": "en-1118",
+  "w": "ground",
+  "pos": "名詞",
+  "ja": "地面・グラウンド",
+  "ipa": "ɡraʊnd",
+  "theme": "basics",
+  "ex": "The ground is wet after the rain.",
+  "exJa": "雨の後で地面がぬれています。"
+ },
+ {
+  "id": "en-1119",
+  "w": "generally",
+  "pos": "副詞",
+  "ja": "一般に・たいてい",
+  "ipa": "ˈdʒɛnərəli",
+  "theme": "grammar",
+  "ex": "I generally get up at seven.",
+  "exJa": "私はたいてい7時に起きます。"
+ },
+ {
+  "id": "en-1120",
+  "w": "site",
+  "pos": "名詞",
+  "ja": "場所・用地・（ウェブ）サイト",
+  "ipa": "saɪt",
+  "theme": "basics",
+  "ex": "Check the site for more information.",
+  "exJa": "詳しくはサイトを確認してください。"
+ },
+ {
+  "id": "en-1121",
+  "w": "worker",
+  "pos": "名詞",
+  "ja": "労働者・働く人",
+  "ipa": "ˈwɝkɚ",
+  "theme": "basics",
+  "ex": "He is a hard worker.",
+  "exJa": "彼はよく働く人です。"
+ },
+ {
+  "id": "en-1122",
+  "w": "attention",
+  "pos": "名詞",
+  "ja": "注意・注目",
+  "ipa": "əˈtɛnʃən",
+  "theme": "basics",
+  "ex": "Please pay attention to the teacher.",
+  "exJa": "先生の話をよく聞いてください。"
+ },
+ {
+  "id": "en-1123",
+  "w": "traditional",
+  "pos": "形容詞",
+  "ja": "伝統的な",
+  "ipa": "trəˈdɪʃənəl",
+  "theme": "description",
+  "ex": "We ate traditional Japanese food.",
+  "exJa": "私たちは伝統的な和食を食べました。"
+ },
+ {
+  "id": "en-1124",
+  "w": "film",
+  "pos": "名詞",
+  "ja": "映画・フィルム",
+  "ipa": "fɪlm",
+  "theme": "basics",
+  "ex": "We watched a French film last night.",
+  "exJa": "昨夜フランス映画を見ました。"
+ },
+ {
+  "id": "en-1125",
+  "w": "source",
+  "pos": "名詞",
+  "ja": "源・出所・情報源",
+  "ipa": "sɔrs",
+  "theme": "basics",
+  "ex": "The internet is a useful source of information.",
+  "exJa": "インターネットは便利な情報源です。"
+ },
+ {
+  "id": "en-1126",
+  "w": "kill",
+  "pos": "動詞",
+  "ja": "殺す・（時間を）つぶす",
+  "ipa": "kɪl",
+  "theme": "actions",
+  "ex": "We killed time at a café.",
+  "exJa": "私たちはカフェで時間をつぶしました。"
+ },
+ {
+  "id": "en-1127",
+  "w": "organization",
+  "pos": "名詞",
+  "ja": "組織・団体",
+  "ipa": "ˌɔrɡənəˈzeɪʃən",
+  "theme": "basics",
+  "ex": "He works for an international organization.",
+  "exJa": "彼は国際機関で働いています。"
+ },
+ {
+  "id": "en-1128",
+  "w": "education",
+  "pos": "名詞",
+  "ja": "教育",
+  "ipa": "ˌɛdʒəˈkeɪʃən",
+  "theme": "basics",
+  "ex": "Education is very important.",
+  "exJa": "教育はとても大切です。"
+ },
+ {
+  "id": "en-1129",
+  "w": "sense",
+  "pos": "名詞",
+  "ja": "感覚・意味・分別",
+  "ipa": "sɛns",
+  "theme": "basics",
+  "ex": "Dogs have a good sense of smell.",
+  "exJa": "犬はすぐれた嗅覚を持っています。"
+ },
+ {
+  "id": "en-1130",
+  "w": "death",
+  "pos": "名詞",
+  "ja": "死",
+  "ipa": "dɛθ",
+  "theme": "basics",
+  "ex": "The movie is about life and death.",
+  "exJa": "その映画は生と死を描いています。"
+ },
+ {
+  "id": "en-1131",
+  "w": "development",
+  "pos": "名詞",
+  "ja": "発展・開発・成長",
+  "ipa": "dɪˈvɛləpmənt",
+  "theme": "basics",
+  "ex": "Sleep is important for a child's development.",
+  "exJa": "睡眠は子どもの成長にとって大切です。"
+ },
+ {
+  "id": "en-1132",
+  "w": "present",
+  "pos": "形容詞",
+  "ja": "出席している・現在の",
+  "ipa": "ˈprɛzənt",
+  "theme": "description",
+  "ex": "Ten students were present today.",
+  "exJa": "今日は10人の生徒が出席していました。"
+ },
+ {
+  "id": "en-1133",
+  "w": "drug",
+  "pos": "名詞",
+  "ja": "薬・薬物",
+  "ipa": "drʌɡ",
+  "theme": "basics",
+  "ex": "This drug helps with headaches.",
+  "exJa": "この薬は頭痛に効きます。"
+ },
+ {
+  "id": "en-1134",
+  "w": "evidence",
+  "pos": "名詞",
+  "ja": "証拠・根拠",
+  "ipa": "ˈɛvɪdəns",
+  "theme": "basics",
+  "ex": "There is no evidence for that idea.",
+  "exJa": "その考えには根拠がありません。"
+ },
+ {
+  "id": "en-1135",
+  "w": "nature",
+  "pos": "名詞",
+  "ja": "自然・性質",
+  "ipa": "ˈneɪtʃɚ",
+  "theme": "basics",
+  "ex": "I love walking in nature.",
+  "exJa": "自然の中を歩くのが大好きです。"
+ },
+ {
+  "id": "en-1136",
+  "w": "paper",
+  "pos": "名詞",
+  "ja": "紙・新聞・書類",
+  "ipa": "ˈpeɪpɚ",
+  "theme": "basics",
+  "ex": "Can I have a piece of paper?",
+  "exJa": "紙を1枚もらえますか。"
+ },
+ {
+  "id": "en-1137",
+  "w": "ability",
+  "pos": "名詞",
+  "ja": "能力",
+  "ipa": "əˈbɪləti",
+  "theme": "basics",
+  "ex": "She has the ability to speak four languages.",
+  "exJa": "彼女は4か国語を話す能力があります。"
+ },
+ {
+  "id": "en-1138",
+  "w": "alive",
+  "pos": "形容詞",
+  "ja": "生きている",
+  "ipa": "əˈlaɪv",
+  "theme": "description",
+  "ex": "The fish is still alive.",
+  "exJa": "その魚はまだ生きています。"
+ },
+ {
+  "id": "en-1139",
+  "w": "advantage",
+  "pos": "名詞",
+  "ja": "利点・有利な点",
+  "ipa": "ədˈvæntɪdʒ",
+  "theme": "basics",
+  "ex": "Living near the station is a big advantage.",
+  "exJa": "駅の近くに住んでいるのは大きな利点です。"
+ },
+ {
+  "id": "en-1140",
+  "w": "dead",
+  "pos": "形容詞",
+  "ja": "死んだ・枯れた・（電池が）切れた",
+  "ipa": "dɛd",
+  "theme": "description",
+  "ex": "My phone is dead.",
+  "exJa": "携帯の電池が切れました。"
+ },
+ {
+  "id": "en-1141",
+  "w": "benefit",
+  "pos": "名詞",
+  "ja": "利益・恩恵・メリット",
+  "ipa": "ˈbɛnəfɪt",
+  "theme": "basics",
+  "ex": "Exercise has many benefits.",
+  "exJa": "運動には多くの利点があります。"
+ },
+ {
+  "id": "en-1142",
+  "w": "awake",
+  "pos": "形容詞",
+  "ja": "目が覚めている・起きている",
+  "ipa": "əˈweɪk",
+  "theme": "description",
+  "ex": "Are you still awake?",
+  "exJa": "まだ起きていますか。"
+ },
+ {
+  "id": "en-1143",
+  "w": "attack",
+  "pos": "動詞",
+  "ja": "攻撃する・襲う・攻める",
+  "ipa": "əˈtæk",
+  "theme": "actions",
+  "ex": "Our team attacked in the second half.",
+  "exJa": "私たちのチームは後半に攻めました。"
+ },
+ {
+  "id": "en-1144",
+  "w": "challenge",
+  "pos": "名詞",
+  "ja": "挑戦・難題・課題",
+  "ipa": "ˈtʃæləndʒ",
+  "theme": "basics",
+  "ex": "Learning a new language is a challenge.",
+  "exJa": "新しい言語を学ぶのは大変な挑戦です。"
+ },
+ {
+  "id": "en-1145",
+  "w": "asleep",
+  "pos": "形容詞",
+  "ja": "眠っている",
+  "ipa": "əˈslip",
+  "theme": "description",
+  "ex": "The baby is asleep now.",
+  "exJa": "赤ちゃんは今眠っています。"
+ },
+ {
+  "id": "en-1146",
+  "w": "solution",
+  "pos": "名詞",
+  "ja": "解決策・答え",
+  "ipa": "səˈluʃən",
+  "theme": "basics",
+  "ex": "We need to find a solution.",
+  "exJa": "解決策を見つける必要があります。"
+ },
+ {
+  "id": "en-1147",
+  "w": "aware",
+  "pos": "形容詞",
+  "ja": "気づいている・知っている",
+  "ipa": "əˈwɛr",
+  "theme": "description",
+  "ex": "I wasn't aware of the problem.",
+  "exJa": "その問題には気づいていませんでした。"
+ },
+ {
+  "id": "en-1148",
+  "w": "success",
+  "pos": "名詞",
+  "ja": "成功",
+  "ipa": "səkˈsɛs",
+  "theme": "basics",
+  "ex": "The party was a big success.",
+  "exJa": "パーティーは大成功でした。"
+ },
+ {
+  "id": "en-1149",
+  "w": "familiar",
+  "pos": "形容詞",
+  "ja": "よく知っている・なじみのある・見覚えのある",
+  "ipa": "fəˈmɪljɚ",
+  "theme": "description",
+  "ex": "His face looks familiar.",
+  "exJa": "彼の顔には見覚えがあります。"
+ },
+ {
+  "id": "en-1150",
+  "w": "failure",
+  "pos": "名詞",
+  "ja": "失敗・故障",
+  "ipa": "ˈfeɪljɚ",
+  "theme": "basics",
+  "ex": "Failure is part of learning.",
+  "exJa": "失敗は学びの一部です。"
+ },
+ {
+  "id": "en-1151",
+  "w": "useful",
+  "pos": "形容詞",
+  "ja": "役に立つ・便利な",
+  "ipa": "ˈjusfəl",
+  "theme": "description",
+  "ex": "This app is very useful.",
+  "exJa": "このアプリはとても役に立ちます。"
+ },
+ {
+  "id": "en-1152",
+  "w": "progress",
+  "pos": "名詞",
+  "ja": "進歩・上達・進行",
+  "ipa": "ˈprɑɡrɛs",
+  "theme": "basics",
+  "ex": "You are making good progress.",
+  "exJa": "順調に上達していますね。"
+ },
+ {
+  "id": "en-1153",
+  "w": "useless",
+  "pos": "形容詞",
+  "ja": "役に立たない・無駄な",
+  "ipa": "ˈjusləs",
+  "theme": "description",
+  "ex": "This old map is useless.",
+  "exJa": "この古い地図は役に立ちません。"
+ },
+ {
+  "id": "en-1154",
+  "w": "surface",
+  "pos": "名詞",
+  "ja": "表面",
+  "ipa": "ˈsɝfəs",
+  "theme": "basics",
+  "ex": "The surface of the table is smooth.",
+  "exJa": "テーブルの表面はつるつるしています。"
+ },
+ {
+  "id": "en-1155",
+  "w": "helpful",
+  "pos": "形容詞",
+  "ja": "役に立つ・親切な",
+  "ipa": "ˈhɛlpfəl",
+  "theme": "description",
+  "ex": "The staff were very helpful.",
+  "exJa": "スタッフはとても親切でした。"
+ },
+ {
+  "id": "en-1156",
+  "w": "prove",
+  "pos": "動詞",
+  "ja": "証明する",
+  "ipa": "pruv",
+  "theme": "actions",
+  "ex": "Can you prove it?",
+  "exJa": "それを証明できますか。"
+ },
+ {
+  "id": "en-1157",
+  "w": "material",
+  "pos": "名詞",
+  "ja": "材料・素材・資料",
+  "ipa": "məˈtɪriəl",
+  "theme": "basics",
+  "ex": "What material is this shirt made of?",
+  "exJa": "このシャツは何の素材でできていますか。"
+ },
+ {
+  "id": "en-1158",
+  "w": "harmful",
+  "pos": "形容詞",
+  "ja": "有害な",
+  "ipa": "ˈhɑrmfəl",
+  "theme": "description",
+  "ex": "Smoking is harmful to your health.",
+  "exJa": "喫煙は健康に害があります。"
+ },
+ {
+  "id": "en-1159",
+  "w": "plastic",
+  "pos": "名詞",
+  "ja": "プラスチック・ビニール",
+  "ipa": "ˈplæstɪk",
+  "theme": "basics",
+  "ex": "This bottle is made of plastic.",
+  "exJa": "このボトルはプラスチックでできています。"
+ },
+ {
+  "id": "en-1160",
+  "w": "ordinary",
+  "pos": "形容詞",
+  "ja": "普通の・平凡な",
+  "ipa": "ˈɔrdəˌnɛri",
+  "theme": "description",
+  "ex": "It was just an ordinary day.",
+  "exJa": "ごく普通の一日でした。"
+ },
+ {
+  "id": "en-1161",
+  "w": "quality",
+  "pos": "名詞",
+  "ja": "質・品質",
+  "ipa": "ˈkwɑləti",
+  "theme": "basics",
+  "ex": "The quality of this bag is very good.",
+  "exJa": "このかばんの品質はとてもいいです。"
+ },
+ {
+  "id": "en-1162",
+  "w": "obvious",
+  "pos": "形容詞",
+  "ja": "明らかな・明白な",
+  "ipa": "ˈɑbviəs",
+  "theme": "description",
+  "ex": "The answer is obvious.",
+  "exJa": "答えは明らかです。"
+ },
+ {
+  "id": "en-1163",
+  "w": "condition",
+  "pos": "名詞",
+  "ja": "状態・条件",
+  "ipa": "kənˈdɪʃən",
+  "theme": "basics",
+  "ex": "The car is in good condition.",
+  "exJa": "その車は状態がいいです。"
+ },
+ {
+  "id": "en-1164",
+  "w": "exact",
+  "pos": "形容詞",
+  "ja": "正確な・ちょうどの",
+  "ipa": "ɪɡˈzækt",
+  "theme": "description",
+  "ex": "Do you know the exact time?",
+  "exJa": "正確な時刻を知っていますか。"
+ },
+ {
+  "id": "en-1165",
+  "w": "theory",
+  "pos": "名詞",
+  "ja": "理論・説",
+  "ipa": "ˈθiəri",
+  "theme": "basics",
+  "ex": "That's an interesting theory.",
+  "exJa": "それはおもしろい説ですね。"
+ },
+ {
+  "id": "en-1166",
+  "w": "correct",
+  "pos": "形容詞",
+  "ja": "正しい・正確な",
+  "ipa": "kəˈrɛkt",
+  "theme": "description",
+  "ex": "Your answer is correct.",
+  "exJa": "あなたの答えは正しいです。"
+ },
+ {
+  "id": "en-1167",
+  "w": "principle",
+  "pos": "名詞",
+  "ja": "原理・原則・主義",
+  "ipa": "ˈprɪnsəpəl",
+  "theme": "basics",
+  "ex": "It's against my principles.",
+  "exJa": "それは私の主義に反します。"
+ },
+ {
+  "id": "en-1168",
+  "w": "incorrect",
+  "pos": "形容詞",
+  "ja": "間違った・不正確な",
+  "ipa": "ˌɪnkəˈrɛkt",
+  "theme": "description",
+  "ex": "This information is incorrect.",
+  "exJa": "この情報は間違っています。"
+ },
+ {
+  "id": "en-1169",
+  "w": "release",
+  "pos": "動詞",
+  "ja": "発売する・公開する・放す",
+  "ipa": "rɪˈlis",
+  "theme": "actions",
+  "ex": "The band will release a new album next month.",
+  "exJa": "そのバンドは来月新しいアルバムを発売します。"
+ },
+ {
+  "id": "en-1170",
+  "w": "aspect",
+  "pos": "名詞",
+  "ja": "面・側面",
+  "ipa": "ˈæspɛkt",
+  "theme": "basics",
+  "ex": "We talked about every aspect of the plan.",
+  "exJa": "私たちは計画のあらゆる面について話し合いました。"
+ },
+ {
+  "id": "en-1171",
+  "w": "accurate",
+  "pos": "形容詞",
+  "ja": "正確な",
+  "ipa": "ˈækjərət",
+  "theme": "description",
+  "ex": "This clock is very accurate.",
+  "exJa": "この時計はとても正確です。"
+ },
+ {
+  "id": "en-1172",
+  "w": "factor",
+  "pos": "名詞",
+  "ja": "要因・要素",
+  "ipa": "ˈfæktɚ",
+  "theme": "basics",
+  "ex": "Price is an important factor for me.",
+  "exJa": "私にとって価格は重要な要素です。"
+ },
+ {
+  "id": "en-1173",
+  "w": "complete",
+  "pos": "形容詞",
+  "ja": "完全な・完成した",
+  "ipa": "kəmˈplit",
+  "theme": "description",
+  "ex": "The list is not complete yet.",
+  "exJa": "リストはまだ完成していません。"
+ },
+ {
+  "id": "en-1174",
+  "w": "feature",
+  "pos": "名詞",
+  "ja": "特徴・機能・特集",
+  "ipa": "ˈfitʃɚ",
+  "theme": "basics",
+  "ex": "This phone has many useful features.",
+  "exJa": "このスマホには便利な機能がたくさんあります。"
+ },
+ {
+  "id": "en-1175",
+  "w": "complex",
+  "pos": "形容詞",
+  "ja": "複雑な",
+  "ipa": "kəmˈplɛks",
+  "theme": "description",
+  "ex": "This is a complex problem.",
+  "exJa": "これは複雑な問題です。"
+ },
+ {
+  "id": "en-1176",
+  "w": "element",
+  "pos": "名詞",
+  "ja": "要素・元素",
+  "ipa": "ˈɛləmənt",
+  "theme": "basics",
+  "ex": "Trust is an important element of friendship.",
+  "exJa": "信頼は友情の大切な要素です。"
+ },
+ {
+  "id": "en-1177",
+  "w": "efficient",
+  "pos": "形容詞",
+  "ja": "効率的な・有能な",
+  "ipa": "ɪˈfɪʃənt",
+  "theme": "description",
+  "ex": "This is a more efficient way to work.",
+  "exJa": "これはもっと効率的な働き方です。"
+ },
+ {
+  "id": "en-1178",
+  "w": "structure",
+  "pos": "名詞",
+  "ja": "構造・組織",
+  "ipa": "ˈstrʌktʃɚ",
+  "theme": "basics",
+  "ex": "Let's look at the structure of this sentence.",
+  "exJa": "この文の構造を見てみましょう。"
+ },
+ {
+  "id": "en-1179",
+  "w": "effective",
+  "pos": "形容詞",
+  "ja": "効果的な・有効な",
+  "ipa": "ɪˈfɛktɪv",
+  "theme": "description",
+  "ex": "This medicine is very effective.",
+  "exJa": "この薬はとてもよく効きます。"
+ },
+ {
+  "id": "en-1180",
+  "w": "pattern",
+  "pos": "名詞",
+  "ja": "模様・柄・パターン",
+  "ipa": "ˈpætɚn",
+  "theme": "basics",
+  "ex": "I like the pattern on your shirt.",
+  "exJa": "あなたのシャツの柄が好きです。"
+ },
+ {
+  "id": "en-1181",
+  "w": "reasonable",
+  "pos": "形容詞",
+  "ja": "手ごろな・妥当な・分別のある",
+  "ipa": "ˈrizənəbəl",
+  "theme": "description",
+  "ex": "The prices here are reasonable.",
+  "exJa": "ここの値段は手ごろです。"
+ },
+ {
+  "id": "en-1182",
+  "w": "range",
+  "pos": "名詞",
+  "ja": "範囲・幅・品ぞろえ",
+  "ipa": "reɪndʒ",
+  "theme": "basics",
+  "ex": "The store has a wide range of shoes.",
+  "exJa": "その店には幅広い種類の靴があります。"
+ },
+ {
+  "id": "en-1183",
+  "w": "spread",
+  "pos": "動詞",
+  "ja": "広がる・広める・塗る",
+  "ipa": "sprɛd",
+  "theme": "actions",
+  "ex": "The news spread quickly.",
+  "exJa": "そのニュースはすぐに広まりました。"
+ },
+ {
+  "id": "en-1184",
+  "w": "responsible",
+  "pos": "形容詞",
+  "ja": "責任がある・責任感のある",
+  "ipa": "rɪˈspɑnsəbəl",
+  "theme": "description",
+  "ex": "Who is responsible for this project?",
+  "exJa": "このプロジェクトの責任者は誰ですか。"
+ },
+ {
+  "id": "en-1185",
+  "w": "scale",
+  "pos": "名詞",
+  "ja": "規模・尺度・体重計",
+  "ipa": "skeɪl",
+  "theme": "basics",
+  "ex": "I stood on the scale this morning.",
+  "exJa": "今朝、体重計に乗りました。"
+ },
+ {
+  "id": "en-1186",
+  "w": "independent",
+  "pos": "形容詞",
+  "ja": "独立した・自立した",
+  "ipa": "ˌɪndɪˈpɛndənt",
+  "theme": "description",
+  "ex": "She is very independent.",
+  "exJa": "彼女はとても自立しています。"
+ },
+ {
+  "id": "en-1187",
+  "w": "series",
+  "pos": "名詞",
+  "ja": "シリーズ・連続",
+  "ipa": "ˈsɪriz",
+  "theme": "basics",
+  "ex": "I'm watching a new TV series.",
+  "exJa": "新しい連続ドラマを見ています。"
+ },
+ {
+  "id": "en-1188",
+  "w": "positive",
+  "pos": "形容詞",
+  "ja": "前向きな・肯定的な・陽性の",
+  "ipa": "ˈpɑzətɪv",
+  "theme": "description",
+  "ex": "Try to stay positive.",
+  "exJa": "前向きでいるようにしましょう。"
+ },
+ {
+  "id": "en-1189",
+  "w": "variety",
+  "pos": "名詞",
+  "ja": "多様性・種類・いろいろ",
+  "ipa": "vəˈraɪəti",
+  "theme": "basics",
+  "ex": "The shop sells a variety of fruit.",
+  "exJa": "その店ではいろいろな果物を売っています。"
+ },
+ {
+  "id": "en-1190",
+  "w": "negative",
+  "pos": "形容詞",
+  "ja": "否定的な・後ろ向きな・陰性の",
+  "ipa": "ˈnɛɡətɪv",
+  "theme": "description",
+  "ex": "Don't be so negative.",
+  "exJa": "そんなに後ろ向きにならないでください。"
+ },
+ {
+  "id": "en-1191",
+  "w": "contrast",
+  "pos": "名詞",
+  "ja": "対照・対比・差",
+  "ipa": "ˈkɑntræst",
+  "theme": "basics",
+  "ex": "There is a big contrast between the two cities.",
+  "exJa": "その2つの都市は大きく異なっています。"
+ },
+ {
+  "id": "en-1192",
+  "w": "curious",
+  "pos": "形容詞",
+  "ja": "好奇心の強い・知りたがる",
+  "ipa": "ˈkjʊriəs",
+  "theme": "description",
+  "ex": "Children are curious about everything.",
+  "exJa": "子どもは何にでも興味を持ちます。"
+ },
+ {
+  "id": "en-1193",
+  "w": "balance",
+  "pos": "名詞",
+  "ja": "バランス・つり合い・残高",
+  "ipa": "ˈbæləns",
+  "theme": "basics",
+  "ex": "I lost my balance and fell.",
+  "exJa": "バランスを崩して転びました。"
+ },
+ {
+  "id": "en-1194",
+  "w": "creative",
+  "pos": "形容詞",
+  "ja": "創造的な・独創的な",
+  "ipa": "kriˈeɪtɪv",
+  "theme": "description",
+  "ex": "She is a very creative person.",
+  "exJa": "彼女はとても創造力のある人です。"
+ },
+ {
+  "id": "en-1195",
+  "w": "connection",
+  "pos": "名詞",
+  "ja": "つながり・関係・接続",
+  "ipa": "kəˈnɛkʃən",
+  "theme": "basics",
+  "ex": "The internet connection is slow today.",
+  "exJa": "今日はインターネットの接続が遅いです。"
+ },
+ {
+  "id": "en-1196",
+  "w": "whistle",
+  "pos": "動詞",
+  "ja": "口笛を吹く・笛を吹く",
+  "ipa": "ˈwɪsəl",
+  "theme": "actions",
+  "ex": "He whistles while he works.",
+  "exJa": "彼は仕事をしながら口笛を吹きます。"
+ },
+ {
+  "id": "en-1197",
+  "w": "confident",
+  "pos": "形容詞",
+  "ja": "自信のある・確信している",
+  "ipa": "ˈkɑnfɪdənt",
+  "theme": "description",
+  "ex": "I feel confident about the test.",
+  "exJa": "試験には自信があります。"
+ },
+ {
+  "id": "en-1198",
+  "w": "influence",
+  "pos": "名詞",
+  "ja": "影響・影響力",
+  "ipa": "ˈɪnfluəns",
+  "theme": "basics",
+  "ex": "My father had a big influence on me.",
+  "exJa": "父は私に大きな影響を与えました。"
+ },
+ {
+  "id": "en-1199",
+  "w": "grateful",
+  "pos": "形容詞",
+  "ja": "感謝している・ありがたく思う",
+  "ipa": "ˈɡreɪtfəl",
+  "theme": "description",
+  "ex": "I'm grateful for your help.",
+  "exJa": "助けてくれて感謝しています。"
+ },
+ {
+  "id": "en-1200",
+  "w": "impact",
+  "pos": "名詞",
+  "ja": "影響・衝撃",
+  "ipa": "ˈɪmpækt",
+  "theme": "basics",
+  "ex": "The new rule had a big impact on students.",
+  "exJa": "新しい規則は生徒に大きな影響を与えました。"
+ },
+ {
+  "id": "en-1201",
+  "w": "generous",
+  "pos": "形容詞",
+  "ja": "気前のよい・寛大な",
+  "ipa": "ˈdʒɛnərəs",
+  "theme": "description",
+  "ex": "My grandfather is very generous.",
+  "exJa": "祖父はとても気前がいいです。"
+ },
+ {
+  "id": "en-1202",
+  "w": "access",
+  "pos": "名詞",
+  "ja": "利用・アクセス・接近",
+  "ipa": "ˈæksɛs",
+  "theme": "basics",
+  "ex": "Do you have access to the internet?",
+  "exJa": "インターネットを利用できますか。"
+ },
+ {
+  "id": "en-1203",
+  "w": "achieve",
+  "pos": "動詞",
+  "ja": "達成する・成し遂げる",
+  "ipa": "əˈtʃiv",
+  "theme": "actions",
+  "ex": "She worked hard to achieve her goal.",
+  "exJa": "彼女は目標を達成するために一生懸命努力しました。"
+ },
+ {
+  "id": "en-1204",
+  "w": "ancient",
+  "pos": "形容詞",
+  "ja": "古代の・とても古い",
+  "ipa": "ˈeɪnʃənt",
+  "theme": "description",
+  "ex": "We visited an ancient temple in Kyoto.",
+  "exJa": "私たちは京都の古いお寺を訪れました。"
+ },
+ {
+  "id": "en-1205",
+  "w": "menu",
+  "pos": "名詞",
+  "ja": "メニュー・献立",
+  "ipa": "ˈmɛnju",
+  "theme": "food",
+  "ex": "Can I see the menu, please?",
+  "exJa": "メニューを見せてもらえますか。"
+ },
+ {
+  "id": "en-1206",
+  "w": "act",
+  "pos": "動詞",
+  "ja": "行動する・演じる",
+  "ipa": "ækt",
+  "theme": "actions",
+  "ex": "We need to act quickly.",
+  "exJa": "私たちはすぐに行動する必要があります。"
+ },
+ {
+  "id": "en-1207",
+  "w": "owner",
+  "pos": "名詞",
+  "ja": "持ち主・所有者・オーナー",
+  "ipa": "ˈoʊnɚ",
+  "theme": "people",
+  "ex": "Who is the owner of this bike?",
+  "exJa": "この自転車の持ち主は誰ですか。"
+ },
+ {
+  "id": "en-1208",
+  "w": "likely",
+  "pos": "形容詞",
+  "ja": "ありそうな・〜しそうな",
+  "ipa": "ˈlaɪkli",
+  "theme": "grammar",
+  "ex": "It is likely to rain this afternoon.",
+  "exJa": "今日の午後は雨が降りそうです。"
+ },
+ {
+  "id": "en-1209",
+  "w": "furniture",
+  "pos": "名詞",
+  "ja": "家具",
+  "ipa": "ˈfɝnɪtʃɚ",
+  "theme": "home",
+  "ex": "We bought some new furniture.",
+  "exJa": "私たちは新しい家具を買いました。"
+ },
+ {
+  "id": "en-1210",
+  "w": "hiking",
+  "pos": "名詞",
+  "ja": "ハイキング",
+  "ipa": "ˈhaɪkɪŋ",
+  "theme": "hobbies",
+  "ex": "We go hiking every weekend.",
+  "exJa": "私たちは毎週末ハイキングに行きます。"
+ },
+ {
+  "id": "en-1211",
+  "w": "valley",
+  "pos": "名詞",
+  "ja": "谷・渓谷",
+  "ipa": "ˈvæli",
+  "theme": "nature",
+  "ex": "There is a small village in the valley.",
+  "exJa": "谷に小さな村があります。"
+ },
+ {
+  "id": "en-1212",
+  "w": "pet",
+  "pos": "名詞",
+  "ja": "ペット",
+  "ipa": "pɛt",
+  "theme": "animals",
+  "ex": "Do you have any pets?",
+  "exJa": "ペットを飼っていますか。"
+ },
+ {
+  "id": "en-1213",
+  "w": "capital",
+  "pos": "名詞",
+  "ja": "首都・大文字",
+  "ipa": "ˈkæpɪtəl",
+  "theme": "places",
+  "ex": "Tokyo is the capital of Japan.",
+  "exJa": "東京は日本の首都です。"
+ },
+ {
+  "id": "en-1214",
+  "w": "college",
+  "pos": "名詞",
+  "ja": "大学・専門学校",
+  "ipa": "ˈkɑlɪdʒ",
+  "theme": "school",
+  "ex": "My sister goes to college in Osaka.",
+  "exJa": "姉は大阪の大学に通っています。"
+ },
+ {
+  "id": "en-1215",
+  "w": "society",
+  "pos": "名詞",
+  "ja": "社会",
+  "ipa": "səˈsaɪəti",
+  "theme": "society",
+  "ex": "Japan is an aging society.",
+  "exJa": "日本は高齢化社会です。"
+ },
+ {
+  "id": "en-1216",
+  "w": "admire",
+  "pos": "動詞",
+  "ja": "尊敬する・感心する・見とれる",
+  "ipa": "ədˈmaɪɚ",
+  "theme": "actions",
+  "ex": "I really admire my teacher.",
+  "exJa": "私は先生をとても尊敬しています。"
+ },
+ {
+  "id": "en-1217",
+  "w": "sweater",
+  "pos": "名詞",
+  "ja": "セーター",
+  "ipa": "ˈswɛtɚ",
+  "theme": "clothes",
+  "ex": "This sweater is very warm.",
+  "exJa": "このセーターはとても暖かいです。"
+ },
+ {
+  "id": "en-1218",
+  "w": "vehicle",
+  "pos": "名詞",
+  "ja": "乗り物・車両",
+  "ipa": "ˈviɪkəl",
+  "theme": "transport",
+  "ex": "No vehicles are allowed in this park.",
+  "exJa": "この公園には車両は入れません。"
+ },
+ {
+  "id": "en-1219",
+  "w": "modern",
+  "pos": "形容詞",
+  "ja": "現代の・現代的な・最新の",
+  "ipa": "ˈmɑdɚn",
+  "theme": "description",
+  "ex": "The hotel has a modern design.",
+  "exJa": "そのホテルは現代的なデザインです。"
+ },
+ {
+  "id": "en-1220",
+  "w": "technology",
+  "pos": "名詞",
+  "ja": "科学技術・テクノロジー",
+  "ipa": "tɛkˈnɑlədʒi",
+  "theme": "technology",
+  "ex": "Technology changes our lives.",
+  "exJa": "テクノロジーは私たちの生活を変えます。"
+ },
+ {
+  "id": "en-1221",
+  "w": "employer",
+  "pos": "名詞",
+  "ja": "雇い主・雇用主",
+  "ipa": "ɪmˈplɔɪɚ",
+  "theme": "work",
+  "ex": "My employer pays me every month.",
+  "exJa": "雇い主は毎月給料を払ってくれます。"
+ },
+ {
+  "id": "en-1222",
+  "w": "forehead",
+  "pos": "名詞",
+  "ja": "額・おでこ",
+  "ipa": "ˈfɔrhɛd",
+  "theme": "body",
+  "ex": "He has a small scar on his forehead.",
+  "exJa": "彼はおでこに小さな傷があります。"
+ },
+ {
+  "id": "en-1223",
+  "w": "advise",
+  "pos": "動詞",
+  "ja": "助言する・勧める",
+  "ipa": "ədˈvaɪz",
+  "theme": "actions",
+  "ex": "The doctor advised me to rest.",
+  "exJa": "医者は私に休むように勧めました。"
+ },
+ {
+  "id": "en-1224",
+  "w": "disease",
+  "pos": "名詞",
+  "ja": "病気・疾患",
+  "ipa": "dɪˈziz",
+  "theme": "health",
+  "ex": "Heart disease is common in older people.",
+  "exJa": "心臓病は高齢者によく見られます。"
+ },
+ {
+  "id": "en-1225",
+  "w": "recipe",
+  "pos": "名詞",
+  "ja": "レシピ・作り方",
+  "ipa": "ˈrɛsəpi",
+  "theme": "food",
+  "ex": "Can you give me the recipe for this cake?",
+  "exJa": "このケーキのレシピを教えてくれますか。"
+ },
+ {
+  "id": "en-1226",
+  "w": "daily",
+  "pos": "形容詞",
+  "ja": "毎日の・日常の",
+  "ipa": "ˈdeɪli",
+  "theme": "time",
+  "ex": "Walking is part of my daily routine.",
+  "exJa": "散歩は私の毎日の日課です。"
+ },
+ {
+  "id": "en-1227",
+  "w": "mood",
+  "pos": "名詞",
+  "ja": "気分・機嫌",
+  "ipa": "mud",
+  "theme": "feelings",
+  "ex": "She is in a good mood today.",
+  "exJa": "彼女は今日、機嫌がいいです。"
+ },
+ {
+  "id": "en-1228",
+  "w": "afford",
+  "pos": "動詞",
+  "ja": "（お金・時間の）余裕がある",
+  "ipa": "əˈfɔrd",
+  "theme": "actions",
+  "ex": "I can't afford a new car.",
+  "exJa": "新しい車を買う余裕はありません。"
+ },
+ {
+  "id": "en-1229",
+  "w": "manager",
+  "pos": "名詞",
+  "ja": "責任者・店長・部長",
+  "ipa": "ˈmænɪdʒɚ",
+  "theme": "people",
+  "ex": "I'd like to speak to the manager.",
+  "exJa": "責任者と話したいのですが。"
+ },
+ {
+  "id": "en-1230",
+  "w": "recent",
+  "pos": "形容詞",
+  "ja": "最近の",
+  "ipa": "ˈrisənt",
+  "theme": "description",
+  "ex": "This is a recent photo of my family.",
+  "exJa": "これは私の家族の最近の写真です。"
+ },
+ {
+  "id": "en-1231",
+  "w": "mostly",
+  "pos": "副詞",
+  "ja": "主に・たいてい",
+  "ipa": "ˈmoʊstli",
+  "theme": "grammar",
+  "ex": "I mostly eat at home.",
+  "exJa": "私はたいてい家で食べます。"
+ },
+ {
+  "id": "en-1232",
+  "w": "appreciate",
+  "pos": "動詞",
+  "ja": "感謝する・よさがわかる",
+  "ipa": "əˈpriʃiˌeɪt",
+  "theme": "actions",
+  "ex": "I really appreciate your help.",
+  "exJa": "手伝ってくれて本当に感謝しています。"
+ },
+ {
+  "id": "en-1233",
+  "w": "carpet",
+  "pos": "名詞",
+  "ja": "カーペット・じゅうたん",
+  "ipa": "ˈkɑrpɪt",
+  "theme": "home",
+  "ex": "The cat is sleeping on the carpet.",
+  "exJa": "猫がじゅうたんの上で寝ています。"
+ },
+ {
+  "id": "en-1234",
+  "w": "camping",
+  "pos": "名詞",
+  "ja": "キャンプ",
+  "ipa": "ˈkæmpɪŋ",
+  "theme": "hobbies",
+  "ex": "We went camping by the lake.",
+  "exJa": "私たちは湖のそばへキャンプに行きました。"
+ },
+ {
+  "id": "en-1235",
+  "w": "cliff",
+  "pos": "名詞",
+  "ja": "崖",
+  "ipa": "klɪf",
+  "theme": "nature",
+  "ex": "Don't stand too close to the cliff.",
+  "exJa": "崖に近づきすぎないでください。"
+ },
+ {
+  "id": "en-1236",
+  "w": "attract",
+  "pos": "動詞",
+  "ja": "引きつける・魅了する",
+  "ipa": "əˈtrækt",
+  "theme": "actions",
+  "ex": "The festival attracts many tourists.",
+  "exJa": "その祭りは多くの観光客を引きつけます。"
+ },
+ {
+  "id": "en-1237",
+  "w": "kitten",
+  "pos": "名詞",
+  "ja": "子猫",
+  "ipa": "ˈkɪtən",
+  "theme": "animals",
+  "ex": "The kitten is playing with a ball.",
+  "exJa": "子猫がボールで遊んでいます。"
+ },
+ {
+  "id": "en-1238",
+  "w": "brand",
+  "pos": "名詞",
+  "ja": "ブランド・銘柄",
+  "ipa": "brænd",
+  "theme": "shopping",
+  "ex": "What brand of coffee do you like?",
+  "exJa": "どの銘柄のコーヒーが好きですか。"
+ },
+ {
+  "id": "en-1239",
+  "w": "wedding",
+  "pos": "名詞",
+  "ja": "結婚式",
+  "ipa": "ˈwɛdɪŋ",
+  "theme": "smalltalk",
+  "ex": "We went to my friend's wedding.",
+  "exJa": "私たちは友人の結婚式に行きました。"
+ },
+ {
+  "id": "en-1240",
+  "w": "meal",
+  "pos": "名詞",
+  "ja": "食事",
+  "ipa": "mil",
+  "theme": "food",
+  "ex": "We had a nice meal together.",
+  "exJa": "私たちは一緒においしい食事をしました。"
+ },
+ {
+  "id": "en-1241",
+  "w": "border",
+  "pos": "名詞",
+  "ja": "国境・境界・縁",
+  "ipa": "ˈbɔrdɚ",
+  "theme": "places",
+  "ex": "We crossed the border by bus.",
+  "exJa": "私たちはバスで国境を越えました。"
+ },
+ {
+  "id": "en-1242",
+  "w": "current",
+  "pos": "形容詞",
+  "ja": "現在の・今の",
+  "ipa": "ˈkɝənt",
+  "theme": "description",
+  "ex": "What is your current address?",
+  "exJa": "現在の住所はどこですか。"
+ },
+ {
+  "id": "en-1243",
+  "w": "cost",
+  "pos": "動詞",
+  "ja": "（費用が）かかる・（値段が）〜である",
+  "ipa": "kɔst",
+  "theme": "money",
+  "ex": "How much does this bag cost?",
+  "exJa": "このかばんはいくらですか。"
+ },
+ {
+  "id": "en-1244",
+  "w": "kindergarten",
+  "pos": "名詞",
+  "ja": "幼稚園",
+  "ipa": "ˈkɪndɚˌɡɑrtən",
+  "theme": "school",
+  "ex": "My son goes to kindergarten.",
+  "exJa": "息子は幼稚園に通っています。"
+ },
+ {
+  "id": "en-1245",
+  "w": "community",
+  "pos": "名詞",
+  "ja": "地域社会・共同体",
+  "ipa": "kəˈmjunəti",
+  "theme": "society",
+  "ex": "Our community has a big festival every summer.",
+  "exJa": "私たちの地域では毎年夏に大きなお祭りがあります。"
+ },
+ {
+  "id": "en-1246",
+  "w": "beat",
+  "pos": "動詞",
+  "ja": "打ち負かす・たたく",
+  "ipa": "bit",
+  "theme": "actions",
+  "ex": "Our team beat them 3 to 1.",
+  "exJa": "私たちのチームは3対1で彼らに勝ちました。"
+ },
+ {
+  "id": "en-1247",
+  "w": "staff",
+  "pos": "名詞",
+  "ja": "職員・スタッフ",
+  "ipa": "stæf",
+  "theme": "people",
+  "ex": "The hotel staff were very kind.",
+  "exJa": "ホテルのスタッフはとても親切でした。"
+ },
+ {
+  "id": "en-1248",
+  "w": "behave",
+  "pos": "動詞",
+  "ja": "振る舞う・行儀よくする",
+  "ipa": "bɪˈheɪv",
+  "theme": "actions",
+  "ex": "Please behave yourself at the party.",
+  "exJa": "パーティーでは行儀よくしてね。"
+ },
+ {
+  "id": "en-1249",
+  "w": "hoodie",
+  "pos": "名詞",
+  "ja": "パーカー",
+  "ipa": "ˈhʊdi",
+  "theme": "clothes",
+  "ex": "He always wears a gray hoodie.",
+  "exJa": "彼はいつもグレーのパーカーを着ています。"
+ },
+ {
+  "id": "en-1250",
+  "w": "van",
+  "pos": "名詞",
+  "ja": "ワゴン車・バン",
+  "ipa": "væn",
+  "theme": "transport",
+  "ex": "We moved our things in a van.",
+  "exJa": "私たちはバンで荷物を運びました。"
+ },
+ {
+  "id": "en-1251",
+  "w": "previous",
+  "pos": "形容詞",
+  "ja": "前の・以前の",
+  "ipa": "ˈpriviəs",
+  "theme": "description",
+  "ex": "I met him on my previous trip.",
+  "exJa": "彼には前回の旅行で会いました。"
+ },
+ {
+  "id": "en-1252",
+  "w": "mainly",
+  "pos": "副詞",
+  "ja": "主に",
+  "ipa": "ˈmeɪnli",
+  "theme": "grammar",
+  "ex": "I mainly use my phone for email.",
+  "exJa": "私は主にメールのために携帯を使います。"
+ },
+ {
+  "id": "en-1253",
+  "w": "machine",
+  "pos": "名詞",
+  "ja": "機械",
+  "ipa": "məˈʃin",
+  "theme": "technology",
+  "ex": "The coffee machine is broken.",
+  "exJa": "コーヒーマシンが壊れています。"
+ },
+ {
+  "id": "en-1254",
+  "w": "forecast",
+  "pos": "名詞",
+  "ja": "予報・予測",
+  "ipa": "ˈfɔrˌkæst",
+  "theme": "weather",
+  "ex": "The weather forecast says it will snow.",
+  "exJa": "天気予報によると雪が降るそうです。"
+ },
+ {
+  "id": "en-1255",
+  "w": "position",
+  "pos": "名詞",
+  "ja": "職・地位・位置",
+  "ipa": "pəˈzɪʃən",
+  "theme": "work",
+  "ex": "She applied for a position at the bank.",
+  "exJa": "彼女は銀行の職に応募しました。"
+ },
+ {
+  "id": "en-1256",
+  "w": "cheek",
+  "pos": "名詞",
+  "ja": "頬",
+  "ipa": "tʃik",
+  "theme": "body",
+  "ex": "She kissed the baby on the cheek.",
+  "exJa": "彼女は赤ちゃんの頬にキスをしました。"
+ },
+ {
+  "id": "en-1257",
+  "w": "sheet",
+  "pos": "名詞",
+  "ja": "シーツ・（紙の）1枚",
+  "ipa": "ʃit",
+  "theme": "home",
+  "ex": "I changed the sheets on the bed.",
+  "exJa": "ベッドのシーツを替えました。"
+ },
+ {
+  "id": "en-1258",
+  "w": "dish",
+  "pos": "名詞",
+  "ja": "料理・皿",
+  "ipa": "dɪʃ",
+  "theme": "food",
+  "ex": "This is my favorite dish.",
+  "exJa": "これは私の大好きな料理です。"
+ },
+ {
+  "id": "en-1259",
+  "w": "belong",
+  "pos": "動詞",
+  "ja": "（〜の）ものである・所属する",
+  "ipa": "bɪˈlɔŋ",
+  "theme": "actions",
+  "ex": "This book belongs to Amy.",
+  "exJa": "この本はエイミーのものです。"
+ },
+ {
+  "id": "en-1260",
+  "w": "fishing",
+  "pos": "名詞",
+  "ja": "釣り",
+  "ipa": "ˈfɪʃɪŋ",
+  "theme": "hobbies",
+  "ex": "My father loves fishing.",
+  "exJa": "父は釣りが大好きです。"
+ },
+ {
+  "id": "en-1261",
+  "w": "cave",
+  "pos": "名詞",
+  "ja": "洞窟・ほら穴",
+  "ipa": "keɪv",
+  "theme": "nature",
+  "ex": "Bats live in this cave.",
+  "exJa": "この洞窟にはコウモリが住んでいます。"
+ },
+ {
+  "id": "en-1262",
+  "w": "bend",
+  "pos": "動詞",
+  "ja": "曲げる・かがむ",
+  "ipa": "bɛnd",
+  "theme": "actions",
+  "ex": "Bend your knees a little.",
+  "exJa": "ひざを少し曲げてください。"
+ },
+ {
+  "id": "en-1263",
+  "w": "puppy",
+  "pos": "名詞",
+  "ja": "子犬",
+  "ipa": "ˈpʌpi",
+  "theme": "animals",
+  "ex": "We got a puppy last week.",
+  "exJa": "先週、子犬を飼い始めました。"
+ },
+ {
+  "id": "en-1264",
+  "w": "final",
+  "pos": "形容詞",
+  "ja": "最後の・最終の",
+  "ipa": "ˈfaɪnəl",
+  "theme": "description",
+  "ex": "This is the final question.",
+  "exJa": "これが最後の質問です。"
+ },
+ {
+  "id": "en-1265",
+  "w": "illness",
+  "pos": "名詞",
+  "ja": "病気",
+  "ipa": "ˈɪlnəs",
+  "theme": "health",
+  "ex": "He missed school because of illness.",
+  "exJa": "彼は病気で学校を休みました。"
+ },
+ {
+  "id": "en-1266",
+  "w": "employee",
+  "pos": "名詞",
+  "ja": "従業員・社員",
+  "ipa": "ɪmˈplɔɪi",
+  "theme": "people",
+  "ex": "The company has 50 employees.",
+  "exJa": "その会社には50人の従業員がいます。"
+ },
+ {
+  "id": "en-1267",
+  "w": "blame",
+  "pos": "動詞",
+  "ja": "責める・〜のせいにする",
+  "ipa": "bleɪm",
+  "theme": "actions",
+  "ex": "Don't blame me for your mistake.",
+  "exJa": "自分の間違いを私のせいにしないで。"
+ },
+ {
+  "id": "en-1268",
+  "w": "port",
+  "pos": "名詞",
+  "ja": "港・港町",
+  "ipa": "pɔrt",
+  "theme": "places",
+  "ex": "The ship arrived at the port.",
+  "exJa": "船が港に着きました。"
+ },
+ {
+  "id": "en-1269",
+  "w": "junior high",
+  "pos": "名詞",
+  "ja": "中学校",
+  "ipa": "ˌdʒunjɚ ˈhaɪ",
+  "theme": "school",
+  "ex": "Ken is in junior high.",
+  "exJa": "ケンは中学生です。"
+ },
+ {
+  "id": "en-1270",
+  "w": "population",
+  "pos": "名詞",
+  "ja": "人口",
+  "ipa": "ˌpɑpjəˈleɪʃən",
+  "theme": "society",
+  "ex": "What is the population of Tokyo?",
+  "exJa": "東京の人口はどのくらいですか。"
+ },
+ {
+  "id": "en-1271",
+  "w": "bowl",
+  "pos": "名詞",
+  "ja": "お椀・ボウル・どんぶり",
+  "ipa": "boʊl",
+  "theme": "food",
+  "ex": "I had a bowl of rice.",
+  "exJa": "ご飯を1杯食べました。"
+ },
+ {
+  "id": "en-1272",
+  "w": "bother",
+  "pos": "動詞",
+  "ja": "悩ませる・邪魔をする",
+  "ipa": "ˈbɑðɚ",
+  "theme": "actions",
+  "ex": "Sorry to bother you.",
+  "exJa": "お邪魔してすみません。"
+ },
+ {
+  "id": "en-1273",
+  "w": "fully",
+  "pos": "副詞",
+  "ja": "完全に・十分に",
+  "ipa": "ˈfʊli",
+  "theme": "grammar",
+  "ex": "The hotel is fully booked.",
+  "exJa": "そのホテルは満室です。"
+ },
+ {
+  "id": "en-1274",
+  "w": "weekly",
+  "pos": "形容詞",
+  "ja": "毎週の・週1回の",
+  "ipa": "ˈwikli",
+  "theme": "time",
+  "ex": "We have a weekly meeting on Monday.",
+  "exJa": "毎週月曜日に定例会議があります。"
+ },
+ {
+  "id": "en-1275",
+  "w": "main",
+  "pos": "形容詞",
+  "ja": "主な・主要な",
+  "ipa": "meɪn",
+  "theme": "description",
+  "ex": "The main entrance is on the left.",
+  "exJa": "正面入口は左側です。"
+ },
+ {
+  "id": "en-1276",
+  "w": "cushion",
+  "pos": "名詞",
+  "ja": "クッション・座布団",
+  "ipa": "ˈkʊʃən",
+  "theme": "home",
+  "ex": "She put a cushion on the chair.",
+  "exJa": "彼女は椅子にクッションを置きました。"
+ },
+ {
+  "id": "en-1277",
+  "w": "emotion",
+  "pos": "名詞",
+  "ja": "感情",
+  "ipa": "ɪˈmoʊʃən",
+  "theme": "feelings",
+  "ex": "He doesn't show his emotions.",
+  "exJa": "彼は感情を表に出しません。"
+ },
+ {
+  "id": "en-1278",
+  "w": "breathe",
+  "pos": "動詞",
+  "ja": "呼吸する・息をする",
+  "ipa": "brið",
+  "theme": "actions",
+  "ex": "Breathe slowly and relax.",
+  "exJa": "ゆっくり息をして、リラックスしてください。"
+ },
+ {
+  "id": "en-1279",
+  "w": "cycling",
+  "pos": "名詞",
+  "ja": "サイクリング・自転車に乗ること",
+  "ipa": "ˈsaɪklɪŋ",
+  "theme": "hobbies",
+  "ex": "Cycling is good exercise.",
+  "exJa": "サイクリングは良い運動です。"
+ },
+ {
+  "id": "en-1280",
+  "w": "vest",
+  "pos": "名詞",
+  "ja": "ベスト・チョッキ",
+  "ipa": "vɛst",
+  "theme": "clothes",
+  "ex": "He wore a vest over his shirt.",
+  "exJa": "彼はシャツの上にベストを着ていました。"
+ },
+ {
+  "id": "en-1281",
+  "w": "waterfall",
+  "pos": "名詞",
+  "ja": "滝",
+  "ipa": "ˈwɔtɚˌfɔl",
+  "theme": "nature",
+  "ex": "The waterfall is very beautiful.",
+  "exJa": "その滝はとても美しいです。"
+ },
+ {
+  "id": "en-1282",
+  "w": "tram",
+  "pos": "名詞",
+  "ja": "路面電車",
+  "ipa": "træm",
+  "theme": "transport",
+  "ex": "We took a tram to the station.",
+  "exJa": "私たちは路面電車で駅へ行きました。"
+ },
+ {
+  "id": "en-1283",
+  "w": "brush",
+  "pos": "動詞",
+  "ja": "（ブラシで）磨く・とかす",
+  "ipa": "brʌʃ",
+  "theme": "actions",
+  "ex": "Brush your teeth before bed.",
+  "exJa": "寝る前に歯を磨きなさい。"
+ },
+ {
+  "id": "en-1284",
+  "w": "assistant",
+  "pos": "名詞",
+  "ja": "助手・アシスタント",
+  "ipa": "əˈsɪstənt",
+  "theme": "people",
+  "ex": "My assistant will call you tomorrow.",
+  "exJa": "明日、私のアシスタントがお電話します。"
+ },
+ {
+  "id": "en-1285",
+  "w": "spoon",
+  "pos": "名詞",
+  "ja": "スプーン",
+  "ipa": "spun",
+  "theme": "food",
+  "ex": "Can I have a spoon, please?",
+  "exJa": "スプーンをいただけますか。"
+ },
+ {
+  "id": "en-1286",
+  "w": "major",
+  "pos": "形容詞",
+  "ja": "主要な・大きな・重大な",
+  "ipa": "ˈmeɪdʒɚ",
+  "theme": "description",
+  "ex": "This is a major problem.",
+  "exJa": "これは重大な問題です。"
+ },
+ {
+  "id": "en-1287",
+  "w": "robot",
+  "pos": "名詞",
+  "ja": "ロボット",
+  "ipa": "ˈroʊbɑt",
+  "theme": "technology",
+  "ex": "This robot can clean the floor.",
+  "exJa": "このロボットは床を掃除できます。"
+ },
+ {
+  "id": "en-1288",
+  "w": "duty",
+  "pos": "名詞",
+  "ja": "義務・職務・任務",
+  "ipa": "ˈduti",
+  "theme": "work",
+  "ex": "It is my duty to help them.",
+  "exJa": "彼らを助けるのは私の義務です。"
+ },
+ {
+  "id": "en-1289",
+  "w": "duck",
+  "pos": "名詞",
+  "ja": "アヒル・カモ",
+  "ipa": "dʌk",
+  "theme": "animals",
+  "ex": "There are ducks in the pond.",
+  "exJa": "池にカモがいます。"
+ },
+ {
+  "id": "en-1290",
+  "w": "care",
+  "pos": "動詞",
+  "ja": "気にかける・大切に思う",
+  "ipa": "kɛr",
+  "theme": "actions",
+  "ex": "I really care about my family.",
+  "exJa": "私は家族をとても大切に思っています。"
+ },
+ {
+  "id": "en-1291",
+  "w": "chin",
+  "pos": "名詞",
+  "ja": "あご",
+  "ipa": "tʃɪn",
+  "theme": "body",
+  "ex": "He has a beard on his chin.",
+  "exJa": "彼はあごひげを生やしています。"
+ },
+ {
+  "id": "en-1292",
+  "w": "completely",
+  "pos": "副詞",
+  "ja": "完全に・すっかり",
+  "ipa": "kəmˈplitli",
+  "theme": "grammar",
+  "ex": "I completely forgot about the meeting.",
+  "exJa": "会議のことをすっかり忘れていました。"
+ },
+ {
+  "id": "en-1293",
+  "w": "harbor",
+  "pos": "名詞",
+  "ja": "港",
+  "ipa": "ˈhɑrbɚ",
+  "theme": "places",
+  "ex": "There are many boats in the harbor.",
+  "exJa": "港にはたくさんの船が停まっています。"
+ },
+ {
+  "id": "en-1294",
+  "w": "chase",
+  "pos": "動詞",
+  "ja": "追いかける",
+  "ipa": "tʃeɪs",
+  "theme": "actions",
+  "ex": "The dog chased the cat.",
+  "exJa": "犬が猫を追いかけました。"
+ },
+ {
+  "id": "en-1295",
+  "w": "principal",
+  "pos": "名詞",
+  "ja": "校長",
+  "ipa": "ˈprɪnsəpəl",
+  "theme": "school",
+  "ex": "The principal gave a speech.",
+  "exJa": "校長先生がスピーチをしました。"
+ },
+ {
+  "id": "en-1296",
+  "w": "nation",
+  "pos": "名詞",
+  "ja": "国・国家・国民",
+  "ipa": "ˈneɪʃən",
+  "theme": "society",
+  "ex": "The whole nation watched the game.",
+  "exJa": "国中がその試合を見ました。"
+ },
+ {
+  "id": "en-1297",
+  "w": "minor",
+  "pos": "形容詞",
+  "ja": "小さい・重要でない・軽い",
+  "ipa": "ˈmaɪnɚ",
+  "theme": "description",
+  "ex": "It is only a minor problem.",
+  "exJa": "それはほんの小さな問題です。"
+ },
+ {
+  "id": "en-1298",
+  "w": "shower",
+  "pos": "名詞",
+  "ja": "シャワー",
+  "ipa": "ˈʃaʊɚ",
+  "theme": "home",
+  "ex": "I take a shower every morning.",
+  "exJa": "私は毎朝シャワーを浴びます。"
+ },
+ {
+  "id": "en-1299",
+  "w": "claim",
+  "pos": "動詞",
+  "ja": "主張する・要求する",
+  "ipa": "kleɪm",
+  "theme": "actions",
+  "ex": "He claims that he saw a UFO.",
+  "exJa": "彼はUFOを見たと主張しています。"
+ },
+ {
+  "id": "en-1300",
+  "w": "fork",
+  "pos": "名詞",
+  "ja": "フォーク",
+  "ipa": "fɔrk",
+  "theme": "food",
+  "ex": "I eat pasta with a fork.",
+  "exJa": "私はパスタをフォークで食べます。"
+ },
+ {
+  "id": "en-1301",
+  "w": "jogging",
+  "pos": "名詞",
+  "ja": "ジョギング",
+  "ipa": "ˈdʒɑɡɪŋ",
+  "theme": "hobbies",
+  "ex": "I go jogging in the park every morning.",
+  "exJa": "私は毎朝公園でジョギングをします。"
+ },
+ {
+  "id": "en-1302",
+  "w": "expert",
+  "pos": "名詞",
+  "ja": "専門家・達人",
+  "ipa": "ˈɛkspɝt",
+  "theme": "people",
+  "ex": "She is an expert on Japanese history.",
+  "exJa": "彼女は日本史の専門家です。"
+ },
+ {
+  "id": "en-1303",
+  "w": "stream",
+  "pos": "名詞",
+  "ja": "小川・流れ",
+  "ipa": "strim",
+  "theme": "nature",
+  "ex": "We fished in a small stream.",
+  "exJa": "私たちは小川で釣りをしました。"
+ },
+ {
+  "id": "en-1304",
+  "w": "combine",
+  "pos": "動詞",
+  "ja": "組み合わせる・混ぜ合わせる",
+  "ipa": "kəmˈbaɪn",
+  "theme": "actions",
+  "ex": "Combine the eggs and sugar.",
+  "exJa": "卵と砂糖を混ぜ合わせてください。"
+ },
+ {
+  "id": "en-1305",
+  "w": "symptom",
+  "pos": "名詞",
+  "ja": "症状",
+  "ipa": "ˈsɪmptəm",
+  "theme": "health",
+  "ex": "What are your symptoms?",
+  "exJa": "どんな症状がありますか。"
+ },
+ {
+  "id": "en-1306",
+  "w": "basic",
+  "pos": "形容詞",
+  "ja": "基本的な・初歩の",
+  "ipa": "ˈbeɪsɪk",
+  "theme": "description",
+  "ex": "I can speak basic English.",
+  "exJa": "私は基本的な英語が話せます。"
+ },
+ {
+  "id": "en-1307",
+  "w": "communicate",
+  "pos": "動詞",
+  "ja": "意思を伝える・連絡を取る",
+  "ipa": "kəˈmjunɪˌkeɪt",
+  "theme": "actions",
+  "ex": "We communicate by email.",
+  "exJa": "私たちはメールで連絡を取り合っています。"
+ },
+ {
+  "id": "en-1308",
+  "w": "goose",
+  "pos": "名詞",
+  "ja": "ガチョウ・ガン",
+  "ipa": "ɡus",
+  "theme": "animals",
+  "ex": "A goose is swimming in the lake.",
+  "exJa": "ガチョウが湖で泳いでいます。"
+ },
+ {
+  "id": "en-1309",
+  "w": "label",
+  "pos": "名詞",
+  "ja": "ラベル・表示",
+  "ipa": "ˈleɪbəl",
+  "theme": "shopping",
+  "ex": "Read the label before you buy it.",
+  "exJa": "買う前にラベルを読んでください。"
+ },
+ {
+  "id": "en-1310",
+  "w": "funeral",
+  "pos": "名詞",
+  "ja": "葬式・葬儀",
+  "ipa": "ˈfjunərəl",
+  "theme": "smalltalk",
+  "ex": "Many people came to the funeral.",
+  "exJa": "葬儀には多くの人が来ました。"
+ },
+ {
+  "id": "en-1311",
+  "w": "totally",
+  "pos": "副詞",
+  "ja": "完全に・まったく",
+  "ipa": "ˈtoʊtəli",
+  "theme": "grammar",
+  "ex": "I totally agree with you.",
+  "exJa": "あなたにまったく同感です。"
+ },
+ {
+  "id": "en-1312",
+  "w": "tie",
+  "pos": "名詞",
+  "ja": "ネクタイ",
+  "ipa": "taɪ",
+  "theme": "clothes",
+  "ex": "He wears a tie to work.",
+  "exJa": "彼はネクタイをして仕事に行きます。"
+ },
+ {
+  "id": "en-1313",
+  "w": "ferry",
+  "pos": "名詞",
+  "ja": "フェリー",
+  "ipa": "ˈfɛri",
+  "theme": "transport",
+  "ex": "We took the ferry to the island.",
+  "exJa": "私たちはフェリーで島へ行きました。"
+ },
+ {
+  "id": "en-1314",
+  "w": "knife",
+  "pos": "名詞",
+  "ja": "ナイフ・包丁",
+  "ipa": "naɪf",
+  "theme": "food",
+  "ex": "Be careful with that knife.",
+  "exJa": "そのナイフには気をつけて。"
+ },
+ {
+  "id": "en-1315",
+  "w": "compete",
+  "pos": "動詞",
+  "ja": "競う・競争する・出場する",
+  "ipa": "kəmˈpit",
+  "theme": "actions",
+  "ex": "Ten teams will compete in the tournament.",
+  "exJa": "その大会では10チームが競います。"
+ },
+ {
+  "id": "en-1316",
+  "w": "bathtub",
+  "pos": "名詞",
+  "ja": "浴槽・湯船",
+  "ipa": "ˈbæθˌtʌb",
+  "theme": "home",
+  "ex": "I'm filling the bathtub with hot water.",
+  "exJa": "湯船にお湯をためています。"
+ },
+ {
+  "id": "en-1317",
+  "w": "tower",
+  "pos": "名詞",
+  "ja": "塔・タワー",
+  "ipa": "ˈtaʊɚ",
+  "theme": "places",
+  "ex": "You can see the tower from here.",
+  "exJa": "ここからタワーが見えます。"
+ },
+ {
+  "id": "en-1318",
+  "w": "general",
+  "pos": "形容詞",
+  "ja": "一般的な・全体的な",
+  "ipa": "ˈdʒɛnərəl",
+  "theme": "description",
+  "ex": "This book is for the general public.",
+  "exJa": "この本は一般の人向けです。"
+ },
+ {
+  "id": "en-1319",
+  "w": "device",
+  "pos": "名詞",
+  "ja": "機器・装置・端末",
+  "ipa": "dɪˈvaɪs",
+  "theme": "technology",
+  "ex": "Please turn off all electronic devices.",
+  "exJa": "電子機器の電源をすべてお切りください。"
+ },
+ {
+  "id": "en-1320",
+  "w": "task",
+  "pos": "名詞",
+  "ja": "仕事・作業・課題",
+  "ipa": "tæsk",
+  "theme": "work",
+  "ex": "I have many tasks to finish today.",
+  "exJa": "今日は終わらせる仕事がたくさんあります。"
+ },
+ {
+  "id": "en-1321",
+  "w": "monthly",
+  "pos": "形容詞",
+  "ja": "毎月の・月1回の",
+  "ipa": "ˈmʌnθli",
+  "theme": "time",
+  "ex": "How much is the monthly fee?",
+  "exJa": "月額料金はいくらですか。"
+ },
+ {
+  "id": "en-1322",
+  "w": "director",
+  "pos": "名詞",
+  "ja": "監督・部長・取締役",
+  "ipa": "dɪˈrɛktɚ",
+  "theme": "people",
+  "ex": "He is a famous movie director.",
+  "exJa": "彼は有名な映画監督です。"
+ },
+ {
+  "id": "en-1323",
+  "w": "fee",
+  "pos": "名詞",
+  "ja": "料金・手数料",
+  "ipa": "fi",
+  "theme": "money",
+  "ex": "Is there an entrance fee?",
+  "exJa": "入場料はかかりますか。"
+ },
+ {
+  "id": "en-1324",
+  "w": "classmate",
+  "pos": "名詞",
+  "ja": "同級生・クラスメート",
+  "ipa": "ˈklæsˌmeɪt",
+  "theme": "school",
+  "ex": "Ken is my classmate.",
+  "exJa": "ケンは私のクラスメートです。"
+ },
+ {
+  "id": "en-1325",
+  "w": "state",
+  "pos": "名詞",
+  "ja": "州・国家・状態",
+  "ipa": "steɪt",
+  "theme": "society",
+  "ex": "Texas is a large state.",
+  "exJa": "テキサスは大きな州です。"
+ },
+ {
+  "id": "en-1326",
+  "w": "concentrate",
+  "pos": "動詞",
+  "ja": "集中する",
+  "ipa": "ˈkɑnsənˌtreɪt",
+  "theme": "actions",
+  "ex": "I can't concentrate with this noise.",
+  "exJa": "この騒音では集中できません。"
+ },
+ {
+  "id": "en-1327",
+  "w": "eyebrow",
+  "pos": "名詞",
+  "ja": "眉・眉毛",
+  "ipa": "ˈaɪˌbraʊ",
+  "theme": "body",
+  "ex": "She has thick eyebrows.",
+  "exJa": "彼女は眉が太いです。"
+ },
+ {
+  "id": "en-1328",
+  "w": "yoga",
+  "pos": "名詞",
+  "ja": "ヨガ",
+  "ipa": "ˈjoʊɡə",
+  "theme": "hobbies",
+  "ex": "I do yoga every morning.",
+  "exJa": "私は毎朝ヨガをしています。"
+ },
+ {
+  "id": "en-1329",
+  "w": "feeling",
+  "pos": "名詞",
+  "ja": "気持ち・感情・感覚",
+  "ipa": "ˈfilɪŋ",
+  "theme": "feelings",
+  "ex": "I understand your feelings.",
+  "exJa": "あなたの気持ちはわかります。"
+ },
+ {
+  "id": "en-1330",
+  "w": "pond",
+  "pos": "名詞",
+  "ja": "池",
+  "ipa": "pɑnd",
+  "theme": "nature",
+  "ex": "There are fish in the pond.",
+  "exJa": "池には魚がいます。"
+ },
+ {
+  "id": "en-1331",
+  "w": "confirm",
+  "pos": "動詞",
+  "ja": "確認する",
+  "ipa": "kənˈfɝm",
+  "theme": "actions",
+  "ex": "I'd like to confirm my reservation.",
+  "exJa": "予約を確認したいのですが。"
+ },
+ {
+  "id": "en-1332",
+  "w": "special",
+  "pos": "形容詞",
+  "ja": "特別な",
+  "ipa": "ˈspɛʃəl",
+  "theme": "description",
+  "ex": "Today is a special day.",
+  "exJa": "今日は特別な日です。"
+ },
+ {
+  "id": "en-1333",
+  "w": "chopsticks",
+  "pos": "名詞",
+  "ja": "箸",
+  "ipa": "ˈtʃɑpˌstɪks",
+  "theme": "food",
+  "ex": "Can you use chopsticks?",
+  "exJa": "お箸を使えますか。"
+ },
+ {
+  "id": "en-1334",
+  "w": "extremely",
+  "pos": "副詞",
+  "ja": "非常に・極めて",
+  "ipa": "ɪkˈstrimli",
+  "theme": "grammar",
+  "ex": "It was extremely hot yesterday.",
+  "exJa": "昨日は非常に暑かったです。"
+ },
+ {
+  "id": "en-1335",
+  "w": "consider",
+  "pos": "動詞",
+  "ja": "よく考える・検討する・みなす",
+  "ipa": "kənˈsɪdɚ",
+  "theme": "actions",
+  "ex": "I'm considering changing jobs.",
+  "exJa": "転職を考えています。"
+ },
+ {
+  "id": "en-1336",
+  "w": "owl",
+  "pos": "名詞",
+  "ja": "フクロウ",
+  "ipa": "aʊl",
+  "theme": "animals",
+  "ex": "An owl is sitting in the tree.",
+  "exJa": "木にフクロウがとまっています。"
+ },
+ {
+  "id": "en-1337",
+  "w": "president",
+  "pos": "名詞",
+  "ja": "大統領・社長・会長",
+  "ipa": "ˈprɛzɪdənt",
+  "theme": "people",
+  "ex": "He is the president of the company.",
+  "exJa": "彼はその会社の社長です。"
+ },
+ {
+  "id": "en-1338",
+  "w": "faucet",
+  "pos": "名詞",
+  "ja": "蛇口",
+  "ipa": "ˈfɔsɪt",
+  "theme": "home",
+  "ex": "Please turn off the faucet.",
+  "exJa": "蛇口を閉めてください。"
+ },
+ {
+  "id": "en-1339",
+  "w": "contain",
+  "pos": "動詞",
+  "ja": "含む・入っている",
+  "ipa": "kənˈteɪn",
+  "theme": "actions",
+  "ex": "This drink contains a lot of sugar.",
+  "exJa": "この飲み物には砂糖がたくさん入っています。"
+ },
+ {
+  "id": "en-1340",
+  "w": "particular",
+  "pos": "形容詞",
+  "ja": "特定の・特別の",
+  "ipa": "pɚˈtɪkjəlɚ",
+  "theme": "description",
+  "ex": "Is there a particular reason?",
+  "exJa": "何か特別な理由がありますか。"
+ },
+ {
+  "id": "en-1341",
+  "w": "building",
+  "pos": "名詞",
+  "ja": "建物・ビル",
+  "ipa": "ˈbɪldɪŋ",
+  "theme": "places",
+  "ex": "That building is very tall.",
+  "exJa": "あの建物はとても高いです。"
+ },
+ {
+  "id": "en-1342",
+  "w": "control",
+  "pos": "動詞",
+  "ja": "管理する・制御する・抑える",
+  "ipa": "kənˈtroʊl",
+  "theme": "actions",
+  "ex": "Try to control your anger.",
+  "exJa": "怒りを抑えるようにしてください。"
+ },
+ {
+  "id": "en-1343",
+  "w": "napkin",
+  "pos": "名詞",
+  "ja": "ナプキン",
+  "ipa": "ˈnæpkɪn",
+  "theme": "food",
+  "ex": "Could I have another napkin?",
+  "exJa": "ナプキンをもう1枚いただけますか。"
+ },
+ {
+  "id": "en-1344",
+  "w": "blouse",
+  "pos": "名詞",
+  "ja": "ブラウス",
+  "ipa": "blaʊs",
+  "theme": "clothes",
+  "ex": "She is wearing a white blouse.",
+  "exJa": "彼女は白いブラウスを着ています。"
+ },
+ {
+  "id": "en-1345",
+  "w": "helicopter",
+  "pos": "名詞",
+  "ja": "ヘリコプター",
+  "ipa": "ˈhɛlɪˌkɑptɚ",
+  "theme": "transport",
+  "ex": "A helicopter flew over our house.",
+  "exJa": "ヘリコプターが家の上を飛んでいきました。"
+ },
+ {
+  "id": "en-1346",
+  "w": "gardening",
+  "pos": "名詞",
+  "ja": "ガーデニング・庭いじり",
+  "ipa": "ˈɡɑrdənɪŋ",
+  "theme": "hobbies",
+  "ex": "My mother enjoys gardening.",
+  "exJa": "母はガーデニングを楽しんでいます。"
+ },
+ {
+  "id": "en-1347",
+  "w": "semester",
+  "pos": "名詞",
+  "ja": "学期",
+  "ipa": "səˈmɛstɚ",
+  "theme": "school",
+  "ex": "The new semester starts in April.",
+  "exJa": "新学期は4月に始まります。"
+ },
+ {
+  "id": "en-1348",
+  "w": "city hall",
+  "pos": "名詞",
+  "ja": "市役所",
+  "ipa": "ˌsɪti ˈhɔl",
+  "theme": "society",
+  "ex": "I went to city hall to get a document.",
+  "exJa": "書類をもらいに市役所へ行きました。"
+ },
+ {
+  "id": "en-1349",
+  "w": "cure",
+  "pos": "動詞",
+  "ja": "治す・治療する",
+  "ipa": "kjʊr",
+  "theme": "health",
+  "ex": "This disease cannot be cured yet.",
+  "exJa": "この病気はまだ治すことができません。"
+ },
+ {
+  "id": "en-1350",
+  "w": "create",
+  "pos": "動詞",
+  "ja": "作り出す・創造する",
+  "ipa": "kriˈeɪt",
+  "theme": "actions",
+  "ex": "She created a new website.",
+  "exJa": "彼女は新しいウェブサイトを作りました。"
+ },
+ {
+  "id": "en-1351",
+  "w": "wood",
+  "pos": "名詞",
+  "ja": "木材・森",
+  "ipa": "wʊd",
+  "theme": "nature",
+  "ex": "This table is made of wood.",
+  "exJa": "このテーブルは木でできています。"
+ },
+ {
+  "id": "en-1352",
+  "w": "typical",
+  "pos": "形容詞",
+  "ja": "典型的な・よくある",
+  "ipa": "ˈtɪpɪkəl",
+  "theme": "description",
+  "ex": "This is a typical Japanese breakfast.",
+  "exJa": "これは典型的な日本の朝食です。"
+ },
+ {
+  "id": "en-1353",
+  "w": "fairly",
+  "pos": "副詞",
+  "ja": "かなり・まあまあ",
+  "ipa": "ˈfɛrli",
+  "theme": "grammar",
+  "ex": "I can speak English fairly well.",
+  "exJa": "私は英語をかなりうまく話せます。"
+ },
+ {
+  "id": "en-1354",
+  "w": "screen",
+  "pos": "名詞",
+  "ja": "画面・スクリーン",
+  "ipa": "skrin",
+  "theme": "technology",
+  "ex": "My phone screen is broken.",
+  "exJa": "携帯の画面が割れています。"
+ },
+ {
+  "id": "en-1355",
+  "w": "breeze",
+  "pos": "名詞",
+  "ja": "そよ風",
+  "ipa": "briz",
+  "theme": "weather",
+  "ex": "A cool breeze is blowing.",
+  "exJa": "涼しいそよ風が吹いています。"
+ },
+ {
+  "id": "en-1356",
+  "w": "goal",
+  "pos": "名詞",
+  "ja": "目標・ゴール",
+  "ipa": "ɡoʊl",
+  "theme": "work",
+  "ex": "My goal is to work abroad.",
+  "exJa": "私の目標は海外で働くことです。"
+ },
+ {
+  "id": "en-1357",
+  "w": "deal",
+  "pos": "動詞",
+  "ja": "対処する・扱う・取引する",
+  "ipa": "dil",
+  "theme": "actions",
+  "ex": "I'll deal with this problem.",
+  "exJa": "この問題は私が対処します。"
+ },
+ {
+  "id": "en-1358",
+  "w": "professor",
+  "pos": "名詞",
+  "ja": "教授",
+  "ipa": "prəˈfɛsɚ",
+  "theme": "people",
+  "ex": "She is a professor at a university.",
+  "exJa": "彼女は大学の教授です。"
+ },
+ {
+  "id": "en-1359",
+  "w": "eyelash",
+  "pos": "名詞",
+  "ja": "まつげ",
+  "ipa": "ˈaɪˌlæʃ",
+  "theme": "body",
+  "ex": "She has long eyelashes.",
+  "exJa": "彼女はまつげが長いです。"
+ },
+ {
+  "id": "en-1360",
+  "w": "eagle",
+  "pos": "名詞",
+  "ja": "ワシ",
+  "ipa": "ˈiɡəl",
+  "theme": "animals",
+  "ex": "An eagle flew over the mountain.",
+  "exJa": "ワシが山の上を飛んでいきました。"
+ },
+ {
+  "id": "en-1361",
+  "w": "basin",
+  "pos": "名詞",
+  "ja": "洗面器・洗面台・たらい",
+  "ipa": "ˈbeɪsən",
+  "theme": "home",
+  "ex": "Fill the basin with warm water.",
+  "exJa": "洗面器にぬるま湯を入れてください。"
+ },
+ {
+  "id": "en-1362",
+  "w": "bottle",
+  "pos": "名詞",
+  "ja": "瓶・ボトル",
+  "ipa": "ˈbɑtəl",
+  "theme": "food",
+  "ex": "I bought a bottle of water.",
+  "exJa": "水を1本買いました。"
+ },
+ {
+  "id": "en-1363",
+  "w": "decorate",
+  "pos": "動詞",
+  "ja": "飾る・装飾する",
+  "ipa": "ˈdɛkəˌreɪt",
+  "theme": "actions",
+  "ex": "We decorated the room for the party.",
+  "exJa": "パーティーのために部屋を飾りました。"
+ },
+ {
+  "id": "en-1364",
+  "w": "usual",
+  "pos": "形容詞",
+  "ja": "いつもの・普通の",
+  "ipa": "ˈjuʒuəl",
+  "theme": "description",
+  "ex": "Let's meet at the usual place.",
+  "exJa": "いつもの場所で会いましょう。"
+ },
+ {
+  "id": "en-1365",
+  "w": "yearly",
+  "pos": "形容詞",
+  "ja": "毎年の・年1回の",
+  "ipa": "ˈjɪrli",
+  "theme": "time",
+  "ex": "I have a yearly health checkup.",
+  "exJa": "私は年に1回健康診断を受けます。"
+ },
+ {
+  "id": "en-1366",
+  "w": "delay",
+  "pos": "動詞",
+  "ja": "遅らせる・延期する",
+  "ipa": "dɪˈleɪ",
+  "theme": "actions",
+  "ex": "The train was delayed by snow.",
+  "exJa": "電車は雪で遅れました。"
+ },
+ {
+  "id": "en-1367",
+  "w": "knitting",
+  "pos": "名詞",
+  "ja": "編み物",
+  "ipa": "ˈnɪtɪŋ",
+  "theme": "hobbies",
+  "ex": "My grandmother loves knitting.",
+  "exJa": "祖母は編み物が大好きです。"
+ },
+ {
+  "id": "en-1368",
+  "w": "skyscraper",
+  "pos": "名詞",
+  "ja": "超高層ビル",
+  "ipa": "ˈskaɪˌskreɪpɚ",
+  "theme": "places",
+  "ex": "New York has many skyscrapers.",
+  "exJa": "ニューヨークには超高層ビルがたくさんあります。"
+ },
+ {
+  "id": "en-1369",
+  "w": "slightly",
+  "pos": "副詞",
+  "ja": "少し・わずかに",
+  "ipa": "ˈslaɪtli",
+  "theme": "grammar",
+  "ex": "The price is slightly higher here.",
+  "exJa": "ここでは値段が少し高いです。"
+ },
+ {
+  "id": "en-1370",
+  "w": "delete",
+  "pos": "動詞",
+  "ja": "削除する・消す",
+  "ipa": "dɪˈlit",
+  "theme": "actions",
+  "ex": "I deleted the photo by mistake.",
+  "exJa": "間違えて写真を削除してしまいました。"
+ },
+ {
+  "id": "en-1371",
+  "w": "bush",
+  "pos": "名詞",
+  "ja": "茂み・低木",
+  "ipa": "bʊʃ",
+  "theme": "nature",
+  "ex": "The cat is hiding in the bush.",
+  "exJa": "猫が茂みに隠れています。"
+ },
+ {
+  "id": "en-1372",
+  "w": "unusual",
+  "pos": "形容詞",
+  "ja": "珍しい・普通でない",
+  "ipa": "ʌnˈjuʒuəl",
+  "theme": "description",
+  "ex": "It is unusual to see snow here.",
+  "exJa": "ここで雪を見るのは珍しいです。"
+ },
+ {
+  "id": "en-1373",
+  "w": "author",
+  "pos": "名詞",
+  "ja": "著者・作家",
+  "ipa": "ˈɔθɚ",
+  "theme": "people",
+  "ex": "Who is the author of this book?",
+  "exJa": "この本の著者は誰ですか。"
+ },
+ {
+  "id": "en-1374",
+  "w": "term",
+  "pos": "名詞",
+  "ja": "学期・期間・用語",
+  "ipa": "tɝm",
+  "theme": "school",
+  "ex": "The new term starts next week.",
+  "exJa": "新学期は来週始まります。"
+ },
+ {
+  "id": "en-1375",
+  "w": "mayor",
+  "pos": "名詞",
+  "ja": "市長・町長",
+  "ipa": "ˈmeɪɚ",
+  "theme": "society",
+  "ex": "The mayor visited our school.",
+  "exJa": "市長が私たちの学校を訪れました。"
+ },
+ {
+  "id": "en-1376",
+  "w": "jar",
+  "pos": "名詞",
+  "ja": "瓶・つぼ",
+  "ipa": "dʒɑr",
+  "theme": "food",
+  "ex": "Can you open this jar?",
+  "exJa": "この瓶を開けてもらえますか。"
+ },
+ {
+  "id": "en-1377",
+  "w": "stress",
+  "pos": "名詞",
+  "ja": "ストレス・強調",
+  "ipa": "strɛs",
+  "theme": "feelings",
+  "ex": "I'm under a lot of stress at work.",
+  "exJa": "仕事でとてもストレスを感じています。"
+ },
+ {
+  "id": "en-1378",
+  "w": "jeans",
+  "pos": "名詞",
+  "ja": "ジーンズ",
+  "ipa": "dʒinz",
+  "theme": "clothes",
+  "ex": "I usually wear jeans.",
+  "exJa": "私はたいていジーンズをはいています。"
+ },
+ {
+  "id": "en-1379",
+  "w": "rocket",
+  "pos": "名詞",
+  "ja": "ロケット",
+  "ipa": "ˈrɑkɪt",
+  "theme": "transport",
+  "ex": "The rocket went into space.",
+  "exJa": "ロケットは宇宙へ飛んでいきました。"
+ },
+ {
+  "id": "en-1380",
+  "w": "deny",
+  "pos": "動詞",
+  "ja": "否定する・否認する",
+  "ipa": "dɪˈnaɪ",
+  "theme": "actions",
+  "ex": "He denied taking the money.",
+  "exJa": "彼はお金を取ったことを否定しました。"
+ },
+ {
+  "id": "en-1381",
+  "w": "toothbrush",
+  "pos": "名詞",
+  "ja": "歯ブラシ",
+  "ipa": "ˈtuθˌbrʌʃ",
+  "theme": "home",
+  "ex": "I need a new toothbrush.",
+  "exJa": "新しい歯ブラシが必要です。"
+ },
+ {
+  "id": "en-1382",
+  "w": "deserve",
+  "pos": "動詞",
+  "ja": "〜に値する・〜を受けて当然である",
+  "ipa": "dɪˈzɝv",
+  "theme": "actions",
+  "ex": "You worked hard. You deserve a rest.",
+  "exJa": "よく頑張りましたね。休んで当然です。"
+ },
+ {
+  "id": "en-1383",
+  "w": "parrot",
+  "pos": "名詞",
+  "ja": "オウム",
+  "ipa": "ˈpɛrət",
+  "theme": "animals",
+  "ex": "Our parrot can say \"hello.\"",
+  "exJa": "うちのオウムは「ハロー」と言えます。"
+ },
+ {
+  "id": "en-1384",
+  "w": "tag",
+  "pos": "名詞",
+  "ja": "値札・札・タグ",
+  "ipa": "tæɡ",
+  "theme": "shopping",
+  "ex": "Look at the price tag.",
+  "exJa": "値札を見てください。"
+ },
+ {
+  "id": "en-1385",
+  "w": "marriage",
+  "pos": "名詞",
+  "ja": "結婚・結婚生活",
+  "ipa": "ˈmɛrɪdʒ",
+  "theme": "smalltalk",
+  "ex": "They have a happy marriage.",
+  "exJa": "彼らは幸せな結婚生活を送っています。"
+ },
+ {
+  "id": "en-1386",
+  "w": "common",
+  "pos": "形容詞",
+  "ja": "よくある・普通の・共通の",
+  "ipa": "ˈkɑmən",
+  "theme": "description",
+  "ex": "Tanaka is a common name in Japan.",
+  "exJa": "田中は日本でよくある名前です。"
+ },
+ {
+  "id": "en-1387",
+  "w": "keyboard",
+  "pos": "名詞",
+  "ja": "キーボード・鍵盤",
+  "ipa": "ˈkiˌbɔrd",
+  "theme": "technology",
+  "ex": "This keyboard is easy to use.",
+  "exJa": "このキーボードは使いやすいです。"
+ },
+ {
+  "id": "en-1388",
+  "w": "result",
+  "pos": "名詞",
+  "ja": "結果・成果",
+  "ipa": "rɪˈzʌlt",
+  "theme": "work",
+  "ex": "I'm happy with the result.",
+  "exJa": "その結果に満足しています。"
+ },
+ {
+  "id": "en-1389",
+  "w": "dig",
+  "pos": "動詞",
+  "ja": "掘る",
+  "ipa": "dɪɡ",
+  "theme": "actions",
+  "ex": "The dog is digging a hole.",
+  "exJa": "犬が穴を掘っています。"
+ },
+ {
+  "id": "en-1390",
+  "w": "sauce",
+  "pos": "名詞",
+  "ja": "ソース",
+  "ipa": "sɔs",
+  "theme": "food",
+  "ex": "Would you like more sauce?",
+  "exJa": "ソースをもう少しいかがですか。"
+ },
+ {
+  "id": "en-1391",
+  "w": "chess",
+  "pos": "名詞",
+  "ja": "チェス",
+  "ipa": "tʃɛs",
+  "theme": "hobbies",
+  "ex": "Do you play chess?",
+  "exJa": "チェスをしますか。"
+ },
+ {
+  "id": "en-1392",
+  "w": "treatment",
+  "pos": "名詞",
+  "ja": "治療・扱い",
+  "ipa": "ˈtritmənt",
+  "theme": "health",
+  "ex": "He is getting treatment at the hospital.",
+  "exJa": "彼は病院で治療を受けています。"
+ },
+ {
+  "id": "en-1393",
+  "w": "seriously",
+  "pos": "副詞",
+  "ja": "真剣に・本気で・ひどく",
+  "ipa": "ˈsɪriəsli",
+  "theme": "grammar",
+  "ex": "Please take this seriously.",
+  "exJa": "これを真剣に受け止めてください。"
+ },
+ {
+  "id": "en-1394",
+  "w": "writer",
+  "pos": "名詞",
+  "ja": "作家・書き手",
+  "ipa": "ˈraɪtɚ",
+  "theme": "people",
+  "ex": "She wants to be a writer.",
+  "exJa": "彼女は作家になりたいと思っています。"
+ },
+ {
+  "id": "en-1395",
+  "w": "tongue",
+  "pos": "名詞",
+  "ja": "舌",
+  "ipa": "tʌŋ",
+  "theme": "body",
+  "ex": "I burned my tongue on the hot soup.",
+  "exJa": "熱いスープで舌をやけどしました。"
+ },
+ {
+  "id": "en-1396",
+  "w": "discover",
+  "pos": "動詞",
+  "ja": "発見する・見つける",
+  "ipa": "dɪˈskʌvɚ",
+  "theme": "actions",
+  "ex": "We discovered a nice café near the station.",
+  "exJa": "駅の近くに素敵なカフェを見つけました。"
+ },
+ {
+  "id": "en-1397",
+  "w": "mall",
+  "pos": "名詞",
+  "ja": "ショッピングモール",
+  "ipa": "mɔl",
+  "theme": "places",
+  "ex": "Let's go to the mall.",
+  "exJa": "モールに行きましょう。"
+ },
+ {
+  "id": "en-1398",
+  "w": "branch",
+  "pos": "名詞",
+  "ja": "枝・支店",
+  "ipa": "bræntʃ",
+  "theme": "nature",
+  "ex": "A bird is sitting on the branch.",
+  "exJa": "鳥が枝にとまっています。"
+ },
+ {
+  "id": "en-1399",
+  "w": "rare",
+  "pos": "形容詞",
+  "ja": "珍しい・まれな・（肉が）レアの",
+  "ipa": "rɛr",
+  "theme": "description",
+  "ex": "This bird is very rare.",
+  "exJa": "この鳥はとても珍しいです。"
+ },
+ {
+  "id": "en-1400",
+  "w": "dislike",
+  "pos": "動詞",
+  "ja": "嫌う・好まない",
+  "ipa": "dɪsˈlaɪk",
+  "theme": "actions",
+  "ex": "I dislike cold weather.",
+  "exJa": "私は寒い天気が嫌いです。"
+ },
+ {
+  "id": "en-1401",
+  "w": "toothpaste",
+  "pos": "名詞",
+  "ja": "歯磨き粉",
+  "ipa": "ˈtuθˌpeɪst",
+  "theme": "home",
+  "ex": "We need to buy more toothpaste.",
+  "exJa": "歯磨き粉をもっと買う必要があります。"
+ },
+ {
+  "id": "en-1402",
+  "w": "fare",
+  "pos": "名詞",
+  "ja": "運賃・料金",
+  "ipa": "fɛr",
+  "theme": "money",
+  "ex": "The bus fare is two dollars.",
+  "exJa": "バスの運賃は2ドルです。"
+ },
+ {
+  "id": "en-1403",
+  "w": "grade",
+  "pos": "名詞",
+  "ja": "成績・学年・等級",
+  "ipa": "ɡreɪd",
+  "theme": "school",
+  "ex": "Amy got a good grade in math.",
+  "exJa": "エイミーは数学で良い成績を取りました。"
+ },
+ {
+  "id": "en-1404",
+  "w": "minister",
+  "pos": "名詞",
+  "ja": "大臣・牧師",
+  "ipa": "ˈmɪnɪstɚ",
+  "theme": "society",
+  "ex": "The minister spoke on TV last night.",
+  "exJa": "昨夜、大臣がテレビで話しました。"
+ },
+ {
+  "id": "en-1405",
+  "w": "soy sauce",
+  "pos": "名詞",
+  "ja": "しょうゆ",
+  "ipa": "ˈsɔɪ ˌsɔs",
+  "theme": "food",
+  "ex": "Can you pass the soy sauce?",
+  "exJa": "しょうゆを取ってくれますか。"
+ },
+ {
+  "id": "en-1406",
+  "w": "divide",
+  "pos": "動詞",
+  "ja": "分ける・割る",
+  "ipa": "dɪˈvaɪd",
+  "theme": "actions",
+  "ex": "Let's divide the cake into four pieces.",
+  "exJa": "ケーキを4つに分けましょう。"
+ },
+ {
+  "id": "en-1407",
+  "w": "certain",
+  "pos": "形容詞",
+  "ja": "確信している・確かな・ある",
+  "ipa": "ˈsɝtən",
+  "theme": "description",
+  "ex": "I'm certain that he is right.",
+  "exJa": "彼が正しいと確信しています。"
+ },
+ {
+  "id": "en-1408",
+  "w": "crow",
+  "pos": "名詞",
+  "ja": "カラス",
+  "ipa": "kroʊ",
+  "theme": "animals",
+  "ex": "A crow is sitting on the roof.",
+  "exJa": "カラスが屋根の上にとまっています。"
+ },
+ {
+  "id": "en-1409",
+  "w": "shorts",
+  "pos": "名詞",
+  "ja": "半ズボン・ショートパンツ",
+  "ipa": "ʃɔrts",
+  "theme": "clothes",
+  "ex": "I wear shorts in summer.",
+  "exJa": "夏は半ズボンをはきます。"
+ },
+ {
+  "id": "en-1410",
+  "w": "engine",
+  "pos": "名詞",
+  "ja": "エンジン",
+  "ipa": "ˈɛndʒən",
+  "theme": "transport",
+  "ex": "The car engine won't start.",
+  "exJa": "車のエンジンがかかりません。"
+ },
+ {
+  "id": "en-1411",
+  "w": "reporter",
+  "pos": "名詞",
+  "ja": "記者・レポーター",
+  "ipa": "rɪˈpɔrtɚ",
+  "theme": "people",
+  "ex": "The reporter asked many questions.",
+  "exJa": "記者はたくさん質問しました。"
+ },
+ {
+  "id": "en-1412",
+  "w": "doubt",
+  "pos": "動詞",
+  "ja": "疑う・〜ではないと思う",
+  "ipa": "daʊt",
+  "theme": "actions",
+  "ex": "I doubt he will come today.",
+  "exJa": "彼は今日は来ないと思います。"
+ },
+ {
+  "id": "en-1413",
+  "w": "clearly",
+  "pos": "副詞",
+  "ja": "はっきりと・明らかに",
+  "ipa": "ˈklɪrli",
+  "theme": "grammar",
+  "ex": "Please speak clearly.",
+  "exJa": "はっきり話してください。"
+ },
+ {
+  "id": "en-1414",
+  "w": "puzzle",
+  "pos": "名詞",
+  "ja": "パズル・なぞ",
+  "ipa": "ˈpʌzəl",
+  "theme": "hobbies",
+  "ex": "Ken likes doing puzzles.",
+  "exJa": "ケンはパズルをするのが好きです。"
+ },
+ {
+  "id": "en-1415",
+  "w": "annual",
+  "pos": "形容詞",
+  "ja": "毎年の・年1回の",
+  "ipa": "ˈænjuəl",
+  "theme": "time",
+  "ex": "Our school has an annual festival in October.",
+  "exJa": "私たちの学校では毎年10月に文化祭があります。"
+ },
+ {
+  "id": "en-1416",
+  "w": "employ",
+  "pos": "動詞",
+  "ja": "雇う・使う",
+  "ipa": "ɪmˈplɔɪ",
+  "theme": "actions",
+  "ex": "The company employs fifty people.",
+  "exJa": "その会社は50人を雇っています。"
+ },
+ {
+  "id": "en-1417",
+  "w": "sudden",
+  "pos": "形容詞",
+  "ja": "突然の・急な",
+  "ipa": "ˈsʌdən",
+  "theme": "description",
+  "ex": "There was a sudden change in the weather.",
+  "exJa": "天気が急に変わりました。"
+ },
+ {
+  "id": "en-1418",
+  "w": "smartphone",
+  "pos": "名詞",
+  "ja": "スマートフォン",
+  "ipa": "ˈsmɑrtˌfoʊn",
+  "theme": "technology",
+  "ex": "I lost my smartphone yesterday.",
+  "exJa": "昨日スマートフォンをなくしました。"
+ },
+ {
+  "id": "en-1419",
+  "w": "profit",
+  "pos": "名詞",
+  "ja": "利益・もうけ",
+  "ipa": "ˈprɑfɪt",
+  "theme": "work",
+  "ex": "The shop made a big profit this year.",
+  "exJa": "その店は今年大きな利益を出しました。"
+ },
+ {
+  "id": "en-1420",
+  "w": "root",
+  "pos": "名詞",
+  "ja": "根・根源",
+  "ipa": "rut",
+  "theme": "nature",
+  "ex": "This tree has deep roots.",
+  "exJa": "この木は根が深いです。"
+ },
+ {
+  "id": "en-1421",
+  "w": "ketchup",
+  "pos": "名詞",
+  "ja": "ケチャップ",
+  "ipa": "ˈkɛtʃəp",
+  "theme": "food",
+  "ex": "Do you want ketchup on your fries?",
+  "exJa": "ポテトにケチャップをかけますか。"
+ },
+ {
+  "id": "en-1422",
+  "w": "market",
+  "pos": "名詞",
+  "ja": "市場・マーケット",
+  "ipa": "ˈmɑrkɪt",
+  "theme": "places",
+  "ex": "I buy fruit at the market.",
+  "exJa": "市場で果物を買います。"
+ },
+ {
+  "id": "en-1423",
+  "w": "end",
+  "pos": "動詞",
+  "ja": "終わる・終える",
+  "ipa": "ɛnd",
+  "theme": "actions",
+  "ex": "The movie ends at nine.",
+  "exJa": "映画は9時に終わります。"
+ },
+ {
+  "id": "en-1424",
+  "w": "shampoo",
+  "pos": "名詞",
+  "ja": "シャンプー",
+  "ipa": "ʃæmˈpu",
+  "theme": "home",
+  "ex": "This shampoo smells nice.",
+  "exJa": "このシャンプーはいい香りがします。"
+ },
+ {
+  "id": "en-1425",
+  "w": "tension",
+  "pos": "名詞",
+  "ja": "緊張・緊迫",
+  "ipa": "ˈtɛnʃən",
+  "theme": "feelings",
+  "ex": "I felt the tension before the test.",
+  "exJa": "テストの前に緊張を感じました。"
+ },
+ {
+  "id": "en-1426",
+  "w": "jaw",
+  "pos": "名詞",
+  "ja": "あご",
+  "ipa": "dʒɔ",
+  "theme": "body",
+  "ex": "My jaw hurts when I eat.",
+  "exJa": "食べるとあごが痛みます。"
+ },
+ {
+  "id": "en-1427",
+  "w": "examine",
+  "pos": "動詞",
+  "ja": "調べる・診察する",
+  "ipa": "ɪɡˈzæmɪn",
+  "theme": "actions",
+  "ex": "The doctor examined my throat.",
+  "exJa": "医者は私ののどを診察しました。"
+ },
+ {
+  "id": "en-1428",
+  "w": "quiz",
+  "pos": "名詞",
+  "ja": "小テスト・クイズ",
+  "ipa": "kwɪz",
+  "theme": "school",
+  "ex": "We have a quiz every Friday.",
+  "exJa": "毎週金曜日に小テストがあります。"
+ },
+ {
+  "id": "en-1429",
+  "w": "politics",
+  "pos": "名詞",
+  "ja": "政治",
+  "ipa": "ˈpɑlɪtɪks",
+  "theme": "society",
+  "ex": "My father is interested in politics.",
+  "exJa": "父は政治に興味があります。"
+ },
+ {
+  "id": "en-1430",
+  "w": "actor",
+  "pos": "名詞",
+  "ja": "俳優",
+  "ipa": "ˈæktɚ",
+  "theme": "people",
+  "ex": "He is a famous actor.",
+  "exJa": "彼は有名な俳優です。"
+ },
+ {
+  "id": "en-1431",
+  "w": "gentle",
+  "pos": "形容詞",
+  "ja": "優しい・穏やかな",
+  "ipa": "ˈdʒɛntəl",
+  "theme": "description",
+  "ex": "Our teacher is very gentle.",
+  "exJa": "私たちの先生はとても優しいです。"
+ },
+ {
+  "id": "en-1432",
+  "w": "directly",
+  "pos": "副詞",
+  "ja": "直接・まっすぐに",
+  "ipa": "dɪˈrɛktli",
+  "theme": "grammar",
+  "ex": "Please call me directly.",
+  "exJa": "直接私に電話してください。"
+ },
+ {
+  "id": "en-1433",
+  "w": "pigeon",
+  "pos": "名詞",
+  "ja": "ハト",
+  "ipa": "ˈpɪdʒən",
+  "theme": "animals",
+  "ex": "Pigeons are eating bread in the park.",
+  "exJa": "公園でハトがパンを食べています。"
+ },
+ {
+  "id": "en-1434",
+  "w": "surgery",
+  "pos": "名詞",
+  "ja": "手術・外科",
+  "ipa": "ˈsɝdʒəri",
+  "theme": "health",
+  "ex": "My grandmother had surgery last week.",
+  "exJa": "祖母は先週手術を受けました。"
+ },
+ {
+  "id": "en-1435",
+  "w": "exist",
+  "pos": "動詞",
+  "ja": "存在する",
+  "ipa": "ɪɡˈzɪst",
+  "theme": "actions",
+  "ex": "Do you think ghosts exist?",
+  "exJa": "幽霊は存在すると思いますか。"
+ },
+ {
+  "id": "en-1436",
+  "w": "toy",
+  "pos": "名詞",
+  "ja": "おもちゃ",
+  "ipa": "tɔɪ",
+  "theme": "hobbies",
+  "ex": "The child is playing with a toy car.",
+  "exJa": "子どもがおもちゃの車で遊んでいます。"
+ },
+ {
+  "id": "en-1437",
+  "w": "mayonnaise",
+  "pos": "名詞",
+  "ja": "マヨネーズ",
+  "ipa": "ˈmeɪəˌneɪz",
+  "theme": "food",
+  "ex": "I put mayonnaise in my sandwich.",
+  "exJa": "サンドイッチにマヨネーズを入れます。"
+ },
+ {
+  "id": "en-1438",
+  "w": "expand",
+  "pos": "動詞",
+  "ja": "広げる・拡大する・広がる",
+  "ipa": "ɪkˈspænd",
+  "theme": "actions",
+  "ex": "The company plans to expand next year.",
+  "exJa": "その会社は来年事業を拡大する予定です。"
+ },
+ {
+  "id": "en-1439",
+  "w": "fierce",
+  "pos": "形容詞",
+  "ja": "どう猛な・激しい",
+  "ipa": "fɪrs",
+  "theme": "description",
+  "ex": "The dog looks fierce, but it's friendly.",
+  "exJa": "その犬はどう猛に見えますが、人懐っこいです。"
+ },
+ {
+  "id": "en-1440",
+  "w": "underwear",
+  "pos": "名詞",
+  "ja": "下着",
+  "ipa": "ˈʌndɚˌwɛr",
+  "theme": "clothes",
+  "ex": "I packed clean underwear for the trip.",
+  "exJa": "旅行用に清潔な下着を詰めました。"
+ },
+ {
+  "id": "en-1441",
+  "w": "trunk",
+  "pos": "名詞",
+  "ja": "（木の）幹・トランク・（象の）鼻",
+  "ipa": "trʌŋk",
+  "theme": "nature",
+  "ex": "The tree has a thick trunk.",
+  "exJa": "その木は幹が太いです。"
+ },
+ {
+  "id": "en-1442",
+  "w": "wheel",
+  "pos": "名詞",
+  "ja": "車輪・ハンドル",
+  "ipa": "wil",
+  "theme": "transport",
+  "ex": "The front wheel of my bike is broken.",
+  "exJa": "自転車の前輪が壊れています。"
+ },
+ {
+  "id": "en-1443",
+  "w": "soap",
+  "pos": "名詞",
+  "ja": "せっけん",
+  "ipa": "soʊp",
+  "theme": "home",
+  "ex": "Wash your hands with soap.",
+  "exJa": "せっけんで手を洗いなさい。"
+ },
+ {
+  "id": "en-1444",
+  "w": "express",
+  "pos": "動詞",
+  "ja": "表現する・表す",
+  "ipa": "ɪkˈsprɛs",
+  "theme": "actions",
+  "ex": "It's hard to express my feelings in English.",
+  "exJa": "英語で気持ちを表現するのは難しいです。"
+ },
+ {
+  "id": "en-1445",
+  "w": "bakery",
+  "pos": "名詞",
+  "ja": "パン屋",
+  "ipa": "ˈbeɪkəri",
+  "theme": "places",
+  "ex": "There is a new bakery near the station.",
+  "exJa": "駅の近くに新しいパン屋があります。"
+ },
+ {
+  "id": "en-1446",
+  "w": "actress",
+  "pos": "名詞",
+  "ja": "女優",
+  "ipa": "ˈæktrəs",
+  "theme": "people",
+  "ex": "She wants to be an actress.",
+  "exJa": "彼女は女優になりたいと思っています。"
+ },
+ {
+  "id": "en-1447",
+  "w": "feed",
+  "pos": "動詞",
+  "ja": "えさをやる・食べさせる",
+  "ipa": "fid",
+  "theme": "actions",
+  "ex": "Did you feed the cat?",
+  "exJa": "猫にえさをあげましたか。"
+ },
+ {
+  "id": "en-1448",
+  "w": "mustard",
+  "pos": "名詞",
+  "ja": "マスタード・からし",
+  "ipa": "ˈmʌstɚd",
+  "theme": "food",
+  "ex": "I like mustard on my hot dog.",
+  "exJa": "ホットドッグにはマスタードをつけるのが好きです。"
+ },
+ {
+  "id": "en-1449",
+  "w": "wild",
+  "pos": "形容詞",
+  "ja": "野生の・荒れた・乱暴な",
+  "ipa": "waɪld",
+  "theme": "description",
+  "ex": "We saw wild deer in the mountains.",
+  "exJa": "山で野生のシカを見ました。"
+ },
+ {
+  "id": "en-1450",
+  "w": "easily",
+  "pos": "副詞",
+  "ja": "簡単に・楽に",
+  "ipa": "ˈizəli",
+  "theme": "grammar",
+  "ex": "You can easily get there by train.",
+  "exJa": "電車で簡単にそこへ行けます。"
+ },
+ {
+  "id": "en-1451",
+  "w": "app",
+  "pos": "名詞",
+  "ja": "アプリ",
+  "ipa": "æp",
+  "theme": "technology",
+  "ex": "I use this app to study English.",
+  "exJa": "英語の勉強にこのアプリを使っています。"
+ },
+ {
+  "id": "en-1452",
+  "w": "frost",
+  "pos": "名詞",
+  "ja": "霜",
+  "ipa": "frɔst",
+  "theme": "weather",
+  "ex": "There was frost on the car this morning.",
+  "exJa": "今朝は車に霜が降りていました。"
+ },
+ {
+  "id": "en-1453",
+  "w": "loss",
+  "pos": "名詞",
+  "ja": "損失・失うこと・負け",
+  "ipa": "lɔs",
+  "theme": "work",
+  "ex": "The company had a big loss last year.",
+  "exJa": "その会社は昨年大きな損失を出しました。"
+ },
+ {
+  "id": "en-1454",
+  "w": "essay",
+  "pos": "名詞",
+  "ja": "作文・小論文・エッセイ",
+  "ipa": "ˈɛseɪ",
+  "theme": "school",
+  "ex": "I have to write an essay tonight.",
+  "exJa": "今夜作文を書かなければなりません。"
+ },
+ {
+  "id": "en-1455",
+  "w": "policy",
+  "pos": "名詞",
+  "ja": "政策・方針",
+  "ipa": "ˈpɑləsi",
+  "theme": "society",
+  "ex": "The government changed its tax policy.",
+  "exJa": "政府は税制の方針を変えました。"
+ },
+ {
+  "id": "en-1456",
+  "w": "fit",
+  "pos": "動詞",
+  "ja": "（サイズが）合う・はまる",
+  "ipa": "fɪt",
+  "theme": "actions",
+  "ex": "These shoes don't fit me.",
+  "exJa": "この靴は私にはサイズが合いません。"
+ },
+ {
+  "id": "en-1457",
+  "w": "penguin",
+  "pos": "名詞",
+  "ja": "ペンギン",
+  "ipa": "ˈpɛŋɡwɪn",
+  "theme": "animals",
+  "ex": "Penguins can't fly.",
+  "exJa": "ペンギンは飛べません。"
+ },
+ {
+  "id": "en-1458",
+  "w": "counter",
+  "pos": "名詞",
+  "ja": "カウンター・売り場",
+  "ipa": "ˈkaʊntɚ",
+  "theme": "shopping",
+  "ex": "Please pay at the counter.",
+  "exJa": "カウンターでお支払いください。"
+ },
+ {
+  "id": "en-1459",
+  "w": "gift",
+  "pos": "名詞",
+  "ja": "贈り物・プレゼント・才能",
+  "ipa": "ɡɪft",
+  "theme": "smalltalk",
+  "ex": "Thank you for the lovely gift.",
+  "exJa": "すてきな贈り物をありがとう。"
+ },
+ {
+  "id": "en-1460",
+  "w": "doll",
+  "pos": "名詞",
+  "ja": "人形",
+  "ipa": "dɑl",
+  "theme": "hobbies",
+  "ex": "My daughter loves her new doll.",
+  "exJa": "娘は新しい人形が大好きです。"
+ },
+ {
+  "id": "en-1461",
+  "w": "period",
+  "pos": "名詞",
+  "ja": "期間・時代・時限",
+  "ipa": "ˈpɪriəd",
+  "theme": "time",
+  "ex": "I lived in Osaka for a short period.",
+  "exJa": "短い期間、大阪に住んでいました。"
+ },
+ {
+  "id": "en-1462",
+  "w": "flow",
+  "pos": "動詞",
+  "ja": "流れる",
+  "ipa": "floʊ",
+  "theme": "actions",
+  "ex": "The river flows into the sea.",
+  "exJa": "その川は海に流れ込んでいます。"
+ },
+ {
+  "id": "en-1463",
+  "w": "wrist",
+  "pos": "名詞",
+  "ja": "手首",
+  "ipa": "rɪst",
+  "theme": "body",
+  "ex": "I hurt my wrist playing tennis.",
+  "exJa": "テニスをしていて手首を痛めました。"
+ },
+ {
+  "id": "en-1464",
+  "w": "tame",
+  "pos": "形容詞",
+  "ja": "飼いならされた・人に慣れた・おとなしい",
+  "ipa": "teɪm",
+  "theme": "description",
+  "ex": "The rabbit is tame and likes people.",
+  "exJa": "そのウサギは人に慣れていて、人が好きです。"
+ },
+ {
+  "id": "en-1465",
+  "w": "petal",
+  "pos": "名詞",
+  "ja": "花びら",
+  "ipa": "ˈpɛtəl",
+  "theme": "nature",
+  "ex": "Cherry blossom petals are falling.",
+  "exJa": "桜の花びらが散っています。"
+ },
+ {
+  "id": "en-1466",
+  "w": "comb",
+  "pos": "名詞",
+  "ja": "くし",
+  "ipa": "koʊm",
+  "theme": "home",
+  "ex": "I always carry a comb in my bag.",
+  "exJa": "いつもかばんにくしを入れています。"
+ },
+ {
+  "id": "en-1467",
+  "w": "musician",
+  "pos": "名詞",
+  "ja": "音楽家・ミュージシャン",
+  "ipa": "mjuˈzɪʃən",
+  "theme": "people",
+  "ex": "My uncle is a jazz musician.",
+  "exJa": "おじはジャズミュージシャンです。"
+ },
+ {
+  "id": "en-1468",
+  "w": "garlic",
+  "pos": "名詞",
+  "ja": "ニンニク",
+  "ipa": "ˈɡɑrlɪk",
+  "theme": "food",
+  "ex": "This soup has a lot of garlic.",
+  "exJa": "このスープにはニンニクがたくさん入っています。"
+ },
+ {
+  "id": "en-1469",
+  "w": "forgive",
+  "pos": "動詞",
+  "ja": "許す",
+  "ipa": "fɚˈɡɪv",
+  "theme": "actions",
+  "ex": "Please forgive me.",
+  "exJa": "どうか許してください。"
+ },
+ {
+  "id": "en-1470",
+  "w": "quickly",
+  "pos": "副詞",
+  "ja": "速く・すばやく・すぐに",
+  "ipa": "ˈkwɪkli",
+  "theme": "grammar",
+  "ex": "He ate his lunch quickly.",
+  "exJa": "彼は急いで昼ご飯を食べました。"
+ },
+ {
+  "id": "en-1471",
+  "w": "bookstore",
+  "pos": "名詞",
+  "ja": "本屋・書店",
+  "ipa": "ˈbʊkˌstɔr",
+  "theme": "places",
+  "ex": "I bought this book at the bookstore.",
+  "exJa": "この本は書店で買いました。"
+ },
+ {
+  "id": "en-1472",
+  "w": "gain",
+  "pos": "動詞",
+  "ja": "得る・（体重などが）増える",
+  "ipa": "ɡeɪn",
+  "theme": "actions",
+  "ex": "I gained three kilos this winter.",
+  "exJa": "この冬、体重が3キロ増えました。"
+ },
+ {
+  "id": "en-1473",
+  "w": "pajamas",
+  "pos": "名詞",
+  "ja": "パジャマ",
+  "ipa": "pəˈdʒɑməz",
+  "theme": "clothes",
+  "ex": "He is still in his pajamas.",
+  "exJa": "彼はまだパジャマを着ています。"
+ },
+ {
+  "id": "en-1474",
+  "w": "tire",
+  "pos": "名詞",
+  "ja": "タイヤ",
+  "ipa": "taɪɚ",
+  "theme": "transport",
+  "ex": "We got a flat tire on the highway.",
+  "exJa": "高速道路でタイヤがパンクしました。"
+ },
+ {
+  "id": "en-1475",
+  "w": "noisy",
+  "pos": "形容詞",
+  "ja": "うるさい・騒がしい",
+  "ipa": "ˈnɔɪzi",
+  "theme": "description",
+  "ex": "This street is very noisy at night.",
+  "exJa": "この通りは夜とてもうるさいです。"
+ },
+ {
+  "id": "en-1476",
+  "w": "pill",
+  "pos": "名詞",
+  "ja": "錠剤・薬",
+  "ipa": "pɪl",
+  "theme": "health",
+  "ex": "Take one pill after each meal.",
+  "exJa": "毎食後に1錠飲んでください。"
+ },
+ {
+  "id": "en-1477",
+  "w": "relief",
+  "pos": "名詞",
+  "ja": "安心・ほっとすること・軽減",
+  "ipa": "rɪˈlif",
+  "theme": "feelings",
+  "ex": "It was a relief to hear the news.",
+  "exJa": "その知らせを聞いてほっとしました。"
+ },
+ {
+  "id": "en-1478",
+  "w": "grab",
+  "pos": "動詞",
+  "ja": "つかむ・ひったくる",
+  "ipa": "ɡræb",
+  "theme": "actions",
+  "ex": "He grabbed my arm.",
+  "exJa": "彼は私の腕をつかみました。"
+ },
+ {
+  "id": "en-1479",
+  "w": "ball",
+  "pos": "名詞",
+  "ja": "ボール・球",
+  "ipa": "bɔl",
+  "theme": "hobbies",
+  "ex": "Throw the ball to me!",
+  "exJa": "こっちにボールを投げて。"
+ },
+ {
+  "id": "en-1480",
+  "w": "dolphin",
+  "pos": "名詞",
+  "ja": "イルカ",
+  "ipa": "ˈdɑlfɪn",
+  "theme": "animals",
+  "ex": "We saw dolphins from the boat.",
+  "exJa": "船からイルカが見えました。"
+ },
+ {
+  "id": "en-1481",
+  "w": "ginger",
+  "pos": "名詞",
+  "ja": "ショウガ",
+  "ipa": "ˈdʒɪndʒɚ",
+  "theme": "food",
+  "ex": "Add some ginger to the soup.",
+  "exJa": "スープにショウガを少し入れてください。"
+ },
+ {
+  "id": "en-1482",
+  "w": "debt",
+  "pos": "名詞",
+  "ja": "借金・負債",
+  "ipa": "dɛt",
+  "theme": "money",
+  "ex": "He paid off all his debt.",
+  "exJa": "彼は借金を全部返しました。"
+ },
+ {
+  "id": "en-1483",
+  "w": "experiment",
+  "pos": "名詞",
+  "ja": "実験",
+  "ipa": "ɪkˈspɛrəmənt",
+  "theme": "school",
+  "ex": "We did an experiment in science class.",
+  "exJa": "理科の授業で実験をしました。"
+ },
+ {
+  "id": "en-1484",
+  "w": "economy",
+  "pos": "名詞",
+  "ja": "経済",
+  "ipa": "ɪˈkɑnəmi",
+  "theme": "society",
+  "ex": "The economy is growing slowly.",
+  "exJa": "経済はゆっくり成長しています。"
+ },
+ {
+  "id": "en-1485",
+  "w": "pilot",
+  "pos": "名詞",
+  "ja": "パイロット・操縦士",
+  "ipa": "ˈpaɪlət",
+  "theme": "people",
+  "ex": "My brother is an airline pilot.",
+  "exJa": "兄は旅客機のパイロットです。"
+ },
+ {
+  "id": "en-1486",
+  "w": "guard",
+  "pos": "動詞",
+  "ja": "守る・見張る",
+  "ipa": "ɡɑrd",
+  "theme": "actions",
+  "ex": "Two men guard the gate.",
+  "exJa": "2人の男性が門を見張っています。"
+ },
+ {
+  "id": "en-1487",
+  "w": "crowded",
+  "pos": "形容詞",
+  "ja": "混雑した・込んでいる",
+  "ipa": "ˈkraʊdɪd",
+  "theme": "description",
+  "ex": "The train was very crowded this morning.",
+  "exJa": "今朝は電車がとても混んでいました。"
+ },
+ {
+  "id": "en-1488",
+  "w": "software",
+  "pos": "名詞",
+  "ja": "ソフトウェア",
+  "ipa": "ˈsɔftˌwɛr",
+  "theme": "technology",
+  "ex": "I need to update the software.",
+  "exJa": "ソフトウェアを更新する必要があります。"
+ },
+ {
+  "id": "en-1489",
+  "w": "income",
+  "pos": "名詞",
+  "ja": "収入・所得",
+  "ipa": "ˈɪnˌkʌm",
+  "theme": "work",
+  "ex": "Her income is higher than mine.",
+  "exJa": "彼女の収入は私より多いです。"
+ },
+ {
+  "id": "en-1490",
+  "w": "razor",
+  "pos": "名詞",
+  "ja": "かみそり",
+  "ipa": "ˈreɪzɚ",
+  "theme": "home",
+  "ex": "I left my razor at the hotel.",
+  "exJa": "ホテルにかみそりを忘れてきました。"
+ },
+ {
+  "id": "en-1491",
+  "w": "blossom",
+  "pos": "名詞",
+  "ja": "（果樹の）花・開花",
+  "ipa": "ˈblɑsəm",
+  "theme": "nature",
+  "ex": "The cherry blossoms are beautiful.",
+  "exJa": "桜の花がきれいです。"
+ },
+ {
+  "id": "en-1492",
+  "w": "guide",
+  "pos": "動詞",
+  "ja": "案内する・導く",
+  "ipa": "ɡaɪd",
+  "theme": "actions",
+  "ex": "She guided us around the city.",
+  "exJa": "彼女は私たちに町を案内してくれました。"
+ },
+ {
+  "id": "en-1493",
+  "w": "slowly",
+  "pos": "副詞",
+  "ja": "ゆっくりと",
+  "ipa": "ˈsloʊli",
+  "theme": "grammar",
+  "ex": "Could you speak more slowly?",
+  "exJa": "もっとゆっくり話していただけますか。"
+ },
+ {
+  "id": "en-1494",
+  "w": "handle",
+  "pos": "動詞",
+  "ja": "扱う・対処する",
+  "ipa": "ˈhændəl",
+  "theme": "actions",
+  "ex": "Please handle this box with care.",
+  "exJa": "この箱は丁寧に扱ってください。"
+ },
+ {
+  "id": "en-1495",
+  "w": "cucumber",
+  "pos": "名詞",
+  "ja": "キュウリ",
+  "ipa": "ˈkjuˌkʌmbɚ",
+  "theme": "food",
+  "ex": "I put cucumber in the salad.",
+  "exJa": "サラダにキュウリを入れました。"
+ },
+ {
+  "id": "en-1496",
+  "w": "flat",
+  "pos": "形容詞",
+  "ja": "平らな・（タイヤが）パンクした",
+  "ipa": "flæt",
+  "theme": "description",
+  "ex": "The land here is flat.",
+  "exJa": "この辺りの土地は平らです。"
+ },
+ {
+  "id": "en-1497",
+  "w": "elbow",
+  "pos": "名詞",
+  "ja": "ひじ",
+  "ipa": "ˈɛlboʊ",
+  "theme": "body",
+  "ex": "I hit my elbow on the door.",
+  "exJa": "ドアにひじをぶつけました。"
+ },
+ {
+  "id": "en-1498",
+  "w": "cafe",
+  "pos": "名詞",
+  "ja": "カフェ・喫茶店",
+  "ipa": "kæˈfeɪ",
+  "theme": "places",
+  "ex": "Let's meet at the cafe at three.",
+  "exJa": "3時にカフェで会いましょう。"
+ },
+ {
+  "id": "en-1499",
+  "w": "heal",
+  "pos": "動詞",
+  "ja": "治る・治す",
+  "ipa": "hil",
+  "theme": "actions",
+  "ex": "The cut healed in a week.",
+  "exJa": "切り傷は1週間で治りました。"
+ },
+ {
+  "id": "en-1500",
+  "w": "bat",
+  "pos": "名詞",
+  "ja": "バット・コウモリ",
+  "ipa": "bæt",
+  "theme": "hobbies",
+  "ex": "He swung the bat hard.",
+  "exJa": "彼はバットを強く振りました。"
+ },
+ {
+  "id": "en-1501",
+  "w": "soldier",
+  "pos": "名詞",
+  "ja": "兵士",
+  "ipa": "ˈsoʊldʒɚ",
+  "theme": "people",
+  "ex": "Her grandfather was a soldier.",
+  "exJa": "彼女の祖父は兵士でした。"
+ },
+ {
+  "id": "en-1502",
+  "w": "whale",
+  "pos": "名詞",
+  "ja": "クジラ",
+  "ipa": "weɪl",
+  "theme": "animals",
+  "ex": "A whale is bigger than a shark.",
+  "exJa": "クジラはサメより大きいです。"
+ },
+ {
+  "id": "en-1503",
+  "w": "boots",
+  "pos": "名詞",
+  "ja": "ブーツ・長靴",
+  "ipa": "buts",
+  "theme": "clothes",
+  "ex": "Wear boots when it snows.",
+  "exJa": "雪が降るときはブーツを履きなさい。"
+ },
+ {
+  "id": "en-1504",
+  "w": "brake",
+  "pos": "名詞",
+  "ja": "ブレーキ",
+  "ipa": "breɪk",
+  "theme": "transport",
+  "ex": "The brakes on my bike don't work well.",
+  "exJa": "自転車のブレーキの効きが悪いです。"
+ },
+ {
+  "id": "en-1505",
+  "w": "heat",
+  "pos": "動詞",
+  "ja": "温める・熱する",
+  "ipa": "hit",
+  "theme": "actions",
+  "ex": "Heat the milk in the microwave.",
+  "exJa": "牛乳を電子レンジで温めてください。"
+ },
+ {
+  "id": "en-1506",
+  "w": "hanger",
+  "pos": "名詞",
+  "ja": "ハンガー",
+  "ipa": "ˈhæŋɚ",
+  "theme": "home",
+  "ex": "Put your coat on a hanger.",
+  "exJa": "コートをハンガーにかけてください。"
+ },
+ {
+  "id": "en-1507",
+  "w": "steep",
+  "pos": "形容詞",
+  "ja": "険しい・急な",
+  "ipa": "stip",
+  "theme": "description",
+  "ex": "This hill is too steep for my bike.",
+  "exJa": "この坂は自転車には急すぎます。"
+ },
+ {
+  "id": "en-1508",
+  "w": "age",
+  "pos": "名詞",
+  "ja": "年齢・時代",
+  "ipa": "eɪdʒ",
+  "theme": "time",
+  "ex": "Ken and Tom are the same age.",
+  "exJa": "ケンとトムは同い年です。"
+ },
+ {
+  "id": "en-1509",
+  "w": "chemistry",
+  "pos": "名詞",
+  "ja": "化学",
+  "ipa": "ˈkɛmɪstri",
+  "theme": "school",
+  "ex": "Chemistry is my favorite subject.",
+  "exJa": "化学は私の好きな科目です。"
+ },
+ {
+  "id": "en-1510",
+  "w": "democracy",
+  "pos": "名詞",
+  "ja": "民主主義",
+  "ipa": "dɪˈmɑkrəsi",
+  "theme": "society",
+  "ex": "Voting is important in a democracy.",
+  "exJa": "民主主義では投票が大切です。"
+ },
+ {
+  "id": "en-1511",
+  "w": "soil",
+  "pos": "名詞",
+  "ja": "土・土壌",
+  "ipa": "sɔɪl",
+  "theme": "nature",
+  "ex": "These plants need good soil.",
+  "exJa": "これらの植物には良い土が必要です。"
+ },
+ {
+  "id": "en-1512",
+  "w": "lettuce",
+  "pos": "名詞",
+  "ja": "レタス",
+  "ipa": "ˈlɛtəs",
+  "theme": "food",
+  "ex": "Wash the lettuce before you eat it.",
+  "exJa": "食べる前にレタスを洗ってください。"
+ },
+ {
+  "id": "en-1513",
+  "w": "quietly",
+  "pos": "副詞",
+  "ja": "静かに",
+  "ipa": "ˈkwaɪətli",
+  "theme": "grammar",
+  "ex": "Please close the door quietly.",
+  "exJa": "ドアを静かに閉めてください。"
+ },
+ {
+  "id": "en-1514",
+  "w": "hire",
+  "pos": "動詞",
+  "ja": "雇う",
+  "ipa": "haɪɚ",
+  "theme": "actions",
+  "ex": "We need to hire more staff.",
+  "exJa": "もっとスタッフを雇う必要があります。"
+ },
+ {
+  "id": "en-1515",
+  "w": "tablet",
+  "pos": "名詞",
+  "ja": "錠剤・タブレット",
+  "ipa": "ˈtæblət",
+  "theme": "health",
+  "ex": "Take two tablets three times a day.",
+  "exJa": "1日3回、2錠ずつ飲んでください。"
+ },
+ {
+  "id": "en-1516",
+  "w": "hug",
+  "pos": "動詞",
+  "ja": "抱きしめる",
+  "ipa": "hʌɡ",
+  "theme": "actions",
+  "ex": "She hugged her mother at the airport.",
+  "exJa": "彼女は空港で母親を抱きしめました。"
+ },
+ {
+  "id": "en-1517",
+  "w": "round",
+  "pos": "形容詞",
+  "ja": "丸い",
+  "ipa": "raʊnd",
+  "theme": "description",
+  "ex": "We have a round table in the kitchen.",
+  "exJa": "台所に丸いテーブルがあります。"
+ },
+ {
+  "id": "en-1518",
+  "w": "data",
+  "pos": "名詞",
+  "ja": "データ・資料",
+  "ipa": "ˈdeɪtə",
+  "theme": "technology",
+  "ex": "We collected data from 100 people.",
+  "exJa": "100人からデータを集めました。"
+ },
+ {
+  "id": "en-1519",
+  "w": "wage",
+  "pos": "名詞",
+  "ja": "賃金・給料",
+  "ipa": "weɪdʒ",
+  "theme": "work",
+  "ex": "The hourly wage is 1,200 yen.",
+  "exJa": "時給は1,200円です。"
+ },
+ {
+  "id": "en-1520",
+  "w": "chef",
+  "pos": "名詞",
+  "ja": "シェフ・料理人",
+  "ipa": "ʃɛf",
+  "theme": "people",
+  "ex": "The chef cooked a wonderful dinner.",
+  "exJa": "シェフがすばらしい夕食を作りました。"
+ },
+ {
+  "id": "en-1521",
+  "w": "increase",
+  "pos": "動詞",
+  "ja": "増える・増やす",
+  "ipa": "ɪnˈkris",
+  "theme": "actions",
+  "ex": "Prices increased last year.",
+  "exJa": "昨年、物価が上がりました。"
+ },
+ {
+  "id": "en-1522",
+  "w": "racket",
+  "pos": "名詞",
+  "ja": "ラケット",
+  "ipa": "ˈrækɪt",
+  "theme": "hobbies",
+  "ex": "I bought a new tennis racket.",
+  "exJa": "新しいテニスラケットを買いました。"
+ },
+ {
+  "id": "en-1523",
+  "w": "bar",
+  "pos": "名詞",
+  "ja": "バー・酒場・棒",
+  "ipa": "bɑr",
+  "theme": "places",
+  "ex": "Let's have a drink at the bar.",
+  "exJa": "バーで一杯飲みましょう。"
+ },
+ {
+  "id": "en-1524",
+  "w": "spinach",
+  "pos": "名詞",
+  "ja": "ホウレンソウ",
+  "ipa": "ˈspɪnɪtʃ",
+  "theme": "food",
+  "ex": "Spinach is good for your health.",
+  "exJa": "ホウレンソウは健康に良いです。"
+ },
+ {
+  "id": "en-1525",
+  "w": "satisfaction",
+  "pos": "名詞",
+  "ja": "満足",
+  "ipa": "ˌsætɪsˈfækʃən",
+  "theme": "feelings",
+  "ex": "She smiled with satisfaction.",
+  "exJa": "彼女は満足そうにほほえみました。"
+ },
+ {
+  "id": "en-1526",
+  "w": "vacuum",
+  "pos": "名詞",
+  "ja": "掃除機・真空",
+  "ipa": "ˈvækjum",
+  "theme": "home",
+  "ex": "The vacuum is very loud.",
+  "exJa": "掃除機の音がとても大きいです。"
+ },
+ {
+  "id": "en-1527",
+  "w": "inform",
+  "pos": "動詞",
+  "ja": "知らせる・通知する",
+  "ipa": "ɪnˈfɔrm",
+  "theme": "actions",
+  "ex": "Please inform us of any changes.",
+  "exJa": "変更があればお知らせください。"
+ },
+ {
+  "id": "en-1528",
+  "w": "shark",
+  "pos": "名詞",
+  "ja": "サメ",
+  "ipa": "ʃɑrk",
+  "theme": "animals",
+  "ex": "We saw a shark at the aquarium.",
+  "exJa": "水族館でサメを見ました。"
+ },
+ {
+  "id": "en-1529",
+  "w": "checkout",
+  "pos": "名詞",
+  "ja": "レジ・会計・チェックアウト",
+  "ipa": "ˈtʃɛkˌaʊt",
+  "theme": "shopping",
+  "ex": "There is a long line at the checkout.",
+  "exJa": "レジに長い列ができています。"
+ },
+ {
+  "id": "en-1530",
+  "w": "souvenir",
+  "pos": "名詞",
+  "ja": "お土産・記念品",
+  "ipa": "ˌsuvəˈnɪr",
+  "theme": "smalltalk",
+  "ex": "I bought a souvenir for my friend.",
+  "exJa": "友達にお土産を買いました。"
+ },
+ {
+  "id": "en-1531",
+  "w": "sharp",
+  "pos": "形容詞",
+  "ja": "鋭い・よく切れる",
+  "ipa": "ʃɑrp",
+  "theme": "description",
+  "ex": "Be careful, this knife is sharp.",
+  "exJa": "気をつけて、このナイフはよく切れます。"
+ },
+ {
+  "id": "en-1532",
+  "w": "carefully",
+  "pos": "副詞",
+  "ja": "注意深く・慎重に",
+  "ipa": "ˈkɛrfəli",
+  "theme": "grammar",
+  "ex": "Read the instructions carefully.",
+  "exJa": "説明書をよく読んでください。"
+ },
+ {
+  "id": "en-1533",
+  "w": "palm",
+  "pos": "名詞",
+  "ja": "手のひら・ヤシ",
+  "ipa": "pɑm",
+  "theme": "body",
+  "ex": "He held the coin in his palm.",
+  "exJa": "彼は手のひらに硬貨を乗せていました。"
+ },
+ {
+  "id": "en-1534",
+  "w": "mud",
+  "pos": "名詞",
+  "ja": "泥",
+  "ipa": "mʌd",
+  "theme": "nature",
+  "ex": "My shoes are covered in mud.",
+  "exJa": "靴が泥だらけです。"
+ },
+ {
+  "id": "en-1535",
+  "w": "insist",
+  "pos": "動詞",
+  "ja": "主張する・言い張る",
+  "ipa": "ɪnˈsɪst",
+  "theme": "actions",
+  "ex": "He insisted on paying for dinner.",
+  "exJa": "彼は夕食代を払うと言い張りました。"
+ },
+ {
+  "id": "en-1536",
+  "w": "physics",
+  "pos": "名詞",
+  "ja": "物理学",
+  "ipa": "ˈfɪzɪks",
+  "theme": "school",
+  "ex": "Physics is hard for me.",
+  "exJa": "物理は私には難しいです。"
+ },
+ {
+  "id": "en-1537",
+  "w": "freedom",
+  "pos": "名詞",
+  "ja": "自由",
+  "ipa": "ˈfridəm",
+  "theme": "society",
+  "ex": "Freedom of speech is important.",
+  "exJa": "言論の自由は大切です。"
+ },
+ {
+  "id": "en-1538",
+  "w": "sandals",
+  "pos": "名詞",
+  "ja": "サンダル",
+  "ipa": "ˈsændəlz",
+  "theme": "clothes",
+  "ex": "I wear sandals at the beach.",
+  "exJa": "浜辺ではサンダルを履きます。"
+ },
+ {
+  "id": "en-1539",
+  "w": "fuel",
+  "pos": "名詞",
+  "ja": "燃料",
+  "ipa": "ˈfjuəl",
+  "theme": "transport",
+  "ex": "This car doesn't use much fuel.",
+  "exJa": "この車はあまり燃料を使いません。"
+ },
+ {
+  "id": "en-1540",
+  "w": "baker",
+  "pos": "名詞",
+  "ja": "パン職人・パン屋さん",
+  "ipa": "ˈbeɪkɚ",
+  "theme": "people",
+  "ex": "The baker gets up at four every morning.",
+  "exJa": "そのパン職人は毎朝4時に起きます。"
+ },
+ {
+  "id": "en-1541",
+  "w": "install",
+  "pos": "動詞",
+  "ja": "インストールする・取り付ける",
+  "ipa": "ɪnˈstɔl",
+  "theme": "actions",
+  "ex": "I installed a new app on my phone.",
+  "exJa": "スマホに新しいアプリをインストールしました。"
+ },
+ {
+  "id": "en-1542",
+  "w": "dull",
+  "pos": "形容詞",
+  "ja": "退屈な・鈍い・くすんだ",
+  "ipa": "dʌl",
+  "theme": "description",
+  "ex": "The movie was long and dull.",
+  "exJa": "その映画は長くて退屈でした。"
+ },
+ {
+  "id": "en-1543",
+  "w": "pumpkin",
+  "pos": "名詞",
+  "ja": "カボチャ",
+  "ipa": "ˈpʌmpkɪn",
+  "theme": "food",
+  "ex": "My mother made pumpkin soup.",
+  "exJa": "母がカボチャのスープを作りました。"
+ },
+ {
+  "id": "en-1544",
+  "w": "intend",
+  "pos": "動詞",
+  "ja": "〜するつもりである・意図する",
+  "ipa": "ɪnˈtɛnd",
+  "theme": "actions",
+  "ex": "I intend to study abroad next year.",
+  "exJa": "来年留学するつもりです。"
+ },
+ {
+  "id": "en-1545",
+  "w": "net",
+  "pos": "名詞",
+  "ja": "ネット・網",
+  "ipa": "nɛt",
+  "theme": "hobbies",
+  "ex": "The ball hit the net.",
+  "exJa": "ボールがネットに当たりました。"
+ },
+ {
+  "id": "en-1546",
+  "w": "broom",
+  "pos": "名詞",
+  "ja": "ほうき",
+  "ipa": "brum",
+  "theme": "home",
+  "ex": "Sweep the floor with this broom.",
+  "exJa": "このほうきで床を掃いてください。"
+ },
+ {
+  "id": "en-1547",
+  "w": "club",
+  "pos": "名詞",
+  "ja": "クラブ・部・同好会",
+  "ipa": "klʌb",
+  "theme": "places",
+  "ex": "My son joined the tennis club.",
+  "exJa": "息子はテニス部に入りました。"
+ },
+ {
+  "id": "en-1548",
+  "w": "invent",
+  "pos": "動詞",
+  "ja": "発明する",
+  "ipa": "ɪnˈvɛnt",
+  "theme": "actions",
+  "ex": "Who invented the telephone?",
+  "exJa": "電話を発明したのは誰ですか。"
+ },
+ {
+  "id": "en-1549",
+  "w": "straight",
+  "pos": "形容詞",
+  "ja": "まっすぐな・直毛の",
+  "ipa": "streɪt",
+  "theme": "description",
+  "ex": "Draw a straight line.",
+  "exJa": "まっすぐな線を引いてください。"
+ },
+ {
+  "id": "en-1550",
+  "w": "happily",
+  "pos": "副詞",
+  "ja": "楽しそうに・幸せに",
+  "ipa": "ˈhæpəli",
+  "theme": "grammar",
+  "ex": "The children are playing happily.",
+  "exJa": "子どもたちが楽しそうに遊んでいます。"
+ },
+ {
+  "id": "en-1551",
+  "w": "password",
+  "pos": "名詞",
+  "ja": "パスワード",
+  "ipa": "ˈpæsˌwɝd",
+  "theme": "technology",
+  "ex": "I forgot my password again.",
+  "exJa": "またパスワードを忘れました。"
+ },
+ {
+  "id": "en-1552",
+  "w": "hail",
+  "pos": "名詞",
+  "ja": "ひょう・あられ",
+  "ipa": "heɪl",
+  "theme": "weather",
+  "ex": "Hail fell during the storm.",
+  "exJa": "嵐の間にひょうが降りました。"
+ },
+ {
+  "id": "en-1553",
+  "w": "contract",
+  "pos": "名詞",
+  "ja": "契約・契約書",
+  "ipa": "ˈkɑnˌtrækt",
+  "theme": "work",
+  "ex": "Please sign the contract here.",
+  "exJa": "こちらの契約書にサインしてください。"
+ },
+ {
+  "id": "en-1554",
+  "w": "turtle",
+  "pos": "名詞",
+  "ja": "カメ",
+  "ipa": "ˈtɝtəl",
+  "theme": "animals",
+  "ex": "The turtle is swimming slowly.",
+  "exJa": "カメがゆっくり泳いでいます。"
+ },
+ {
+  "id": "en-1555",
+  "w": "era",
+  "pos": "名詞",
+  "ja": "時代",
+  "ipa": "ˈɪrə",
+  "theme": "time",
+  "ex": "We live in the era of the internet.",
+  "exJa": "私たちはインターネットの時代に生きています。"
+ },
+ {
+  "id": "en-1556",
+  "w": "dust",
+  "pos": "名詞",
+  "ja": "ほこり・ちり",
+  "ipa": "dʌst",
+  "theme": "nature",
+  "ex": "The shelf is covered in dust.",
+  "exJa": "棚がほこりだらけです。"
+ },
+ {
+  "id": "en-1557",
+  "w": "barber",
+  "pos": "名詞",
+  "ja": "理容師・床屋",
+  "ipa": "ˈbɑrbɚ",
+  "theme": "people",
+  "ex": "I go to the barber once a month.",
+  "exJa": "月に1回床屋に行きます。"
+ },
+ {
+  "id": "en-1558",
+  "w": "melon",
+  "pos": "名詞",
+  "ja": "メロン",
+  "ipa": "ˈmɛlən",
+  "theme": "food",
+  "ex": "This melon is very sweet.",
+  "exJa": "このメロンはとても甘いです。"
+ },
+ {
+  "id": "en-1559",
+  "w": "invest",
+  "pos": "動詞",
+  "ja": "投資する",
+  "ipa": "ɪnˈvɛst",
+  "theme": "actions",
+  "ex": "He invested his money in stocks.",
+  "exJa": "彼はお金を株に投資しました。"
+ },
+ {
+  "id": "en-1560",
+  "w": "vitamin",
+  "pos": "名詞",
+  "ja": "ビタミン",
+  "ipa": "ˈvaɪtəmɪn",
+  "theme": "health",
+  "ex": "Oranges have a lot of vitamin C.",
+  "exJa": "オレンジにはビタミンCがたくさん含まれています。"
+ },
+ {
+  "id": "en-1561",
+  "w": "savings",
+  "pos": "名詞",
+  "ja": "貯金・貯蓄",
+  "ipa": "ˈseɪvɪŋz",
+  "theme": "money",
+  "ex": "I used my savings to buy a car.",
+  "exJa": "貯金を使って車を買いました。"
+ },
+ {
+  "id": "en-1562",
+  "w": "biology",
+  "pos": "名詞",
+  "ja": "生物学",
+  "ipa": "baɪˈɑlədʒi",
+  "theme": "school",
+  "ex": "We studied plants in biology class.",
+  "exJa": "生物の授業で植物について学びました。"
+ },
+ {
+  "id": "en-1563",
+  "w": "justice",
+  "pos": "名詞",
+  "ja": "正義・公正・司法",
+  "ipa": "ˈdʒʌstɪs",
+  "theme": "society",
+  "ex": "They fought for justice and freedom.",
+  "exJa": "彼らは正義と自由のために戦いました。"
+ },
+ {
+  "id": "en-1564",
+  "w": "iron",
+  "pos": "動詞",
+  "ja": "アイロンをかける",
+  "ipa": "ˈaɪɚn",
+  "theme": "actions",
+  "ex": "I need to iron my shirt.",
+  "exJa": "シャツにアイロンをかけなければなりません。"
+ },
+ {
+  "id": "en-1565",
+  "w": "curved",
+  "pos": "形容詞",
+  "ja": "曲がった・カーブした",
+  "ipa": "kɝvd",
+  "theme": "description",
+  "ex": "The road is curved here.",
+  "exJa": "ここは道路がカーブしています。"
+ },
+ {
+  "id": "en-1566",
+  "w": "thumb",
+  "pos": "名詞",
+  "ja": "親指",
+  "ipa": "θʌm",
+  "theme": "body",
+  "ex": "I cut my thumb while cooking.",
+  "exJa": "料理中に親指を切りました。"
+ },
+ {
+  "id": "en-1567",
+  "w": "judge",
+  "pos": "動詞",
+  "ja": "判断する・審査する",
+  "ipa": "dʒʌdʒ",
+  "theme": "actions",
+  "ex": "Don't judge people by their looks.",
+  "exJa": "人を見た目で判断してはいけません。"
+ },
+ {
+  "id": "en-1568",
+  "w": "race",
+  "pos": "名詞",
+  "ja": "競走・レース",
+  "ipa": "reɪs",
+  "theme": "hobbies",
+  "ex": "Ken won the race.",
+  "exJa": "ケンは競走で勝ちました。"
+ },
+ {
+  "id": "en-1569",
+  "w": "sneakers",
+  "pos": "名詞",
+  "ja": "スニーカー・運動靴",
+  "ipa": "ˈsnikɚz",
+  "theme": "clothes",
+  "ex": "These sneakers are very comfortable.",
+  "exJa": "このスニーカーはとても履き心地がいいです。"
+ },
+ {
+  "id": "en-1570",
+  "w": "license",
+  "pos": "名詞",
+  "ja": "免許・免許証・許可",
+  "ipa": "ˈlaɪsəns",
+  "theme": "transport",
+  "ex": "Do you have a driver's license?",
+  "exJa": "運転免許証を持っていますか。"
+ },
+ {
+  "id": "en-1571",
+  "w": "bucket",
+  "pos": "名詞",
+  "ja": "バケツ",
+  "ipa": "ˈbʌkɪt",
+  "theme": "home",
+  "ex": "Fill the bucket with water.",
+  "exJa": "バケツに水を入れてください。"
+ },
+ {
+  "id": "en-1572",
+  "w": "watermelon",
+  "pos": "名詞",
+  "ja": "スイカ",
+  "ipa": "ˈwɔtɚˌmɛlən",
+  "theme": "food",
+  "ex": "We ate watermelon on the beach.",
+  "exJa": "浜辺でスイカを食べました。"
+ },
+ {
+  "id": "en-1573",
+  "w": "luckily",
+  "pos": "副詞",
+  "ja": "運よく・幸いにも",
+  "ipa": "ˈlʌkəli",
+  "theme": "grammar",
+  "ex": "Luckily, no one was hurt.",
+  "exJa": "幸いにも、誰もけがをしませんでした。"
+ },
+ {
+  "id": "en-1574",
+  "w": "land",
+  "pos": "動詞",
+  "ja": "着陸する・着地する",
+  "ipa": "lænd",
+  "theme": "actions",
+  "ex": "The plane landed safely.",
+  "exJa": "飛行機は無事に着陸しました。"
+ },
+ {
+  "id": "en-1575",
+  "w": "loose",
+  "pos": "形容詞",
+  "ja": "緩い・ゆったりした",
+  "ipa": "lus",
+  "theme": "description",
+  "ex": "These pants are too loose.",
+  "exJa": "このズボンは緩すぎます。"
+ },
+ {
+  "id": "en-1576",
+  "w": "hairdresser",
+  "pos": "名詞",
+  "ja": "美容師",
+  "ipa": "ˈhɛrˌdrɛsɚ",
+  "theme": "people",
+  "ex": "My hairdresser cut my hair short.",
+  "exJa": "美容師に髪を短く切ってもらいました。"
+ },
+ {
+  "id": "en-1577",
+  "w": "gym",
+  "pos": "名詞",
+  "ja": "ジム・体育館",
+  "ipa": "dʒɪm",
+  "theme": "places",
+  "ex": "I go to the gym after work.",
+  "exJa": "仕事の後にジムに行きます。"
+ },
+ {
+  "id": "en-1578",
+  "w": "sorrow",
+  "pos": "名詞",
+  "ja": "悲しみ",
+  "ipa": "ˈsɑroʊ",
+  "theme": "feelings",
+  "ex": "She could not hide her sorrow.",
+  "exJa": "彼女は悲しみを隠せませんでした。"
+ },
+ {
+  "id": "en-1579",
+  "w": "frog",
+  "pos": "名詞",
+  "ja": "カエル",
+  "ipa": "frɔɡ",
+  "theme": "animals",
+  "ex": "A frog jumped into the pond.",
+  "exJa": "カエルが池に飛び込みました。"
+ },
+ {
+  "id": "en-1580",
+  "w": "smoke",
+  "pos": "名詞",
+  "ja": "煙",
+  "ipa": "smoʊk",
+  "theme": "nature",
+  "ex": "Smoke is coming from the chimney.",
+  "exJa": "煙突から煙が出ています。"
+ },
+ {
+  "id": "en-1581",
+  "w": "lay",
+  "pos": "動詞",
+  "ja": "置く・横たえる・（卵を）産む",
+  "ipa": "leɪ",
+  "theme": "actions",
+  "ex": "She laid the baby on the bed.",
+  "exJa": "彼女は赤ちゃんをベッドに寝かせました。"
+ },
+ {
+  "id": "en-1582",
+  "w": "lean",
+  "pos": "動詞",
+  "ja": "寄りかかる・もたれる・傾く",
+  "ipa": "lin",
+  "theme": "actions",
+  "ex": "Don't lean against the door.",
+  "exJa": "ドアに寄りかからないでください。"
+ },
+ {
+  "id": "en-1583",
+  "w": "tight",
+  "pos": "形容詞",
+  "ja": "きつい・ぴったりした",
+  "ipa": "taɪt",
+  "theme": "description",
+  "ex": "These jeans are too tight.",
+  "exJa": "このジーンズはきつすぎます。"
+ },
+ {
+  "id": "en-1584",
+  "w": "online",
+  "pos": "副詞",
+  "ja": "オンラインで・ネットで",
+  "ipa": "ˌɑnˈlaɪn",
+  "theme": "technology",
+  "ex": "I often buy clothes online.",
+  "exJa": "よくネットで服を買います。"
+ },
+ {
+  "id": "en-1585",
+  "w": "agreement",
+  "pos": "名詞",
+  "ja": "合意・協定・同意",
+  "ipa": "əˈɡrimənt",
+  "theme": "work",
+  "ex": "We finally reached an agreement.",
+  "exJa": "私たちはようやく合意に達しました。"
+ },
+ {
+  "id": "en-1586",
+  "w": "cherry",
+  "pos": "名詞",
+  "ja": "さくらんぼ・桜",
+  "ipa": "ˈtʃɛri",
+  "theme": "food",
+  "ex": "These cherries are so sweet.",
+  "exJa": "このさくらんぼはとても甘いです。"
+ },
+ {
+  "id": "en-1587",
+  "w": "geography",
+  "pos": "名詞",
+  "ja": "地理・地理学",
+  "ipa": "dʒiˈɑɡrəfi",
+  "theme": "school",
+  "ex": "We learned about Africa in geography class.",
+  "exJa": "地理の授業でアフリカについて学びました。"
+ },
+ {
+  "id": "en-1588",
+  "w": "crime",
+  "pos": "名詞",
+  "ja": "犯罪",
+  "ipa": "kraɪm",
+  "theme": "society",
+  "ex": "There is little crime in this town.",
+  "exJa": "この町は犯罪が少ないです。"
+ },
+ {
+  "id": "en-1589",
+  "w": "limit",
+  "pos": "動詞",
+  "ja": "制限する",
+  "ipa": "ˈlɪmɪt",
+  "theme": "actions",
+  "ex": "Please limit your speech to five minutes.",
+  "exJa": "スピーチは5分以内にしてください。"
+ },
+ {
+  "id": "en-1590",
+  "w": "volleyball",
+  "pos": "名詞",
+  "ja": "バレーボール",
+  "ipa": "ˈvɑliˌbɔl",
+  "theme": "hobbies",
+  "ex": "We play volleyball after school.",
+  "exJa": "放課後にバレーボールをします。"
+ },
+ {
+  "id": "en-1591",
+  "w": "ladder",
+  "pos": "名詞",
+  "ja": "はしご",
+  "ipa": "ˈlædɚ",
+  "theme": "home",
+  "ex": "He climbed the ladder to fix the roof.",
+  "exJa": "彼は屋根を直すためにはしごを登りました。"
+ },
+ {
+  "id": "en-1592",
+  "w": "unfortunately",
+  "pos": "副詞",
+  "ja": "残念ながら・あいにく",
+  "ipa": "ʌnˈfɔrtʃənətli",
+  "theme": "grammar",
+  "ex": "Unfortunately, the shop was closed.",
+  "exJa": "残念ながら、店は閉まっていました。"
+ },
+ {
+  "id": "en-1593",
+  "w": "mechanic",
+  "pos": "名詞",
+  "ja": "整備士",
+  "ipa": "məˈkænɪk",
+  "theme": "people",
+  "ex": "The mechanic fixed my car.",
+  "exJa": "整備士が私の車を直してくれました。"
+ },
+ {
+  "id": "en-1594",
+  "w": "link",
+  "pos": "動詞",
+  "ja": "つなぐ・関連づける",
+  "ipa": "lɪŋk",
+  "theme": "actions",
+  "ex": "This bridge links the two towns.",
+  "exJa": "この橋は2つの町をつないでいます。"
+ },
+ {
+  "id": "en-1595",
+  "w": "solid",
+  "pos": "形容詞",
+  "ja": "固い・頑丈な・固体の",
+  "ipa": "ˈsɑlɪd",
+  "theme": "description",
+  "ex": "The ice is solid enough to walk on.",
+  "exJa": "氷は上を歩けるほど固いです。"
+ },
+ {
+  "id": "en-1596",
+  "w": "list",
+  "pos": "動詞",
+  "ja": "一覧にする・リストに挙げる",
+  "ipa": "lɪst",
+  "theme": "actions",
+  "ex": "Please list your favorite foods.",
+  "exJa": "好きな食べ物を書き出してください。"
+ },
+ {
+  "id": "en-1597",
+  "w": "lizard",
+  "pos": "名詞",
+  "ja": "トカゲ",
+  "ipa": "ˈlɪzɚd",
+  "theme": "animals",
+  "ex": "A small lizard ran across the wall.",
+  "exJa": "小さなトカゲが壁を走っていきました。"
+ },
+ {
+  "id": "en-1598",
+  "w": "ankle",
+  "pos": "名詞",
+  "ja": "足首",
+  "ipa": "ˈæŋkəl",
+  "theme": "body",
+  "ex": "I twisted my ankle yesterday.",
+  "exJa": "昨日足首をひねりました。"
+ },
+ {
+  "id": "en-1599",
+  "w": "slippers",
+  "pos": "名詞",
+  "ja": "スリッパ・室内履き",
+  "ipa": "ˈslɪpɚz",
+  "theme": "clothes",
+  "ex": "Please wear slippers in the house.",
+  "exJa": "家の中ではスリッパを履いてください。"
+ },
+ {
+  "id": "en-1600",
+  "w": "pineapple",
+  "pos": "名詞",
+  "ja": "パイナップル",
+  "ipa": "ˈpaɪˌnæpəl",
+  "theme": "food",
+  "ex": "I like pineapple on pizza.",
+  "exJa": "ピザにパイナップルをのせるのが好きです。"
+ },
+ {
+  "id": "en-1601",
+  "w": "bandage",
+  "pos": "名詞",
+  "ja": "包帯・ばんそうこう",
+  "ipa": "ˈbændɪdʒ",
+  "theme": "health",
+  "ex": "The nurse put a bandage on my arm.",
+  "exJa": "看護師が私の腕に包帯を巻いてくれました。"
+ },
+ {
+  "id": "en-1602",
+  "w": "steam",
+  "pos": "名詞",
+  "ja": "蒸気・湯気",
+  "ipa": "stim",
+  "theme": "nature",
+  "ex": "Steam is coming out of the kettle.",
+  "exJa": "やかんから湯気が出ています。"
+ },
+ {
+  "id": "en-1603",
+  "w": "pool",
+  "pos": "名詞",
+  "ja": "プール・水たまり",
+  "ipa": "pul",
+  "theme": "places",
+  "ex": "The hotel has a big pool.",
+  "exJa": "そのホテルには大きなプールがあります。"
+ },
+ {
+  "id": "en-1604",
+  "w": "bargain",
+  "pos": "名詞",
+  "ja": "お買い得品・掘り出し物",
+  "ipa": "ˈbɑrɡən",
+  "theme": "shopping",
+  "ex": "This jacket was a real bargain.",
+  "exJa": "このジャケットは本当にお買い得でした。"
+ },
+ {
+  "id": "en-1605",
+  "w": "prize",
+  "pos": "名詞",
+  "ja": "賞・賞品",
+  "ipa": "praɪz",
+  "theme": "smalltalk",
+  "ex": "Ken won first prize in the contest.",
+  "exJa": "ケンはコンテストで1等賞を取りました。"
+ },
+ {
+  "id": "en-1606",
+  "w": "sunrise",
+  "pos": "名詞",
+  "ja": "日の出",
+  "ipa": "ˈsʌnˌraɪz",
+  "theme": "time",
+  "ex": "We got up early to see the sunrise.",
+  "exJa": "日の出を見るために早起きしました。"
+ },
+ {
+  "id": "en-1607",
+  "w": "passport",
+  "pos": "名詞",
+  "ja": "パスポート・旅券",
+  "ipa": "ˈpæsˌpɔrt",
+  "theme": "transport",
+  "ex": "Please show me your passport.",
+  "exJa": "パスポートを見せてください。"
+ },
+ {
+  "id": "en-1608",
+  "w": "liquid",
+  "pos": "形容詞",
+  "ja": "液体の・液状の",
+  "ipa": "ˈlɪkwɪd",
+  "theme": "description",
+  "ex": "I use liquid soap in the kitchen.",
+  "exJa": "台所では液体せっけんを使っています。"
+ },
+ {
+  "id": "en-1609",
+  "w": "load",
+  "pos": "動詞",
+  "ja": "積む・載せる・読み込む",
+  "ipa": "loʊd",
+  "theme": "actions",
+  "ex": "We loaded the boxes into the car.",
+  "exJa": "私たちは箱を車に積みました。"
+ },
+ {
+  "id": "en-1610",
+  "w": "carpenter",
+  "pos": "名詞",
+  "ja": "大工",
+  "ipa": "ˈkɑrpəntɚ",
+  "theme": "people",
+  "ex": "My uncle is a carpenter.",
+  "exJa": "私のおじは大工です。"
+ },
+ {
+  "id": "en-1611",
+  "w": "obviously",
+  "pos": "副詞",
+  "ja": "明らかに・もちろん",
+  "ipa": "ˈɑbviəsli",
+  "theme": "grammar",
+  "ex": "Obviously, he was very tired.",
+  "exJa": "明らかに、彼はとても疲れていました。"
+ },
+ {
+  "id": "en-1612",
+  "w": "hammer",
+  "pos": "名詞",
+  "ja": "ハンマー・金づち",
+  "ipa": "ˈhæmɚ",
+  "theme": "home",
+  "ex": "Can you pass me the hammer?",
+  "exJa": "金づちを取ってくれますか。"
+ },
+ {
+  "id": "en-1613",
+  "w": "golf",
+  "pos": "名詞",
+  "ja": "ゴルフ",
+  "ipa": "ɡɑlf",
+  "theme": "hobbies",
+  "ex": "My father plays golf on Sundays.",
+  "exJa": "父は日曜日にゴルフをします。"
+ },
+ {
+  "id": "en-1614",
+  "w": "mark",
+  "pos": "動詞",
+  "ja": "印をつける・採点する",
+  "ipa": "mɑrk",
+  "theme": "actions",
+  "ex": "Please mark the date on your calendar.",
+  "exJa": "カレンダーのその日に印をつけてください。"
+ },
+ {
+  "id": "en-1615",
+  "w": "art",
+  "pos": "名詞",
+  "ja": "美術・芸術",
+  "ipa": "ɑrt",
+  "theme": "school",
+  "ex": "Art is my favorite subject.",
+  "exJa": "美術は私の一番好きな教科です。"
+ },
+ {
+  "id": "en-1616",
+  "w": "criminal",
+  "pos": "名詞",
+  "ja": "犯罪者・犯人",
+  "ipa": "ˈkrɪmənəl",
+  "theme": "society",
+  "ex": "The police caught the criminal.",
+  "exJa": "警察が犯人を捕まえました。"
+ },
+ {
+  "id": "en-1617",
+  "w": "kiwi",
+  "pos": "名詞",
+  "ja": "キウイ",
+  "ipa": "ˈkiwi",
+  "theme": "food",
+  "ex": "I eat a kiwi every morning.",
+  "exJa": "私は毎朝キウイを1個食べます。"
+ },
+ {
+  "id": "en-1618",
+  "w": "raw",
+  "pos": "形容詞",
+  "ja": "生の・加工していない",
+  "ipa": "rɔ",
+  "theme": "description",
+  "ex": "Do you eat raw fish?",
+  "exJa": "生の魚を食べますか。"
+ },
+ {
+  "id": "en-1619",
+  "w": "offline",
+  "pos": "形容詞",
+  "ja": "オフラインの",
+  "ipa": "ˌɔfˈlaɪn",
+  "theme": "technology",
+  "ex": "The website is offline right now.",
+  "exJa": "そのウェブサイトは今オフラインです。"
+ },
+ {
+  "id": "en-1620",
+  "w": "client",
+  "pos": "名詞",
+  "ja": "顧客・依頼人",
+  "ipa": "ˈklaɪənt",
+  "theme": "work",
+  "ex": "I have a meeting with a client today.",
+  "exJa": "今日は顧客との打ち合わせがあります。"
+ },
+ {
+  "id": "en-1621",
+  "w": "match",
+  "pos": "動詞",
+  "ja": "合う・調和する・一致する",
+  "ipa": "mætʃ",
+  "theme": "actions",
+  "ex": "Your shoes match your bag.",
+  "exJa": "あなたの靴はバッグに合っています。"
+ },
+ {
+  "id": "en-1622",
+  "w": "matter",
+  "pos": "動詞",
+  "ja": "重要である・問題となる",
+  "ipa": "ˈmætɚ",
+  "theme": "actions",
+  "ex": "It doesn't matter to me.",
+  "exJa": "私にはどうでもいいことです。"
+ },
+ {
+  "id": "en-1623",
+  "w": "ash",
+  "pos": "名詞",
+  "ja": "灰",
+  "ipa": "æʃ",
+  "theme": "nature",
+  "ex": "The volcano covered the town with ash.",
+  "exJa": "火山がその町を灰で覆いました。"
+ },
+ {
+  "id": "en-1624",
+  "w": "spider",
+  "pos": "名詞",
+  "ja": "クモ",
+  "ipa": "ˈspaɪdɚ",
+  "theme": "animals",
+  "ex": "There is a spider on the wall.",
+  "exJa": "壁にクモがいます。"
+ },
+ {
+  "id": "en-1625",
+  "w": "grief",
+  "pos": "名詞",
+  "ja": "深い悲しみ",
+  "ipa": "ɡrif",
+  "theme": "feelings",
+  "ex": "She was full of grief after her dog died.",
+  "exJa": "犬が死んで、彼女は深い悲しみに沈んでいました。"
+ },
+ {
+  "id": "en-1626",
+  "w": "court",
+  "pos": "名詞",
+  "ja": "裁判所・コート",
+  "ipa": "kɔrt",
+  "theme": "places",
+  "ex": "He had to go to court.",
+  "exJa": "彼は裁判所へ行かなければなりませんでした。"
+ },
+ {
+  "id": "en-1627",
+  "w": "plumber",
+  "pos": "名詞",
+  "ja": "配管工",
+  "ipa": "ˈplʌmɚ",
+  "theme": "people",
+  "ex": "We called a plumber to fix the sink.",
+  "exJa": "流しを直してもらうために配管工を呼びました。"
+ },
+ {
+  "id": "en-1628",
+  "w": "ripe",
+  "pos": "形容詞",
+  "ja": "熟した",
+  "ipa": "raɪp",
+  "theme": "description",
+  "ex": "These bananas are ripe.",
+  "exJa": "このバナナは熟しています。"
+ },
+ {
+  "id": "en-1629",
+  "w": "mention",
+  "pos": "動詞",
+  "ja": "言及する・話に出す",
+  "ipa": "ˈmɛnʃən",
+  "theme": "actions",
+  "ex": "She didn't mention the party.",
+  "exJa": "彼女はパーティーのことを話しませんでした。"
+ },
+ {
+  "id": "en-1630",
+  "w": "immediately",
+  "pos": "副詞",
+  "ja": "すぐに・ただちに",
+  "ipa": "ɪˈmidiətli",
+  "theme": "grammar",
+  "ex": "Please call me immediately.",
+  "exJa": "すぐに電話してください。"
+ },
+ {
+  "id": "en-1631",
+  "w": "avocado",
+  "pos": "名詞",
+  "ja": "アボカド",
+  "ipa": "ˌævəˈkɑdoʊ",
+  "theme": "food",
+  "ex": "I put avocado in my salad.",
+  "exJa": "サラダにアボカドを入れました。"
+ },
+ {
+  "id": "en-1632",
+  "w": "nail",
+  "pos": "名詞",
+  "ja": "くぎ・爪",
+  "ipa": "neɪl",
+  "theme": "home",
+  "ex": "I need a nail to hang this picture.",
+  "exJa": "この絵を掛けるのにくぎが必要です。"
+ },
+ {
+  "id": "en-1633",
+  "w": "umbrella",
+  "pos": "名詞",
+  "ja": "傘",
+  "ipa": "ʌmˈbrɛlə",
+  "theme": "clothes",
+  "ex": "Don't forget your umbrella.",
+  "exJa": "傘を忘れないでね。"
+ },
+ {
+  "id": "en-1634",
+  "w": "visa",
+  "pos": "名詞",
+  "ja": "ビザ・査証",
+  "ipa": "ˈvizə",
+  "theme": "transport",
+  "ex": "Do I need a visa for Japan?",
+  "exJa": "日本へ行くのにビザは必要ですか。"
+ },
+ {
+  "id": "en-1635",
+  "w": "skiing",
+  "pos": "名詞",
+  "ja": "スキー",
+  "ipa": "ˈskiɪŋ",
+  "theme": "hobbies",
+  "ex": "We go skiing every winter.",
+  "exJa": "私たちは毎年冬にスキーに行きます。"
+ },
+ {
+  "id": "en-1636",
+  "w": "mind",
+  "pos": "動詞",
+  "ja": "気にする・嫌だと思う",
+  "ipa": "maɪnd",
+  "theme": "actions",
+  "ex": "Do you mind if I open the window?",
+  "exJa": "窓を開けてもかまいませんか。"
+ },
+ {
+  "id": "en-1637",
+  "w": "heel",
+  "pos": "名詞",
+  "ja": "かかと・ヒール",
+  "ipa": "hil",
+  "theme": "body",
+  "ex": "My heel hurts after the long walk.",
+  "exJa": "長く歩いたあと、かかとが痛いです。"
+ },
+ {
+  "id": "en-1638",
+  "w": "rotten",
+  "pos": "形容詞",
+  "ja": "腐った",
+  "ipa": "ˈrɑtən",
+  "theme": "description",
+  "ex": "This apple is rotten.",
+  "exJa": "このリンゴは腐っています。"
+ },
+ {
+  "id": "en-1639",
+  "w": "nod",
+  "pos": "動詞",
+  "ja": "うなずく",
+  "ipa": "nɑd",
+  "theme": "actions",
+  "ex": "He nodded and smiled.",
+  "exJa": "彼はうなずいて、ほほえみました。"
+ },
+ {
+  "id": "en-1640",
+  "w": "payment",
+  "pos": "名詞",
+  "ja": "支払い・支払金",
+  "ipa": "ˈpeɪmənt",
+  "theme": "money",
+  "ex": "We accept payment by card.",
+  "exJa": "カードでのお支払いを受け付けています。"
+ },
+ {
+  "id": "en-1641",
+  "w": "PE",
+  "pos": "名詞",
+  "ja": "体育",
+  "ipa": "ˌpiˈi",
+  "theme": "school",
+  "ex": "We have PE on Tuesdays.",
+  "exJa": "火曜日には体育があります。"
+ },
+ {
+  "id": "en-1642",
+  "w": "victim",
+  "pos": "名詞",
+  "ja": "被害者・犠牲者",
+  "ipa": "ˈvɪktɪm",
+  "theme": "society",
+  "ex": "The police talked to the victim.",
+  "exJa": "警察は被害者に話を聞きました。"
+ },
+ {
+  "id": "en-1643",
+  "w": "allergy",
+  "pos": "名詞",
+  "ja": "アレルギー",
+  "ipa": "ˈælɚdʒi",
+  "theme": "health",
+  "ex": "I have an allergy to eggs.",
+  "exJa": "私は卵アレルギーがあります。"
+ },
+ {
+  "id": "en-1644",
+  "w": "observe",
+  "pos": "動詞",
+  "ja": "観察する・気づく",
+  "ipa": "əbˈzɝv",
+  "theme": "actions",
+  "ex": "We observed the birds in the park.",
+  "exJa": "私たちは公園で鳥を観察しました。"
+ },
+ {
+  "id": "en-1645",
+  "w": "nut",
+  "pos": "名詞",
+  "ja": "木の実・ナッツ・ナット",
+  "ipa": "nʌt",
+  "theme": "food",
+  "ex": "I like to eat nuts as a snack.",
+  "exJa": "おやつにナッツを食べるのが好きです。"
+ },
+ {
+  "id": "en-1646",
+  "w": "cashier",
+  "pos": "名詞",
+  "ja": "レジ係",
+  "ipa": "kæˈʃɪr",
+  "theme": "people",
+  "ex": "The cashier gave me my change.",
+  "exJa": "レジ係がおつりをくれました。"
+ },
+ {
+  "id": "en-1647",
+  "w": "coal",
+  "pos": "名詞",
+  "ja": "石炭",
+  "ipa": "koʊl",
+  "theme": "nature",
+  "ex": "This town used to produce coal.",
+  "exJa": "この町はかつて石炭を産出していました。"
+ },
+ {
+  "id": "en-1648",
+  "w": "sunset",
+  "pos": "名詞",
+  "ja": "夕日・日没",
+  "ipa": "ˈsʌnˌsɛt",
+  "theme": "time",
+  "ex": "The sunset was beautiful tonight.",
+  "exJa": "今夜の夕日はきれいでした。"
+ },
+ {
+  "id": "en-1649",
+  "w": "ant",
+  "pos": "名詞",
+  "ja": "アリ",
+  "ipa": "ænt",
+  "theme": "animals",
+  "ex": "There are ants in the kitchen.",
+  "exJa": "台所にアリがいます。"
+ },
+ {
+  "id": "en-1650",
+  "w": "frozen",
+  "pos": "形容詞",
+  "ja": "冷凍の・凍った",
+  "ipa": "ˈfroʊzən",
+  "theme": "description",
+  "ex": "I bought some frozen pizza.",
+  "exJa": "冷凍ピザを買いました。"
+ },
+ {
+  "id": "en-1651",
+  "w": "eventually",
+  "pos": "副詞",
+  "ja": "最終的に・結局",
+  "ipa": "ɪˈvɛntʃuəli",
+  "theme": "grammar",
+  "ex": "Eventually, we found the hotel.",
+  "exJa": "最終的に、私たちはホテルを見つけました。"
+ },
+ {
+  "id": "en-1652",
+  "w": "download",
+  "pos": "動詞",
+  "ja": "ダウンロードする",
+  "ipa": "ˈdaʊnˌloʊd",
+  "theme": "technology",
+  "ex": "You can download the app for free.",
+  "exJa": "そのアプリは無料でダウンロードできます。"
+ },
+ {
+  "id": "en-1653",
+  "w": "mist",
+  "pos": "名詞",
+  "ja": "霧・もや",
+  "ipa": "mɪst",
+  "theme": "weather",
+  "ex": "There was mist over the lake this morning.",
+  "exJa": "今朝は湖に霧がかかっていました。"
+ },
+ {
+  "id": "en-1654",
+  "w": "industry",
+  "pos": "名詞",
+  "ja": "産業・業界",
+  "ipa": "ˈɪndəstri",
+  "theme": "work",
+  "ex": "She works in the car industry.",
+  "exJa": "彼女は自動車業界で働いています。"
+ },
+ {
+  "id": "en-1655",
+  "w": "occur",
+  "pos": "動詞",
+  "ja": "起こる・思い浮かぶ",
+  "ipa": "əˈkɝ",
+  "theme": "actions",
+  "ex": "The accident occurred last night.",
+  "exJa": "その事故は昨夜起こりました。"
+ },
+ {
+  "id": "en-1656",
+  "w": "playground",
+  "pos": "名詞",
+  "ja": "遊び場・運動場",
+  "ipa": "ˈpleɪˌɡraʊnd",
+  "theme": "places",
+  "ex": "The children are playing in the playground.",
+  "exJa": "子どもたちが遊び場で遊んでいます。"
+ },
+ {
+  "id": "en-1657",
+  "w": "screw",
+  "pos": "名詞",
+  "ja": "ねじ",
+  "ipa": "skru",
+  "theme": "home",
+  "ex": "This screw is loose.",
+  "exJa": "このねじはゆるんでいます。"
+ },
+ {
+  "id": "en-1658",
+  "w": "skating",
+  "pos": "名詞",
+  "ja": "スケート",
+  "ipa": "ˈskeɪtɪŋ",
+  "theme": "hobbies",
+  "ex": "Let's go skating this weekend.",
+  "exJa": "今週末スケートに行きましょう。"
+ },
+ {
+  "id": "en-1659",
+  "w": "operate",
+  "pos": "動詞",
+  "ja": "操作する・運転する・手術する",
+  "ipa": "ˈɑpəˌreɪt",
+  "theme": "actions",
+  "ex": "Do you know how to operate this machine?",
+  "exJa": "この機械の操作方法を知っていますか。"
+ },
+ {
+  "id": "en-1660",
+  "w": "peanut",
+  "pos": "名詞",
+  "ja": "ピーナッツ・落花生",
+  "ipa": "ˈpiˌnʌt",
+  "theme": "food",
+  "ex": "Tom is allergic to peanuts.",
+  "exJa": "トムはピーナッツアレルギーです。"
+ },
+ {
+  "id": "en-1661",
+  "w": "fake",
+  "pos": "形容詞",
+  "ja": "偽の・偽物の",
+  "ipa": "feɪk",
+  "theme": "description",
+  "ex": "This bag is fake.",
+  "exJa": "このバッグは偽物です。"
+ },
+ {
+  "id": "en-1662",
+  "w": "organize",
+  "pos": "動詞",
+  "ja": "整理する・計画する・企画する",
+  "ipa": "ˈɔrɡəˌnaɪz",
+  "theme": "actions",
+  "ex": "Amy organized the party.",
+  "exJa": "エイミーがパーティーを企画しました。"
+ },
+ {
+  "id": "en-1663",
+  "w": "receptionist",
+  "pos": "名詞",
+  "ja": "受付係",
+  "ipa": "rɪˈsɛpʃənɪst",
+  "theme": "people",
+  "ex": "Ask the receptionist for help.",
+  "exJa": "受付係に助けを求めてください。"
+ },
+ {
+  "id": "en-1664",
+  "w": "ring",
+  "pos": "名詞",
+  "ja": "指輪・輪",
+  "ipa": "rɪŋ",
+  "theme": "clothes",
+  "ex": "She wears a gold ring.",
+  "exJa": "彼女は金の指輪をしています。"
+ },
+ {
+  "id": "en-1665",
+  "w": "luggage",
+  "pos": "名詞",
+  "ja": "手荷物・旅行かばん",
+  "ipa": "ˈlʌɡɪdʒ",
+  "theme": "transport",
+  "ex": "I lost my luggage at the airport.",
+  "exJa": "空港で荷物をなくしました。"
+ },
+ {
+  "id": "en-1666",
+  "w": "textbook",
+  "pos": "名詞",
+  "ja": "教科書",
+  "ipa": "ˈtɛkstˌbʊk",
+  "theme": "school",
+  "ex": "Open your textbook to page ten.",
+  "exJa": "教科書の10ページを開いてください。"
+ },
+ {
+  "id": "en-1667",
+  "w": "thief",
+  "pos": "名詞",
+  "ja": "泥棒",
+  "ipa": "θif",
+  "theme": "society",
+  "ex": "A thief took my bike.",
+  "exJa": "泥棒に自転車を盗まれました。"
+ },
+ {
+  "id": "en-1668",
+  "w": "owe",
+  "pos": "動詞",
+  "ja": "借りがある・支払う義務がある",
+  "ipa": "oʊ",
+  "theme": "actions",
+  "ex": "I owe you ten dollars.",
+  "exJa": "あなたに10ドル借りています。"
+ },
+ {
+  "id": "en-1669",
+  "w": "gas",
+  "pos": "名詞",
+  "ja": "気体・ガス・ガソリン",
+  "ipa": "ɡæs",
+  "theme": "nature",
+  "ex": "We cook with gas at home.",
+  "exJa": "うちではガスで料理しています。"
+ },
+ {
+  "id": "en-1670",
+  "w": "hip",
+  "pos": "名詞",
+  "ja": "腰・尻",
+  "ipa": "hɪp",
+  "theme": "body",
+  "ex": "My grandmother hurt her hip.",
+  "exJa": "祖母は腰を痛めました。"
+ },
+ {
+  "id": "en-1671",
+  "w": "naturally",
+  "pos": "副詞",
+  "ja": "当然・自然に",
+  "ipa": "ˈnætʃɚəli",
+  "theme": "grammar",
+  "ex": "Naturally, she was happy with the news.",
+  "exJa": "当然、彼女はその知らせを喜びました。"
+ },
+ {
+  "id": "en-1672",
+  "w": "genuine",
+  "pos": "形容詞",
+  "ja": "本物の・心からの",
+  "ipa": "ˈdʒɛnjuɪn",
+  "theme": "description",
+  "ex": "This is genuine leather.",
+  "exJa": "これは本革です。"
+ },
+ {
+  "id": "en-1673",
+  "w": "perform",
+  "pos": "動詞",
+  "ja": "演じる・演奏する・行う",
+  "ipa": "pɚˈfɔrm",
+  "theme": "actions",
+  "ex": "The band performed three songs.",
+  "exJa": "バンドは3曲演奏しました。"
+ },
+ {
+  "id": "en-1674",
+  "w": "bee",
+  "pos": "名詞",
+  "ja": "ハチ・ミツバチ",
+  "ipa": "bi",
+  "theme": "animals",
+  "ex": "A bee is flying around the flowers.",
+  "exJa": "ハチが花の周りを飛んでいます。"
+ },
+ {
+  "id": "en-1675",
+  "w": "refund",
+  "pos": "名詞",
+  "ja": "返金・払い戻し",
+  "ipa": "ˈriˌfʌnd",
+  "theme": "shopping",
+  "ex": "Can I get a refund?",
+  "exJa": "返金してもらえますか。"
+ },
+ {
+  "id": "en-1676",
+  "w": "journey",
+  "pos": "名詞",
+  "ja": "旅・道のり",
+  "ipa": "ˈdʒɝni",
+  "theme": "smalltalk",
+  "ex": "How was your journey?",
+  "exJa": "旅はどうでしたか。"
+ },
+ {
+  "id": "en-1677",
+  "w": "tool",
+  "pos": "名詞",
+  "ja": "道具・工具",
+  "ipa": "tul",
+  "theme": "home",
+  "ex": "We keep our tools in the garage.",
+  "exJa": "道具はガレージにしまっています。"
+ },
+ {
+  "id": "en-1678",
+  "w": "shame",
+  "pos": "名詞",
+  "ja": "恥・残念なこと",
+  "ipa": "ʃeɪm",
+  "theme": "feelings",
+  "ex": "It's a shame you can't come.",
+  "exJa": "あなたが来られないのは残念です。"
+ },
+ {
+  "id": "en-1679",
+  "w": "seed",
+  "pos": "名詞",
+  "ja": "種",
+  "ipa": "sid",
+  "theme": "food",
+  "ex": "Don't eat the seeds.",
+  "exJa": "種は食べないでください。"
+ },
+ {
+  "id": "en-1680",
+  "w": "campus",
+  "pos": "名詞",
+  "ja": "キャンパス・構内",
+  "ipa": "ˈkæmpəs",
+  "theme": "places",
+  "ex": "The library is on campus.",
+  "exJa": "図書館はキャンパス内にあります。"
+ },
+ {
+  "id": "en-1681",
+  "w": "surfing",
+  "pos": "名詞",
+  "ja": "サーフィン",
+  "ipa": "ˈsɝfɪŋ",
+  "theme": "hobbies",
+  "ex": "Ken goes surfing every summer.",
+  "exJa": "ケンは毎年夏にサーフィンに行きます。"
+ },
+ {
+  "id": "en-1682",
+  "w": "persuade",
+  "pos": "動詞",
+  "ja": "説得する",
+  "ipa": "pɚˈsweɪd",
+  "theme": "actions",
+  "ex": "I persuaded my dad to buy a dog.",
+  "exJa": "父を説得して犬を買ってもらいました。"
+ },
+ {
+  "id": "en-1683",
+  "w": "secretary",
+  "pos": "名詞",
+  "ja": "秘書",
+  "ipa": "ˈsɛkrəˌtɛri",
+  "theme": "people",
+  "ex": "Please talk to my secretary.",
+  "exJa": "私の秘書に話してください。"
+ },
+ {
+  "id": "en-1684",
+  "w": "original",
+  "pos": "形容詞",
+  "ja": "最初の・元の・独創的な",
+  "ipa": "əˈrɪdʒənəl",
+  "theme": "description",
+  "ex": "I prefer the original version of the song.",
+  "exJa": "私はその曲の元のバージョンのほうが好きです。"
+ },
+ {
+  "id": "en-1685",
+  "w": "upload",
+  "pos": "動詞",
+  "ja": "アップロードする",
+  "ipa": "ˈʌpˌloʊd",
+  "theme": "technology",
+  "ex": "I uploaded the photos last night.",
+  "exJa": "昨夜その写真をアップロードしました。"
+ },
+ {
+  "id": "en-1686",
+  "w": "product",
+  "pos": "名詞",
+  "ja": "製品・商品",
+  "ipa": "ˈprɑdəkt",
+  "theme": "work",
+  "ex": "Our company sells new products every year.",
+  "exJa": "私たちの会社は毎年新製品を販売しています。"
+ },
+ {
+  "id": "en-1687",
+  "w": "point",
+  "pos": "動詞",
+  "ja": "指さす・向ける",
+  "ipa": "pɔɪnt",
+  "theme": "actions",
+  "ex": "Don't point at people.",
+  "exJa": "人を指さしてはいけません。"
+ },
+ {
+  "id": "en-1688",
+  "w": "flu",
+  "pos": "名詞",
+  "ja": "インフルエンザ",
+  "ipa": "flu",
+  "theme": "health",
+  "ex": "I had the flu last week.",
+  "exJa": "先週インフルエンザにかかりました。"
+ },
+ {
+  "id": "en-1689",
+  "w": "press",
+  "pos": "動詞",
+  "ja": "押す",
+  "ipa": "prɛs",
+  "theme": "actions",
+  "ex": "Press this button to start.",
+  "exJa": "始めるにはこのボタンを押してください。"
+ },
+ {
+  "id": "en-1690",
+  "w": "normally",
+  "pos": "副詞",
+  "ja": "普段は・通常は",
+  "ipa": "ˈnɔrməli",
+  "theme": "grammar",
+  "ex": "I normally get up at seven.",
+  "exJa": "私は普段7時に起きます。"
+ },
+ {
+  "id": "en-1691",
+  "w": "rice ball",
+  "pos": "名詞",
+  "ja": "おにぎり",
+  "ipa": "ˈraɪs ˌbɔl",
+  "theme": "food",
+  "ex": "I had a rice ball for lunch.",
+  "exJa": "お昼におにぎりを食べました。"
+ },
+ {
+  "id": "en-1692",
+  "w": "metal",
+  "pos": "名詞",
+  "ja": "金属",
+  "ipa": "ˈmɛtəl",
+  "theme": "nature",
+  "ex": "This chair is made of metal.",
+  "exJa": "このいすは金属でできています。"
+ },
+ {
+  "id": "en-1693",
+  "w": "ruler",
+  "pos": "名詞",
+  "ja": "定規・支配者",
+  "ipa": "ˈrulɚ",
+  "theme": "school",
+  "ex": "Can I borrow your ruler?",
+  "exJa": "定規を借りてもいいですか。"
+ },
+ {
+  "id": "en-1694",
+  "w": "police",
+  "pos": "名詞",
+  "ja": "警察",
+  "ipa": "pəˈlis",
+  "theme": "society",
+  "ex": "Call the police!",
+  "exJa": "警察を呼んでください。"
+ },
+ {
+  "id": "en-1695",
+  "w": "dawn",
+  "pos": "名詞",
+  "ja": "夜明け",
+  "ipa": "dɔn",
+  "theme": "time",
+  "ex": "We left home at dawn.",
+  "exJa": "私たちは夜明けに家を出ました。"
+ },
+ {
+  "id": "en-1696",
+  "w": "perfect",
+  "pos": "形容詞",
+  "ja": "完璧な・申し分ない",
+  "ipa": "ˈpɝfɪkt",
+  "theme": "description",
+  "ex": "The weather is perfect today.",
+  "exJa": "今日は申し分ない天気です。"
+ },
+ {
+  "id": "en-1697",
+  "w": "battery",
+  "pos": "名詞",
+  "ja": "電池・バッテリー",
+  "ipa": "ˈbætəri",
+  "theme": "home",
+  "ex": "My phone battery is low.",
+  "exJa": "スマホの電池が残り少ないです。"
+ },
+ {
+  "id": "en-1698",
+  "w": "pretend",
+  "pos": "動詞",
+  "ja": "ふりをする",
+  "ipa": "prɪˈtɛnd",
+  "theme": "actions",
+  "ex": "He pretended to be asleep.",
+  "exJa": "彼は寝たふりをしました。"
+ },
+ {
+  "id": "en-1699",
+  "w": "necklace",
+  "pos": "名詞",
+  "ja": "ネックレス",
+  "ipa": "ˈnɛkləs",
+  "theme": "clothes",
+  "ex": "She got a necklace for her birthday.",
+  "exJa": "彼女は誕生日にネックレスをもらいました。"
+ },
+ {
+  "id": "en-1700",
+  "w": "suitcase",
+  "pos": "名詞",
+  "ja": "スーツケース",
+  "ipa": "ˈsutˌkeɪs",
+  "theme": "transport",
+  "ex": "My suitcase is too heavy.",
+  "exJa": "私のスーツケースは重すぎます。"
+ },
+ {
+  "id": "en-1701",
+  "w": "butterfly",
+  "pos": "名詞",
+  "ja": "チョウ",
+  "ipa": "ˈbʌtɚˌflaɪ",
+  "theme": "animals",
+  "ex": "A butterfly landed on the flower.",
+  "exJa": "チョウが花に止まりました。"
+ },
+ {
+  "id": "en-1702",
+  "w": "diving",
+  "pos": "名詞",
+  "ja": "ダイビング・飛び込み",
+  "ipa": "ˈdaɪvɪŋ",
+  "theme": "hobbies",
+  "ex": "We went diving in Okinawa.",
+  "exJa": "私たちは沖縄でダイビングをしました。"
+ },
+ {
+  "id": "en-1703",
+  "w": "detective",
+  "pos": "名詞",
+  "ja": "刑事・探偵",
+  "ipa": "dɪˈtɛktɪv",
+  "theme": "people",
+  "ex": "I love reading detective stories.",
+  "exJa": "探偵小説を読むのが大好きです。"
+ },
+ {
+  "id": "en-1704",
+  "w": "prevent",
+  "pos": "動詞",
+  "ja": "防ぐ・妨げる",
+  "ipa": "prɪˈvɛnt",
+  "theme": "actions",
+  "ex": "Washing your hands can prevent colds.",
+  "exJa": "手を洗うと風邪を防げます。"
+ },
+ {
+  "id": "en-1705",
+  "w": "dormitory",
+  "pos": "名詞",
+  "ja": "寮・寄宿舎",
+  "ipa": "ˈdɔrməˌtɔri",
+  "theme": "places",
+  "ex": "Amy lives in a dormitory.",
+  "exJa": "エイミーは寮に住んでいます。"
+ },
+ {
+  "id": "en-1706",
+  "w": "waist",
+  "pos": "名詞",
+  "ja": "腰・ウエスト",
+  "ipa": "weɪst",
+  "theme": "body",
+  "ex": "These pants are too big around the waist.",
+  "exJa": "このズボンはウエストが大きすぎます。"
+ },
+ {
+  "id": "en-1707",
+  "w": "excellent",
+  "pos": "形容詞",
+  "ja": "素晴らしい・優れた",
+  "ipa": "ˈɛksələnt",
+  "theme": "description",
+  "ex": "The food here is excellent.",
+  "exJa": "ここの料理は素晴らしいです。"
+ },
+ {
+  "id": "en-1708",
+  "w": "sushi",
+  "pos": "名詞",
+  "ja": "すし",
+  "ipa": "ˈsuʃi",
+  "theme": "food",
+  "ex": "Let's have sushi for dinner.",
+  "exJa": "夕食はすしにしましょう。"
+ },
+ {
+  "id": "en-1709",
+  "w": "raise",
+  "pos": "動詞",
+  "ja": "上げる・育てる・集める",
+  "ipa": "reɪz",
+  "theme": "actions",
+  "ex": "Raise your hand if you know the answer.",
+  "exJa": "答えがわかったら手を挙げてください。"
+ },
+ {
+  "id": "en-1710",
+  "w": "properly",
+  "pos": "副詞",
+  "ja": "きちんと・適切に",
+  "ipa": "ˈprɑpɚli",
+  "theme": "grammar",
+  "ex": "Please close the door properly.",
+  "exJa": "ドアをきちんと閉めてください。"
+ },
+ {
+  "id": "en-1711",
+  "w": "realize",
+  "pos": "動詞",
+  "ja": "気づく・悟る",
+  "ipa": "ˈriəˌlaɪz",
+  "theme": "actions",
+  "ex": "I didn't realize it was so late.",
+  "exJa": "そんなに遅いとは気づきませんでした。"
+ },
+ {
+  "id": "en-1712",
+  "w": "gold",
+  "pos": "名詞",
+  "ja": "金",
+  "ipa": "ɡoʊld",
+  "theme": "nature",
+  "ex": "This watch is made of gold.",
+  "exJa": "この腕時計は金でできています。"
+ },
+ {
+  "id": "en-1713",
+  "w": "plug",
+  "pos": "名詞",
+  "ja": "プラグ・栓",
+  "ipa": "plʌɡ",
+  "theme": "home",
+  "ex": "Pull out the plug before you clean it.",
+  "exJa": "掃除する前にプラグを抜いてください。"
+ },
+ {
+  "id": "en-1714",
+  "w": "fine",
+  "pos": "形容詞",
+  "ja": "元気な・素晴らしい・細かい",
+  "ipa": "faɪn",
+  "theme": "description",
+  "ex": "I'm fine, thank you.",
+  "exJa": "元気です、ありがとう。"
+ },
+ {
+  "id": "en-1715",
+  "w": "message",
+  "pos": "名詞",
+  "ja": "メッセージ・伝言",
+  "ipa": "ˈmɛsɪdʒ",
+  "theme": "technology",
+  "ex": "I sent you a message last night.",
+  "exJa": "昨夜あなたにメッセージを送りました。"
+ },
+ {
+  "id": "en-1716",
+  "w": "service",
+  "pos": "名詞",
+  "ja": "サービス・接客・業務",
+  "ipa": "ˈsɝvɪs",
+  "theme": "work",
+  "ex": "The service at this restaurant is great.",
+  "exJa": "このレストランの接客は素晴らしいです。"
+ },
+ {
+  "id": "en-1717",
+  "w": "recognize",
+  "pos": "動詞",
+  "ja": "見分ける・(誰か)わかる・認める",
+  "ipa": "ˈrɛkəɡˌnaɪz",
+  "theme": "actions",
+  "ex": "I didn't recognize you with glasses.",
+  "exJa": "眼鏡をかけていたので、あなただとわかりませんでした。"
+ },
+ {
+  "id": "en-1718",
+  "w": "patient",
+  "pos": "名詞",
+  "ja": "患者",
+  "ipa": "ˈpeɪʃənt",
+  "theme": "people",
+  "ex": "The doctor has many patients today.",
+  "exJa": "今日は医者に患者がたくさん来ています。"
+ },
+ {
+  "id": "en-1719",
+  "w": "credit",
+  "pos": "名詞",
+  "ja": "信用・つけ払い・単位",
+  "ipa": "ˈkrɛdɪt",
+  "theme": "money",
+  "ex": "He bought the car on credit.",
+  "exJa": "彼はその車をローンで買いました。"
+ },
+ {
+  "id": "en-1720",
+  "w": "scissors",
+  "pos": "名詞",
+  "ja": "はさみ",
+  "ipa": "ˈsɪzɚz",
+  "theme": "school",
+  "ex": "Please cut the paper with scissors.",
+  "exJa": "はさみで紙を切ってください。"
+ },
+ {
+  "id": "en-1721",
+  "w": "trial",
+  "pos": "名詞",
+  "ja": "裁判・試し",
+  "ipa": "ˈtraɪəl",
+  "theme": "society",
+  "ex": "The trial starts next week.",
+  "exJa": "裁判は来週始まります。"
+ },
+ {
+  "id": "en-1722",
+  "w": "ramen",
+  "pos": "名詞",
+  "ja": "ラーメン",
+  "ipa": "ˈrɑmən",
+  "theme": "food",
+  "ex": "This ramen shop is always busy.",
+  "exJa": "このラーメン屋はいつも混んでいます。"
+ },
+ {
+  "id": "en-1723",
+  "w": "mosquito",
+  "pos": "名詞",
+  "ja": "蚊",
+  "ipa": "məˈskitoʊ",
+  "theme": "animals",
+  "ex": "A mosquito bit me last night.",
+  "exJa": "昨夜蚊に刺されました。"
+ },
+ {
+  "id": "en-1724",
+  "w": "karate",
+  "pos": "名詞",
+  "ja": "空手",
+  "ipa": "kəˈrɑti",
+  "theme": "hobbies",
+  "ex": "My son practices karate twice a week.",
+  "exJa": "息子は週に2回空手を練習しています。"
+ },
+ {
+  "id": "en-1725",
+  "w": "record",
+  "pos": "動詞",
+  "ja": "記録する・録音する・録画する",
+  "ipa": "rɪˈkɔrd",
+  "theme": "actions",
+  "ex": "I recorded the show on TV.",
+  "exJa": "テレビでその番組を録画しました。"
+ },
+ {
+  "id": "en-1726",
+  "w": "pride",
+  "pos": "名詞",
+  "ja": "誇り・プライド",
+  "ipa": "praɪd",
+  "theme": "feelings",
+  "ex": "She takes pride in her work.",
+  "exJa": "彼女は自分の仕事に誇りを持っています。"
+ },
+ {
+  "id": "en-1727",
+  "w": "virus",
+  "pos": "名詞",
+  "ja": "ウイルス",
+  "ipa": "ˈvaɪrəs",
+  "theme": "health",
+  "ex": "The flu is caused by a virus.",
+  "exJa": "インフルエンザはウイルスによって起こります。"
+ },
+ {
+  "id": "en-1728",
+  "w": "horrible",
+  "pos": "形容詞",
+  "ja": "ひどい・恐ろしい",
+  "ipa": "ˈhɔrəbəl",
+  "theme": "description",
+  "ex": "The weather was horrible yesterday.",
+  "exJa": "昨日の天気はひどかったです。"
+ },
+ {
+  "id": "en-1729",
+  "w": "earring",
+  "pos": "名詞",
+  "ja": "イヤリング・ピアス",
+  "ipa": "ˈɪrɪŋ",
+  "theme": "clothes",
+  "ex": "I lost one of my earrings.",
+  "exJa": "イヤリングを片方なくしました。"
+ },
+ {
+  "id": "en-1730",
+  "w": "backpack",
+  "pos": "名詞",
+  "ja": "リュックサック",
+  "ipa": "ˈbækˌpæk",
+  "theme": "transport",
+  "ex": "He carried a big backpack.",
+  "exJa": "彼は大きなリュックサックを背負っていました。"
+ },
+ {
+  "id": "en-1731",
+  "w": "recover",
+  "pos": "動詞",
+  "ja": "回復する・取り戻す",
+  "ipa": "rɪˈkʌvɚ",
+  "theme": "actions",
+  "ex": "She recovered quickly from her cold.",
+  "exJa": "彼女は風邪からすぐに回復しました。"
+ },
+ {
+  "id": "en-1732",
+  "w": "prison",
+  "pos": "名詞",
+  "ja": "刑務所",
+  "ipa": "ˈprɪzən",
+  "theme": "places",
+  "ex": "He spent two years in prison.",
+  "exJa": "彼は刑務所で2年間過ごしました。"
+ },
+ {
+  "id": "en-1733",
+  "w": "regularly",
+  "pos": "副詞",
+  "ja": "定期的に・規則正しく",
+  "ipa": "ˈrɛɡjəlɚli",
+  "theme": "grammar",
+  "ex": "I exercise regularly.",
+  "exJa": "私は定期的に運動しています。"
+ },
+ {
+  "id": "en-1734",
+  "w": "reduce",
+  "pos": "動詞",
+  "ja": "減らす",
+  "ipa": "rɪˈdus",
+  "theme": "actions",
+  "ex": "We need to reduce costs.",
+  "exJa": "私たちは費用を減らす必要があります。"
+ },
+ {
+  "id": "en-1735",
+  "w": "curry",
+  "pos": "名詞",
+  "ja": "カレー",
+  "ipa": "ˈkɝi",
+  "theme": "food",
+  "ex": "My mom makes great curry.",
+  "exJa": "母はおいしいカレーを作ります。"
+ },
+ {
+  "id": "en-1736",
+  "w": "twin",
+  "pos": "名詞",
+  "ja": "双子(の1人)",
+  "ipa": "twɪn",
+  "theme": "people",
+  "ex": "Ken and Tom are twins.",
+  "exJa": "ケンとトムは双子です。"
+ },
+ {
+  "id": "en-1737",
+  "w": "switch",
+  "pos": "名詞",
+  "ja": "スイッチ",
+  "ipa": "swɪtʃ",
+  "theme": "home",
+  "ex": "The light switch is by the door.",
+  "exJa": "電気のスイッチはドアのそばにあります。"
+ },
+ {
+  "id": "en-1738",
+  "w": "silver",
+  "pos": "名詞",
+  "ja": "銀",
+  "ipa": "ˈsɪlvɚ",
+  "theme": "nature",
+  "ex": "This spoon is made of silver.",
+  "exJa": "このスプーンは銀でできています。"
+ },
+ {
+  "id": "en-1739",
+  "w": "pleasant",
+  "pos": "形容詞",
+  "ja": "心地よい・感じのよい",
+  "ipa": "ˈplɛzənt",
+  "theme": "description",
+  "ex": "We had a pleasant evening.",
+  "exJa": "私たちは楽しい夜を過ごしました。"
+ },
+ {
+  "id": "en-1740",
+  "w": "thigh",
+  "pos": "名詞",
+  "ja": "太もも",
+  "ipa": "θaɪ",
+  "theme": "body",
+  "ex": "My thighs hurt after running.",
+  "exJa": "走ったあと太ももが痛いです。"
+ },
+ {
+  "id": "en-1741",
+  "w": "regret",
+  "pos": "動詞",
+  "ja": "後悔する",
+  "ipa": "rɪˈɡrɛt",
+  "theme": "actions",
+  "ex": "I regret saying that.",
+  "exJa": "あんなことを言って後悔しています。"
+ },
+ {
+  "id": "en-1742",
+  "w": "dusk",
+  "pos": "名詞",
+  "ja": "夕暮れ・たそがれ",
+  "ipa": "dʌsk",
+  "theme": "time",
+  "ex": "The streetlights come on at dusk.",
+  "exJa": "夕暮れになると街灯がつきます。"
+ },
+ {
+  "id": "en-1743",
+  "w": "judo",
+  "pos": "名詞",
+  "ja": "柔道",
+  "ipa": "ˈdʒudoʊ",
+  "theme": "hobbies",
+  "ex": "He has a black belt in judo.",
+  "exJa": "彼は柔道の黒帯を持っています。"
+ },
+ {
+  "id": "en-1744",
+  "w": "remain",
+  "pos": "動詞",
+  "ja": "残る・〜のままである",
+  "ipa": "rɪˈmeɪn",
+  "theme": "actions",
+  "ex": "Please remain seated.",
+  "exJa": "座ったままでいてください。"
+ },
+ {
+  "id": "en-1745",
+  "w": "worm",
+  "pos": "名詞",
+  "ja": "虫・ミミズ",
+  "ipa": "wɝm",
+  "theme": "animals",
+  "ex": "The bird caught a worm.",
+  "exJa": "鳥がミミズを捕まえました。"
+ },
+ {
+  "id": "en-1746",
+  "w": "package",
+  "pos": "名詞",
+  "ja": "小包・パッケージ",
+  "ipa": "ˈpækɪdʒ",
+  "theme": "shopping",
+  "ex": "A package arrived for you.",
+  "exJa": "あなたに小包が届きました。"
+ },
+ {
+  "id": "en-1747",
+  "w": "adventure",
+  "pos": "名詞",
+  "ja": "冒険",
+  "ipa": "ədˈvɛntʃɚ",
+  "theme": "smalltalk",
+  "ex": "Our trip was a real adventure.",
+  "exJa": "私たちの旅行はまさに冒険でした。"
+ },
+ {
+  "id": "en-1748",
+  "w": "glue",
+  "pos": "名詞",
+  "ja": "のり・接着剤",
+  "ipa": "ɡlu",
+  "theme": "school",
+  "ex": "I need some glue for this project.",
+  "exJa": "この工作にはのりが必要です。"
+ },
+ {
+  "id": "en-1749",
+  "w": "army",
+  "pos": "名詞",
+  "ja": "陸軍・軍隊",
+  "ipa": "ˈɑrmi",
+  "theme": "society",
+  "ex": "His grandfather was in the army.",
+  "exJa": "彼の祖父は陸軍にいました。"
+ },
+ {
+  "id": "en-1750",
+  "w": "unpleasant",
+  "pos": "形容詞",
+  "ja": "不快な・嫌な",
+  "ipa": "ʌnˈplɛzənt",
+  "theme": "description",
+  "ex": "The smell was very unpleasant.",
+  "exJa": "そのにおいはとても不快でした。"
+ },
+ {
+  "id": "en-1751",
+  "w": "rarely",
+  "pos": "副詞",
+  "ja": "めったに〜ない",
+  "ipa": "ˈrɛrli",
+  "theme": "grammar",
+  "ex": "I rarely eat fast food.",
+  "exJa": "私はめったにファストフードを食べません。"
+ },
+ {
+  "id": "en-1752",
+  "w": "text",
+  "pos": "動詞",
+  "ja": "(携帯で)メッセージを送る",
+  "ipa": "tɛkst",
+  "theme": "technology",
+  "ex": "I'll text you later.",
+  "exJa": "あとでメッセージを送るね。"
+ },
+ {
+  "id": "en-1753",
+  "w": "drought",
+  "pos": "名詞",
+  "ja": "干ばつ・日照り",
+  "ipa": "draʊt",
+  "theme": "weather",
+  "ex": "The drought lasted for months.",
+  "exJa": "干ばつは何か月も続きました。"
+ },
+ {
+  "id": "en-1754",
+  "w": "quantity",
+  "pos": "名詞",
+  "ja": "量・数量",
+  "ipa": "ˈkwɑntəti",
+  "theme": "work",
+  "ex": "We ordered a large quantity of paper.",
+  "exJa": "私たちは大量の紙を注文しました。"
+ },
+ {
+  "id": "en-1755",
+  "w": "tofu",
+  "pos": "名詞",
+  "ja": "豆腐",
+  "ipa": "ˈtoʊfu",
+  "theme": "food",
+  "ex": "I put tofu in my miso soup.",
+  "exJa": "みそ汁に豆腐を入れました。"
+ },
+ {
+  "id": "en-1756",
+  "w": "remind",
+  "pos": "動詞",
+  "ja": "思い出させる・念を押す",
+  "ipa": "rɪˈmaɪnd",
+  "theme": "actions",
+  "ex": "Please remind me to call Amy.",
+  "exJa": "エイミーに電話するのを忘れないよう、声をかけてください。"
+ },
+ {
+  "id": "en-1757",
+  "w": "relative",
+  "pos": "名詞",
+  "ja": "親戚",
+  "ipa": "ˈrɛlətɪv",
+  "theme": "people",
+  "ex": "We visit our relatives at New Year.",
+  "exJa": "お正月には親戚の家を訪ねます。"
+ },
+ {
+  "id": "en-1758",
+  "w": "embassy",
+  "pos": "名詞",
+  "ja": "大使館",
+  "ipa": "ˈɛmbəsi",
+  "theme": "places",
+  "ex": "Where is the Japanese embassy?",
+  "exJa": "日本大使館はどこですか。"
+ },
+ {
+  "id": "en-1759",
+  "w": "repair",
+  "pos": "動詞",
+  "ja": "修理する・直す",
+  "ipa": "rɪˈpɛr",
+  "theme": "actions",
+  "ex": "Can you repair my bike?",
+  "exJa": "私の自転車を修理できますか。"
+ },
+ {
+  "id": "en-1760",
+  "w": "heater",
+  "pos": "名詞",
+  "ja": "暖房器具・ヒーター",
+  "ipa": "ˈhitɚ",
+  "theme": "home",
+  "ex": "Please turn on the heater.",
+  "exJa": "ヒーターをつけてください。"
+ },
+ {
+  "id": "en-1761",
+  "w": "bracelet",
+  "pos": "名詞",
+  "ja": "ブレスレット・腕輪",
+  "ipa": "ˈbreɪslət",
+  "theme": "clothes",
+  "ex": "She wore a silver bracelet.",
+  "exJa": "彼女は銀のブレスレットをつけていました。"
+ },
+ {
+  "id": "en-1762",
+  "w": "copper",
+  "pos": "名詞",
+  "ja": "銅",
+  "ipa": "ˈkɑpɚ",
+  "theme": "nature",
+  "ex": "These pipes are made of copper.",
+  "exJa": "これらの管は銅でできています。"
+ },
+ {
+  "id": "en-1763",
+  "w": "baggage",
+  "pos": "名詞",
+  "ja": "手荷物",
+  "ipa": "ˈbæɡɪdʒ",
+  "theme": "transport",
+  "ex": "Where can I pick up my baggage?",
+  "exJa": "手荷物はどこで受け取れますか。"
+ },
+ {
+  "id": "en-1764",
+  "w": "lucky",
+  "pos": "形容詞",
+  "ja": "運のいい・幸運な",
+  "ipa": "ˈlʌki",
+  "theme": "description",
+  "ex": "You're lucky to have such good friends.",
+  "exJa": "そんなにいい友達がいるなんて、あなたは幸運です。"
+ },
+ {
+  "id": "en-1765",
+  "w": "replace",
+  "pos": "動詞",
+  "ja": "取り替える・取って代わる",
+  "ipa": "rɪˈpleɪs",
+  "theme": "actions",
+  "ex": "I need to replace my old phone.",
+  "exJa": "古いスマホを取り替える必要があります。"
+ },
+ {
+  "id": "en-1766",
+  "w": "shrimp",
+  "pos": "名詞",
+  "ja": "エビ",
+  "ipa": "ʃrɪmp",
+  "theme": "food",
+  "ex": "I'd like the fried shrimp, please.",
+  "exJa": "エビフライをお願いします。"
+ },
+ {
+  "id": "en-1767",
+  "w": "concert",
+  "pos": "名詞",
+  "ja": "コンサート・演奏会",
+  "ipa": "ˈkɑnsɚt",
+  "theme": "hobbies",
+  "ex": "We went to a concert last night.",
+  "exJa": "昨夜コンサートに行きました。"
+ },
+ {
+  "id": "en-1768",
+  "w": "request",
+  "pos": "動詞",
+  "ja": "頼む・要請する",
+  "ipa": "rɪˈkwɛst",
+  "theme": "actions",
+  "ex": "I requested a window seat.",
+  "exJa": "窓側の席を頼みました。"
+ },
+ {
+  "id": "en-1769",
+  "w": "infection",
+  "pos": "名詞",
+  "ja": "感染・感染症",
+  "ipa": "ɪnˈfɛkʃən",
+  "theme": "health",
+  "ex": "Wash the cut to prevent infection.",
+  "exJa": "感染を防ぐために傷口を洗ってください。"
+ },
+ {
+  "id": "en-1770",
+  "w": "deer",
+  "pos": "名詞",
+  "ja": "シカ",
+  "ipa": "dɪr",
+  "theme": "animals",
+  "ex": "We saw deer in Nara Park.",
+  "exJa": "奈良公園でシカを見ました。"
+ },
+ {
+  "id": "en-1771",
+  "w": "forever",
+  "pos": "副詞",
+  "ja": "永遠に・ずっと",
+  "ipa": "fɚˈɛvɚ",
+  "theme": "grammar",
+  "ex": "I will remember this day forever.",
+  "exJa": "この日のことはずっと忘れません。"
+ },
+ {
+  "id": "en-1772",
+  "w": "unlucky",
+  "pos": "形容詞",
+  "ja": "運の悪い・不運な",
+  "ipa": "ʌnˈlʌki",
+  "theme": "description",
+  "ex": "We were unlucky with the weather.",
+  "exJa": "私たちは天気に恵まれませんでした。"
+ },
+ {
+  "id": "en-1773",
+  "w": "ancestor",
+  "pos": "名詞",
+  "ja": "先祖・祖先",
+  "ipa": "ˈænˌsɛstɚ",
+  "theme": "people",
+  "ex": "My ancestors came from Kyoto.",
+  "exJa": "私の先祖は京都の出身です。"
+ },
+ {
+  "id": "en-1774",
+  "w": "tape",
+  "pos": "名詞",
+  "ja": "テープ・粘着テープ",
+  "ipa": "teɪp",
+  "theme": "school",
+  "ex": "I fixed the paper with tape.",
+  "exJa": "紙をテープで留めました。"
+ },
+ {
+  "id": "en-1775",
+  "w": "navy",
+  "pos": "名詞",
+  "ja": "海軍",
+  "ipa": "ˈneɪvi",
+  "theme": "society",
+  "ex": "My uncle served in the navy.",
+  "exJa": "私のおじは海軍に勤めていました。"
+ },
+ {
+  "id": "en-1776",
+  "w": "require",
+  "pos": "動詞",
+  "ja": "必要とする・要求する",
+  "ipa": "rɪˈkwaɪɚ",
+  "theme": "actions",
+  "ex": "This job requires a driver's license.",
+  "exJa": "この仕事には運転免許が必要です。"
+ },
+ {
+  "id": "en-1777",
+  "w": "muscle",
+  "pos": "名詞",
+  "ja": "筋肉",
+  "ipa": "ˈmʌsəl",
+  "theme": "body",
+  "ex": "I want to build muscle.",
+  "exJa": "筋肉をつけたいです。"
+ },
+ {
+  "id": "en-1778",
+  "w": "courage",
+  "pos": "名詞",
+  "ja": "勇気",
+  "ipa": "ˈkɝɪdʒ",
+  "theme": "feelings",
+  "ex": "It takes courage to speak in public.",
+  "exJa": "人前で話すには勇気がいります。"
+ },
+ {
+  "id": "en-1779",
+  "w": "air conditioner",
+  "pos": "名詞",
+  "ja": "エアコン",
+  "ipa": "ˈɛr kənˌdɪʃənɚ",
+  "theme": "home",
+  "ex": "Can you turn off the air conditioner?",
+  "exJa": "エアコンを消してくれますか。"
+ },
+ {
+  "id": "en-1780",
+  "w": "research",
+  "pos": "動詞",
+  "ja": "調べる・研究する",
+  "ipa": "ˈriˌsɝtʃ",
+  "theme": "actions",
+  "ex": "I researched hotels online.",
+  "exJa": "ネットでホテルを調べました。"
+ },
+ {
+  "id": "en-1781",
+  "w": "tunnel",
+  "pos": "名詞",
+  "ja": "トンネル",
+  "ipa": "ˈtʌnəl",
+  "theme": "places",
+  "ex": "The train went through a long tunnel.",
+  "exJa": "電車は長いトンネルを通り抜けました。"
+ },
+ {
+  "id": "en-1782",
+  "w": "crab",
+  "pos": "名詞",
+  "ja": "カニ",
+  "ipa": "kræb",
+  "theme": "food",
+  "ex": "We ate crab at the beach.",
+  "exJa": "私たちは海辺でカニを食べました。"
+ },
+ {
+  "id": "en-1783",
+  "w": "diamond",
+  "pos": "名詞",
+  "ja": "ダイヤモンド",
+  "ipa": "ˈdaɪmənd",
+  "theme": "nature",
+  "ex": "She has a diamond ring.",
+  "exJa": "彼女はダイヤモンドの指輪を持っています。"
+ },
+ {
+  "id": "en-1784",
+  "w": "fair",
+  "pos": "形容詞",
+  "ja": "公平な・公正な",
+  "ipa": "fɛr",
+  "theme": "description",
+  "ex": "That's not fair!",
+  "exJa": "それは不公平です。"
+ },
+ {
+  "id": "en-1785",
+  "w": "chat",
+  "pos": "名詞",
+  "ja": "おしゃべり・チャット",
+  "ipa": "tʃæt",
+  "theme": "technology",
+  "ex": "We had a nice chat over coffee.",
+  "exJa": "コーヒーを飲みながら楽しくおしゃべりしました。"
+ },
+ {
+  "id": "en-1786",
+  "w": "conference",
+  "pos": "名詞",
+  "ja": "会議・協議会",
+  "ipa": "ˈkɑnfərəns",
+  "theme": "work",
+  "ex": "She is at a conference in Osaka.",
+  "exJa": "彼女は大阪で会議に出ています。"
+ },
+ {
+  "id": "en-1787",
+  "w": "rise",
+  "pos": "動詞",
+  "ja": "上がる・昇る",
+  "ipa": "raɪz",
+  "theme": "actions",
+  "ex": "The sun rises in the east.",
+  "exJa": "太陽は東から昇ります。"
+ },
+ {
+  "id": "en-1788",
+  "w": "deadline",
+  "pos": "名詞",
+  "ja": "締め切り",
+  "ipa": "ˈdɛdˌlaɪn",
+  "theme": "time",
+  "ex": "The deadline is next Friday.",
+  "exJa": "締め切りは来週の金曜日です。"
+ },
+ {
+  "id": "en-1789",
+  "w": "exhibition",
+  "pos": "名詞",
+  "ja": "展覧会・展示会",
+  "ipa": "ˌɛksəˈbɪʃən",
+  "theme": "hobbies",
+  "ex": "We went to an art exhibition.",
+  "exJa": "私たちは美術展に行きました。"
+ },
+ {
+  "id": "en-1790",
+  "w": "abroad",
+  "pos": "副詞",
+  "ja": "外国へ・海外で",
+  "ipa": "əˈbrɔd",
+  "theme": "grammar",
+  "ex": "I want to study abroad.",
+  "exJa": "私は留学したいです。"
+ },
+ {
+  "id": "en-1791",
+  "w": "risk",
+  "pos": "動詞",
+  "ja": "危険にさらす・あえて〜する",
+  "ipa": "rɪsk",
+  "theme": "actions",
+  "ex": "Don't risk your life for money.",
+  "exJa": "お金のために命を危険にさらしてはいけません。"
+ },
+ {
+  "id": "en-1792",
+  "w": "generation",
+  "pos": "名詞",
+  "ja": "世代",
+  "ipa": "ˌdʒɛnəˈreɪʃən",
+  "theme": "people",
+  "ex": "Three generations live in this house.",
+  "exJa": "この家には3世代が住んでいます。"
+ },
+ {
+  "id": "en-1793",
+  "w": "glasses",
+  "pos": "名詞",
+  "ja": "眼鏡",
+  "ipa": "ˈɡlæsɪz",
+  "theme": "clothes",
+  "ex": "I can't read without my glasses.",
+  "exJa": "眼鏡がないと字が読めません。"
+ },
+ {
+  "id": "en-1794",
+  "w": "departure",
+  "pos": "名詞",
+  "ja": "出発",
+  "ipa": "dɪˈpɑrtʃɚ",
+  "theme": "transport",
+  "ex": "Our departure time is 9 a.m.",
+  "exJa": "出発時刻は午前9時です。"
+ },
+ {
+  "id": "en-1795",
+  "w": "fox",
+  "pos": "名詞",
+  "ja": "キツネ",
+  "ipa": "fɑks",
+  "theme": "animals",
+  "ex": "We saw a fox in the forest.",
+  "exJa": "森でキツネを見ました。"
+ },
+ {
+  "id": "en-1796",
+  "w": "unfair",
+  "pos": "形容詞",
+  "ja": "不公平な・ずるい",
+  "ipa": "ʌnˈfɛr",
+  "theme": "description",
+  "ex": "The rule is unfair to new members.",
+  "exJa": "その規則は新しいメンバーにとって不公平です。"
+ },
+ {
+  "id": "en-1797",
+  "w": "roll",
+  "pos": "動詞",
+  "ja": "転がる・転がす・巻く",
+  "ipa": "roʊl",
+  "theme": "actions",
+  "ex": "The ball rolled under the table.",
+  "exJa": "ボールがテーブルの下に転がりました。"
+ },
+ {
+  "id": "en-1798",
+  "w": "salmon",
+  "pos": "名詞",
+  "ja": "サケ・サーモン",
+  "ipa": "ˈsæmən",
+  "theme": "food",
+  "ex": "I had grilled salmon for dinner.",
+  "exJa": "夕食に焼きサーモンを食べました。"
+ },
+ {
+  "id": "en-1799",
+  "w": "garage",
+  "pos": "名詞",
+  "ja": "車庫・ガレージ",
+  "ipa": "ɡəˈrɑʒ",
+  "theme": "home",
+  "ex": "Dad parked the car in the garage.",
+  "exJa": "父は車をガレージに止めました。"
+ },
+ {
+  "id": "en-1800",
+  "w": "ATM",
+  "pos": "名詞",
+  "ja": "ATM・現金自動預け払い機",
+  "ipa": "ˌeɪtiˈɛm",
+  "theme": "money",
+  "ex": "Is there an ATM near here?",
+  "exJa": "この近くにATMはありますか。"
+ },
+ {
+  "id": "en-1801",
+  "w": "stapler",
+  "pos": "名詞",
+  "ja": "ホッチキス",
+  "ipa": "ˈsteɪplɚ",
+  "theme": "school",
+  "ex": "Can I borrow your stapler?",
+  "exJa": "ホッチキスを借りてもいいですか。"
+ },
+ {
+  "id": "en-1802",
+  "w": "weapon",
+  "pos": "名詞",
+  "ja": "武器・兵器",
+  "ipa": "ˈwɛpən",
+  "theme": "society",
+  "ex": "The police found a weapon in the car.",
+  "exJa": "警察は車の中で武器を見つけた。"
+ },
+ {
+  "id": "en-1803",
+  "w": "ruin",
+  "pos": "動詞",
+  "ja": "台無しにする・破壊する",
+  "ipa": "ˈruɪn",
+  "theme": "actions",
+  "ex": "The rain ruined our picnic.",
+  "exJa": "雨でピクニックが台無しになった。"
+ },
+ {
+  "id": "en-1804",
+  "w": "equal",
+  "pos": "形容詞",
+  "ja": "等しい・平等な",
+  "ipa": "ˈikwəl",
+  "theme": "description",
+  "ex": "All people are equal.",
+  "exJa": "すべての人は平等です。"
+ },
+ {
+  "id": "en-1805",
+  "w": "jewel",
+  "pos": "名詞",
+  "ja": "宝石",
+  "ipa": "ˈdʒuəl",
+  "theme": "nature",
+  "ex": "She keeps her jewels in a small box.",
+  "exJa": "彼女は宝石を小さな箱にしまっている。"
+ },
+ {
+  "id": "en-1806",
+  "w": "avenue",
+  "pos": "名詞",
+  "ja": "大通り・〜街",
+  "ipa": "ˈævənu",
+  "theme": "places",
+  "ex": "The hotel is on Fifth Avenue.",
+  "exJa": "ホテルは5番街にあります。"
+ },
+ {
+  "id": "en-1807",
+  "w": "sail",
+  "pos": "動詞",
+  "ja": "航海する・帆走する",
+  "ipa": "seɪl",
+  "theme": "actions",
+  "ex": "We sailed across the lake.",
+  "exJa": "私たちはヨットで湖を渡った。"
+ },
+ {
+  "id": "en-1808",
+  "w": "lung",
+  "pos": "名詞",
+  "ja": "肺",
+  "ipa": "lʌŋ",
+  "theme": "body",
+  "ex": "Smoking is bad for your lungs.",
+  "exJa": "喫煙は肺に悪い。"
+ },
+ {
+  "id": "en-1809",
+  "w": "youth",
+  "pos": "名詞",
+  "ja": "若い頃・若さ・若者",
+  "ipa": "juθ",
+  "theme": "people",
+  "ex": "He played soccer in his youth.",
+  "exJa": "彼は若い頃サッカーをしていた。"
+ },
+ {
+  "id": "en-1810",
+  "w": "ahead",
+  "pos": "副詞",
+  "ja": "前方に・先に",
+  "ipa": "əˈhɛd",
+  "theme": "grammar",
+  "ex": "Go straight ahead.",
+  "exJa": "まっすぐ進んでください。"
+ },
+ {
+  "id": "en-1811",
+  "w": "wound",
+  "pos": "名詞",
+  "ja": "傷・けが",
+  "ipa": "wund",
+  "theme": "health",
+  "ex": "The wound will heal in a week.",
+  "exJa": "傷は1週間で治るでしょう。"
+ },
+ {
+  "id": "en-1812",
+  "w": "gallery",
+  "pos": "名詞",
+  "ja": "美術館・画廊",
+  "ipa": "ˈɡæləri",
+  "theme": "hobbies",
+  "ex": "We visited an art gallery on Sunday.",
+  "exJa": "日曜日に画廊を訪れた。"
+ },
+ {
+  "id": "en-1813",
+  "w": "tuna",
+  "pos": "名詞",
+  "ja": "マグロ・ツナ",
+  "ipa": "ˈtunə",
+  "theme": "food",
+  "ex": "I had a tuna sandwich for lunch.",
+  "exJa": "昼食にツナサンドを食べた。"
+ },
+ {
+  "id": "en-1814",
+  "w": "scare",
+  "pos": "動詞",
+  "ja": "怖がらせる・驚かす",
+  "ipa": "skɛr",
+  "theme": "actions",
+  "ex": "The loud noise scared the baby.",
+  "exJa": "大きな音で赤ちゃんが怖がった。"
+ },
+ {
+  "id": "en-1815",
+  "w": "similar",
+  "pos": "形容詞",
+  "ja": "似ている・同様の",
+  "ipa": "ˈsɪməlɚ",
+  "theme": "description",
+  "ex": "My bag is similar to yours.",
+  "exJa": "私のかばんはあなたのに似ている。"
+ },
+ {
+  "id": "en-1816",
+  "w": "video",
+  "pos": "名詞",
+  "ja": "動画・ビデオ",
+  "ipa": "ˈvɪdioʊ",
+  "theme": "technology",
+  "ex": "I watched a funny video online.",
+  "exJa": "ネットで面白い動画を見た。"
+ },
+ {
+  "id": "en-1817",
+  "w": "presentation",
+  "pos": "名詞",
+  "ja": "発表・プレゼン",
+  "ipa": "ˌprɛzənˈteɪʃən",
+  "theme": "work",
+  "ex": "I have a presentation tomorrow.",
+  "exJa": "明日プレゼンがあります。"
+ },
+ {
+  "id": "en-1818",
+  "w": "score",
+  "pos": "動詞",
+  "ja": "得点する・点を取る",
+  "ipa": "skɔr",
+  "theme": "actions",
+  "ex": "Ken scored two goals today.",
+  "exJa": "ケンは今日2ゴールを決めた。"
+ },
+ {
+  "id": "en-1819",
+  "w": "wolf",
+  "pos": "名詞",
+  "ja": "オオカミ",
+  "ipa": "wʊlf",
+  "theme": "animals",
+  "ex": "A wolf howled in the forest.",
+  "exJa": "森でオオカミが遠ぼえした。"
+ },
+ {
+  "id": "en-1820",
+  "w": "parcel",
+  "pos": "名詞",
+  "ja": "小包",
+  "ipa": "ˈpɑrsəl",
+  "theme": "shopping",
+  "ex": "A parcel came for you today.",
+  "exJa": "今日あなたに小包が届きました。"
+ },
+ {
+  "id": "en-1821",
+  "w": "ceremony",
+  "pos": "名詞",
+  "ja": "式・儀式",
+  "ipa": "ˈsɛrəˌmoʊni",
+  "theme": "smalltalk",
+  "ex": "The wedding ceremony was beautiful.",
+  "exJa": "結婚式はすてきだった。"
+ },
+ {
+  "id": "en-1822",
+  "w": "yard",
+  "pos": "名詞",
+  "ja": "庭・ヤード",
+  "ipa": "jɑrd",
+  "theme": "home",
+  "ex": "The kids are playing in the yard.",
+  "exJa": "子どもたちは庭で遊んでいる。"
+ },
+ {
+  "id": "en-1823",
+  "w": "seem",
+  "pos": "動詞",
+  "ja": "〜のように見える・〜らしい",
+  "ipa": "sim",
+  "theme": "actions",
+  "ex": "You seem tired today.",
+  "exJa": "今日は疲れているようですね。"
+ },
+ {
+  "id": "en-1824",
+  "w": "sunglasses",
+  "pos": "名詞",
+  "ja": "サングラス",
+  "ipa": "ˈsʌnˌɡlæsɪz",
+  "theme": "clothes",
+  "ex": "Don't forget your sunglasses.",
+  "exJa": "サングラスを忘れないでね。"
+ },
+ {
+  "id": "en-1825",
+  "w": "arrival",
+  "pos": "名詞",
+  "ja": "到着",
+  "ipa": "əˈraɪvəl",
+  "theme": "transport",
+  "ex": "Please check the arrival time of the flight.",
+  "exJa": "飛行機の到着時刻を確認してください。"
+ },
+ {
+  "id": "en-1826",
+  "w": "desire",
+  "pos": "名詞",
+  "ja": "願望・欲望",
+  "ipa": "dɪˈzaɪɚ",
+  "theme": "feelings",
+  "ex": "She has a strong desire to travel.",
+  "exJa": "彼女には旅行したいという強い願望がある。"
+ },
+ {
+  "id": "en-1827",
+  "w": "octopus",
+  "pos": "名詞",
+  "ja": "タコ",
+  "ipa": "ˈɑktəpəs",
+  "theme": "food",
+  "ex": "Have you ever eaten octopus?",
+  "exJa": "タコを食べたことがありますか。"
+ },
+ {
+  "id": "en-1828",
+  "w": "calculator",
+  "pos": "名詞",
+  "ja": "電卓・計算機",
+  "ipa": "ˈkælkjəˌleɪtɚ",
+  "theme": "school",
+  "ex": "You can use a calculator on the test.",
+  "exJa": "テストでは電卓を使ってもよい。"
+ },
+ {
+  "id": "en-1829",
+  "w": "gun",
+  "pos": "名詞",
+  "ja": "銃",
+  "ipa": "ɡʌn",
+  "theme": "society",
+  "ex": "The police officer carried a gun.",
+  "exJa": "その警察官は銃を携帯していた。"
+ },
+ {
+  "id": "en-1830",
+  "w": "senior",
+  "pos": "名詞",
+  "ja": "高齢者・年長者・上級生",
+  "ipa": "ˈsinjɚ",
+  "theme": "people",
+  "ex": "Seniors can ride the bus for free.",
+  "exJa": "高齢者はバスに無料で乗れる。"
+ },
+ {
+  "id": "en-1831",
+  "w": "opposite",
+  "pos": "形容詞",
+  "ja": "反対の・向かい側の",
+  "ipa": "ˈɑpəzɪt",
+  "theme": "description",
+  "ex": "He walked in the opposite direction.",
+  "exJa": "彼は反対の方向へ歩いて行った。"
+ },
+ {
+  "id": "en-1832",
+  "w": "pearl",
+  "pos": "名詞",
+  "ja": "真珠",
+  "ipa": "pɝl",
+  "theme": "nature",
+  "ex": "She wore a pearl necklace.",
+  "exJa": "彼女は真珠のネックレスをしていた。"
+ },
+ {
+  "id": "en-1833",
+  "w": "separate",
+  "pos": "動詞",
+  "ja": "分ける・離れる",
+  "ipa": "ˈsɛpəˌreɪt",
+  "theme": "actions",
+  "ex": "Please separate the trash.",
+  "exJa": "ゴミを分別してください。"
+ },
+ {
+  "id": "en-1834",
+  "w": "away",
+  "pos": "副詞",
+  "ja": "離れて・不在で",
+  "ipa": "əˈweɪ",
+  "theme": "grammar",
+  "ex": "The station is not far away.",
+  "exJa": "駅はそれほど遠くありません。"
+ },
+ {
+  "id": "en-1835",
+  "w": "lane",
+  "pos": "名詞",
+  "ja": "車線・小道",
+  "ipa": "leɪn",
+  "theme": "places",
+  "ex": "This road has four lanes.",
+  "exJa": "この道路は4車線ある。"
+ },
+ {
+  "id": "en-1836",
+  "w": "comic",
+  "pos": "名詞",
+  "ja": "漫画",
+  "ipa": "ˈkɑmɪk",
+  "theme": "hobbies",
+  "ex": "I like reading comics.",
+  "exJa": "漫画を読むのが好きです。"
+ },
+ {
+  "id": "en-1837",
+  "w": "settle",
+  "pos": "動詞",
+  "ja": "落ち着く・解決する・定住する",
+  "ipa": "ˈsɛtəl",
+  "theme": "actions",
+  "ex": "They settled in a small town.",
+  "exJa": "彼らは小さな町に落ち着いた。"
+ },
+ {
+  "id": "en-1838",
+  "w": "appointment",
+  "pos": "名詞",
+  "ja": "予約・約束",
+  "ipa": "əˈpɔɪntmənt",
+  "theme": "time",
+  "ex": "I have a dentist appointment at three.",
+  "exJa": "3時に歯医者の予約がある。"
+ },
+ {
+  "id": "en-1839",
+  "w": "various",
+  "pos": "形容詞",
+  "ja": "さまざまな",
+  "ipa": "ˈvɛriəs",
+  "theme": "description",
+  "ex": "The shop sells various kinds of tea.",
+  "exJa": "その店はさまざまな種類のお茶を売っている。"
+ },
+ {
+  "id": "en-1840",
+  "w": "shave",
+  "pos": "動詞",
+  "ja": "（ひげを）そる",
+  "ipa": "ʃeɪv",
+  "theme": "actions",
+  "ex": "He shaves every morning.",
+  "exJa": "彼は毎朝ひげをそる。"
+ },
+ {
+  "id": "en-1841",
+  "w": "bacon",
+  "pos": "名詞",
+  "ja": "ベーコン",
+  "ipa": "ˈbeɪkən",
+  "theme": "food",
+  "ex": "I had bacon and eggs for breakfast.",
+  "exJa": "朝食にベーコンエッグを食べた。"
+ },
+ {
+  "id": "en-1842",
+  "w": "fence",
+  "pos": "名詞",
+  "ja": "柵・塀・フェンス",
+  "ipa": "fɛns",
+  "theme": "home",
+  "ex": "The dog jumped over the fence.",
+  "exJa": "犬が柵を飛び越えた。"
+ },
+ {
+  "id": "en-1843",
+  "w": "giraffe",
+  "pos": "名詞",
+  "ja": "キリン",
+  "ipa": "dʒəˈræf",
+  "theme": "animals",
+  "ex": "A giraffe has a very long neck.",
+  "exJa": "キリンはとても首が長い。"
+ },
+ {
+  "id": "en-1844",
+  "w": "liver",
+  "pos": "名詞",
+  "ja": "肝臓・レバー",
+  "ipa": "ˈlɪvɚ",
+  "theme": "body",
+  "ex": "Too much alcohol is bad for your liver.",
+  "exJa": "お酒の飲みすぎは肝臓に悪い。"
+ },
+ {
+  "id": "en-1845",
+  "w": "couple",
+  "pos": "名詞",
+  "ja": "夫婦・カップル・2つ",
+  "ipa": "ˈkʌpəl",
+  "theme": "people",
+  "ex": "A young couple lives next door.",
+  "exJa": "隣には若い夫婦が住んでいる。"
+ },
+ {
+  "id": "en-1846",
+  "w": "shock",
+  "pos": "動詞",
+  "ja": "衝撃を与える・ショックを与える",
+  "ipa": "ʃɑk",
+  "theme": "actions",
+  "ex": "The news shocked everyone.",
+  "exJa": "そのニュースはみんなに衝撃を与えた。"
+ },
+ {
+  "id": "en-1847",
+  "w": "extra",
+  "pos": "形容詞",
+  "ja": "余分の・追加の",
+  "ipa": "ˈɛkstrə",
+  "theme": "description",
+  "ex": "Do you have an extra pen?",
+  "exJa": "余分なペンはありますか。"
+ },
+ {
+  "id": "en-1848",
+  "w": "forward",
+  "pos": "副詞",
+  "ja": "前へ・先へ",
+  "ipa": "ˈfɔrwɚd",
+  "theme": "grammar",
+  "ex": "Please step forward.",
+  "exJa": "一歩前に出てください。"
+ },
+ {
+  "id": "en-1849",
+  "w": "channel",
+  "pos": "名詞",
+  "ja": "チャンネル・経路",
+  "ipa": "ˈtʃænəl",
+  "theme": "technology",
+  "ex": "Can I change the channel?",
+  "exJa": "チャンネルを変えてもいいですか。"
+ },
+ {
+  "id": "en-1850",
+  "w": "heatwave",
+  "pos": "名詞",
+  "ja": "熱波",
+  "ipa": "ˈhitˌweɪv",
+  "theme": "weather",
+  "ex": "The heatwave lasted for a week.",
+  "exJa": "熱波は1週間続いた。"
+ },
+ {
+  "id": "en-1851",
+  "w": "document",
+  "pos": "名詞",
+  "ja": "書類・文書",
+  "ipa": "ˈdɑkjəmənt",
+  "theme": "work",
+  "ex": "Please sign this document.",
+  "exJa": "この書類に署名してください。"
+ },
+ {
+  "id": "en-1852",
+  "w": "shell",
+  "pos": "名詞",
+  "ja": "貝殻・殻",
+  "ipa": "ʃɛl",
+  "theme": "nature",
+  "ex": "We collected shells on the beach.",
+  "exJa": "浜辺で貝殻を集めた。"
+ },
+ {
+  "id": "en-1853",
+  "w": "shoot",
+  "pos": "動詞",
+  "ja": "撃つ・シュートする・撮影する",
+  "ipa": "ʃut",
+  "theme": "actions",
+  "ex": "He shot the ball into the goal.",
+  "exJa": "彼はボールをゴールにシュートした。"
+ },
+ {
+  "id": "en-1854",
+  "w": "bruise",
+  "pos": "名詞",
+  "ja": "あざ・打撲",
+  "ipa": "bruz",
+  "theme": "health",
+  "ex": "I have a bruise on my arm.",
+  "exJa": "腕にあざがある。"
+ },
+ {
+  "id": "en-1855",
+  "w": "chalk",
+  "pos": "名詞",
+  "ja": "チョーク",
+  "ipa": "tʃɔk",
+  "theme": "school",
+  "ex": "The teacher wrote with white chalk.",
+  "exJa": "先生は白いチョークで書いた。"
+ },
+ {
+  "id": "en-1856",
+  "w": "bomb",
+  "pos": "名詞",
+  "ja": "爆弾",
+  "ipa": "bɑm",
+  "theme": "society",
+  "ex": "The police safely removed the bomb.",
+  "exJa": "警察は爆弾を安全に撤去した。"
+ },
+ {
+  "id": "en-1857",
+  "w": "novel",
+  "pos": "名詞",
+  "ja": "小説",
+  "ipa": "ˈnɑvəl",
+  "theme": "hobbies",
+  "ex": "I'm reading a mystery novel.",
+  "exJa": "推理小説を読んでいます。"
+ },
+ {
+  "id": "en-1858",
+  "w": "pocket",
+  "pos": "名詞",
+  "ja": "ポケット",
+  "ipa": "ˈpɑkɪt",
+  "theme": "clothes",
+  "ex": "My phone is in my pocket.",
+  "exJa": "携帯はポケットの中にある。"
+ },
+ {
+  "id": "en-1859",
+  "w": "terminal",
+  "pos": "名詞",
+  "ja": "ターミナル・終点",
+  "ipa": "ˈtɝmɪnəl",
+  "theme": "transport",
+  "ex": "Our flight leaves from Terminal 2.",
+  "exJa": "私たちの便は第2ターミナルから出発する。"
+ },
+ {
+  "id": "en-1860",
+  "w": "ham",
+  "pos": "名詞",
+  "ja": "ハム",
+  "ipa": "hæm",
+  "theme": "food",
+  "ex": "I'd like a ham sandwich, please.",
+  "exJa": "ハムサンドをお願いします。"
+ },
+ {
+  "id": "en-1861",
+  "w": "sigh",
+  "pos": "動詞",
+  "ja": "ため息をつく",
+  "ipa": "saɪ",
+  "theme": "actions",
+  "ex": "She sighed and closed the book.",
+  "exJa": "彼女はため息をついて本を閉じた。"
+ },
+ {
+  "id": "en-1862",
+  "w": "path",
+  "pos": "名詞",
+  "ja": "小道・道",
+  "ipa": "pæθ",
+  "theme": "places",
+  "ex": "This path leads to the lake.",
+  "exJa": "この小道は湖に通じている。"
+ },
+ {
+  "id": "en-1863",
+  "w": "whole",
+  "pos": "形容詞",
+  "ja": "全体の・まるごとの",
+  "ipa": "hoʊl",
+  "theme": "description",
+  "ex": "He ate the whole cake.",
+  "exJa": "彼はケーキをまるごと食べた。"
+ },
+ {
+  "id": "en-1864",
+  "w": "ski",
+  "pos": "動詞",
+  "ja": "スキーをする",
+  "ipa": "ski",
+  "theme": "actions",
+  "ex": "We ski every winter.",
+  "exJa": "私たちは毎年冬にスキーをする。"
+ },
+ {
+  "id": "en-1865",
+  "w": "gate",
+  "pos": "名詞",
+  "ja": "門・ゲート",
+  "ipa": "ɡeɪt",
+  "theme": "home",
+  "ex": "Please close the gate.",
+  "exJa": "門を閉めてください。"
+ },
+ {
+  "id": "en-1866",
+  "w": "bride",
+  "pos": "名詞",
+  "ja": "花嫁・新婦",
+  "ipa": "braɪd",
+  "theme": "people",
+  "ex": "The bride wore a white dress.",
+  "exJa": "花嫁は白いドレスを着ていた。"
+ },
+ {
+  "id": "en-1867",
+  "w": "zebra",
+  "pos": "名詞",
+  "ja": "シマウマ",
+  "ipa": "ˈzibrə",
+  "theme": "animals",
+  "ex": "A zebra has black and white stripes.",
+  "exJa": "シマウマには白黒のしまがある。"
+ },
+ {
+  "id": "en-1868",
+  "w": "skip",
+  "pos": "動詞",
+  "ja": "抜かす・飛ばす・スキップする",
+  "ipa": "skɪp",
+  "theme": "actions",
+  "ex": "Don't skip breakfast.",
+  "exJa": "朝食を抜いてはいけません。"
+ },
+ {
+  "id": "en-1869",
+  "w": "upstairs",
+  "pos": "副詞",
+  "ja": "上の階へ・上の階で",
+  "ipa": "ˌʌpˈstɛrz",
+  "theme": "grammar",
+  "ex": "My room is upstairs.",
+  "exJa": "私の部屋は上の階です。"
+ },
+ {
+  "id": "en-1870",
+  "w": "sausage",
+  "pos": "名詞",
+  "ja": "ソーセージ",
+  "ipa": "ˈsɔsɪdʒ",
+  "theme": "food",
+  "ex": "I grilled some sausages.",
+  "exJa": "ソーセージを焼いた。"
+ },
+ {
+  "id": "en-1871",
+  "w": "entire",
+  "pos": "形容詞",
+  "ja": "全体の・全部の",
+  "ipa": "ɪnˈtaɪɚ",
+  "theme": "description",
+  "ex": "I cleaned the entire house.",
+  "exJa": "家全体を掃除した。"
+ },
+ {
+  "id": "en-1872",
+  "w": "stare",
+  "pos": "動詞",
+  "ja": "じっと見つめる",
+  "ipa": "stɛr",
+  "theme": "actions",
+  "ex": "Don't stare at people.",
+  "exJa": "人をじろじろ見てはいけない。"
+ },
+ {
+  "id": "en-1873",
+  "w": "feather",
+  "pos": "名詞",
+  "ja": "羽・羽毛",
+  "ipa": "ˈfɛðɚ",
+  "theme": "nature",
+  "ex": "The bird has blue feathers.",
+  "exJa": "その鳥は青い羽をしている。"
+ },
+ {
+  "id": "en-1874",
+  "w": "passion",
+  "pos": "名詞",
+  "ja": "情熱",
+  "ipa": "ˈpæʃən",
+  "theme": "feelings",
+  "ex": "She has a passion for music.",
+  "exJa": "彼女は音楽に情熱を持っている。"
+ },
+ {
+  "id": "en-1875",
+  "w": "poem",
+  "pos": "名詞",
+  "ja": "詩",
+  "ipa": "ˈpoʊəm",
+  "theme": "hobbies",
+  "ex": "Amy wrote a poem about the sea.",
+  "exJa": "エイミーは海についての詩を書いた。"
+ },
+ {
+  "id": "en-1876",
+  "w": "stomachache",
+  "pos": "名詞",
+  "ja": "腹痛",
+  "ipa": "ˈstʌməkˌeɪk",
+  "theme": "body",
+  "ex": "I have a stomachache.",
+  "exJa": "おなかが痛いです。"
+ },
+ {
+  "id": "en-1877",
+  "w": "stick",
+  "pos": "動詞",
+  "ja": "貼る・くっつく・刺す",
+  "ipa": "stɪk",
+  "theme": "actions",
+  "ex": "Stick a stamp on the envelope.",
+  "exJa": "封筒に切手を貼ってください。"
+ },
+ {
+  "id": "en-1878",
+  "w": "exchange rate",
+  "pos": "名詞",
+  "ja": "為替レート",
+  "ipa": "ɪksˈtʃeɪndʒ ˌreɪt",
+  "theme": "money",
+  "ex": "What's today's exchange rate?",
+  "exJa": "今日の為替レートはいくらですか。"
+ },
+ {
+  "id": "en-1879",
+  "w": "blackboard",
+  "pos": "名詞",
+  "ja": "黒板",
+  "ipa": "ˈblækˌbɔrd",
+  "theme": "school",
+  "ex": "Look at the blackboard.",
+  "exJa": "黒板を見てください。"
+ },
+ {
+  "id": "en-1880",
+  "w": "battle",
+  "pos": "名詞",
+  "ja": "戦い・戦闘",
+  "ipa": "ˈbætəl",
+  "theme": "society",
+  "ex": "The battle lasted three days.",
+  "exJa": "その戦いは3日間続いた。"
+ },
+ {
+  "id": "en-1881",
+  "w": "groom",
+  "pos": "名詞",
+  "ja": "花婿・新郎",
+  "ipa": "ɡrum",
+  "theme": "people",
+  "ex": "The groom looked nervous.",
+  "exJa": "花婿は緊張しているようだった。"
+ },
+ {
+  "id": "en-1882",
+  "w": "reservation",
+  "pos": "名詞",
+  "ja": "予約",
+  "ipa": "ˌrɛzɚˈveɪʃən",
+  "theme": "time",
+  "ex": "I have a reservation for two.",
+  "exJa": "2名で予約しています。"
+ },
+ {
+  "id": "en-1883",
+  "w": "single",
+  "pos": "形容詞",
+  "ja": "独身の・たった一つの・1人用の",
+  "ipa": "ˈsɪŋɡəl",
+  "theme": "description",
+  "ex": "Is he married or single?",
+  "exJa": "彼は結婚していますか、それとも独身ですか。"
+ },
+ {
+  "id": "en-1884",
+  "w": "network",
+  "pos": "名詞",
+  "ja": "ネットワーク・通信網",
+  "ipa": "ˈnɛtˌwɝk",
+  "theme": "technology",
+  "ex": "The network is down right now.",
+  "exJa": "今ネットワークがつながらない。"
+ },
+ {
+  "id": "en-1885",
+  "w": "file",
+  "pos": "名詞",
+  "ja": "ファイル・書類",
+  "ipa": "faɪl",
+  "theme": "work",
+  "ex": "Save the file before you close it.",
+  "exJa": "閉じる前にファイルを保存してください。"
+ },
+ {
+  "id": "en-1886",
+  "w": "sidewalk",
+  "pos": "名詞",
+  "ja": "歩道",
+  "ipa": "ˈsaɪdˌwɔk",
+  "theme": "places",
+  "ex": "Please walk on the sidewalk.",
+  "exJa": "歩道を歩いてください。"
+ },
+ {
+  "id": "en-1887",
+  "w": "balcony",
+  "pos": "名詞",
+  "ja": "バルコニー・ベランダ",
+  "ipa": "ˈbælkəni",
+  "theme": "home",
+  "ex": "We have breakfast on the balcony.",
+  "exJa": "私たちはベランダで朝食をとる。"
+ },
+ {
+  "id": "en-1888",
+  "w": "strike",
+  "pos": "動詞",
+  "ja": "打つ・ぶつかる・（災害などが）襲う",
+  "ipa": "straɪk",
+  "theme": "actions",
+  "ex": "Lightning struck the tree.",
+  "exJa": "雷が木に落ちた。"
+ },
+ {
+  "id": "en-1889",
+  "w": "toast",
+  "pos": "名詞",
+  "ja": "トースト・乾杯",
+  "ipa": "toʊst",
+  "theme": "food",
+  "ex": "I eat toast every morning.",
+  "exJa": "毎朝トーストを食べる。"
+ },
+ {
+  "id": "en-1890",
+  "w": "button",
+  "pos": "名詞",
+  "ja": "ボタン",
+  "ipa": "ˈbʌtən",
+  "theme": "clothes",
+  "ex": "A button came off my shirt.",
+  "exJa": "シャツのボタンが取れた。"
+ },
+ {
+  "id": "en-1891",
+  "w": "runway",
+  "pos": "名詞",
+  "ja": "滑走路",
+  "ipa": "ˈrʌnˌweɪ",
+  "theme": "transport",
+  "ex": "The plane landed on the runway.",
+  "exJa": "飛行機は滑走路に着陸した。"
+ },
+ {
+  "id": "en-1892",
+  "w": "downstairs",
+  "pos": "副詞",
+  "ja": "下の階へ・下の階で",
+  "ipa": "ˌdaʊnˈstɛrz",
+  "theme": "grammar",
+  "ex": "Let's go downstairs for breakfast.",
+  "exJa": "朝食を食べに下の階へ行こう。"
+ },
+ {
+  "id": "en-1893",
+  "w": "suffer",
+  "pos": "動詞",
+  "ja": "苦しむ・（病気を）患う",
+  "ipa": "ˈsʌfɚ",
+  "theme": "actions",
+  "ex": "He suffers from headaches.",
+  "exJa": "彼は頭痛に悩んでいる。"
+ },
+ {
+  "id": "en-1894",
+  "w": "kangaroo",
+  "pos": "名詞",
+  "ja": "カンガルー",
+  "ipa": "ˌkæŋɡəˈru",
+  "theme": "animals",
+  "ex": "Kangaroos live in Australia.",
+  "exJa": "カンガルーはオーストラリアにすんでいる。"
+ },
+ {
+  "id": "en-1895",
+  "w": "catalog",
+  "pos": "名詞",
+  "ja": "カタログ",
+  "ipa": "ˈkætəˌlɔɡ",
+  "theme": "shopping",
+  "ex": "I ordered a sweater from the catalog.",
+  "exJa": "カタログでセーターを注文した。"
+ },
+ {
+  "id": "en-1896",
+  "w": "celebration",
+  "pos": "名詞",
+  "ja": "お祝い・祝賀会",
+  "ipa": "ˌsɛləˈbreɪʃən",
+  "theme": "smalltalk",
+  "ex": "We had a small celebration for Tom.",
+  "exJa": "トムのためにささやかなお祝いをした。"
+ },
+ {
+  "id": "en-1897",
+  "w": "double",
+  "pos": "形容詞",
+  "ja": "2倍の・2人用の・二重の",
+  "ipa": "ˈdʌbəl",
+  "theme": "description",
+  "ex": "I'd like a double room, please.",
+  "exJa": "ダブルの部屋をお願いします。"
+ },
+ {
+  "id": "en-1898",
+  "w": "pulse",
+  "pos": "名詞",
+  "ja": "脈・脈拍",
+  "ipa": "pʌls",
+  "theme": "health",
+  "ex": "The nurse checked my pulse.",
+  "exJa": "看護師が私の脈を測った。"
+ },
+ {
+  "id": "en-1899",
+  "w": "suit",
+  "pos": "動詞",
+  "ja": "似合う・都合がよい",
+  "ipa": "sut",
+  "theme": "actions",
+  "ex": "That color suits you.",
+  "exJa": "その色はあなたに似合う。"
+ },
+ {
+  "id": "en-1900",
+  "w": "fur",
+  "pos": "名詞",
+  "ja": "（動物の）毛・毛皮",
+  "ipa": "fɝ",
+  "theme": "nature",
+  "ex": "My cat has soft fur.",
+  "exJa": "うちの猫は毛が柔らかい。"
+ },
+ {
+  "id": "en-1901",
+  "w": "poetry",
+  "pos": "名詞",
+  "ja": "詩・詩歌",
+  "ipa": "ˈpoʊətri",
+  "theme": "hobbies",
+  "ex": "She reads poetry before bed.",
+  "exJa": "彼女は寝る前に詩を読む。"
+ },
+ {
+  "id": "en-1902",
+  "w": "fan",
+  "pos": "名詞",
+  "ja": "ファン・扇風機",
+  "ipa": "fæn",
+  "theme": "people",
+  "ex": "I'm a big fan of this band.",
+  "exJa": "私はこのバンドの大ファンです。"
+ },
+ {
+  "id": "en-1903",
+  "w": "cookie",
+  "pos": "名詞",
+  "ja": "クッキー",
+  "ipa": "ˈkʊki",
+  "theme": "food",
+  "ex": "Amy baked cookies for us.",
+  "exJa": "エイミーが私たちにクッキーを焼いてくれた。"
+ },
+ {
+  "id": "en-1904",
+  "w": "supply",
+  "pos": "動詞",
+  "ja": "供給する・支給する",
+  "ipa": "səˈplaɪ",
+  "theme": "actions",
+  "ex": "The company supplies water to the city.",
+  "exJa": "その会社は市に水を供給している。"
+ },
+ {
+  "id": "en-1905",
+  "w": "hall",
+  "pos": "名詞",
+  "ja": "玄関・廊下・会館",
+  "ipa": "hɔl",
+  "theme": "home",
+  "ex": "Please leave your shoes in the hall.",
+  "exJa": "靴は玄関に置いてください。"
+ },
+ {
+  "id": "en-1906",
+  "w": "private",
+  "pos": "形容詞",
+  "ja": "私的な・私有の・私立の",
+  "ipa": "ˈpraɪvət",
+  "theme": "description",
+  "ex": "This is private property.",
+  "exJa": "ここは私有地です。"
+ },
+ {
+  "id": "en-1907",
+  "w": "locker",
+  "pos": "名詞",
+  "ja": "ロッカー",
+  "ipa": "ˈlɑkɚ",
+  "theme": "school",
+  "ex": "Put your bag in your locker.",
+  "exJa": "かばんをロッカーに入れてください。"
+ },
+ {
+  "id": "en-1908",
+  "w": "disaster",
+  "pos": "名詞",
+  "ja": "災害・大惨事",
+  "ipa": "dɪˈzæstɚ",
+  "theme": "society",
+  "ex": "We must prepare for natural disasters.",
+  "exJa": "自然災害に備えなければならない。"
+ },
+ {
+  "id": "en-1909",
+  "w": "suppose",
+  "pos": "動詞",
+  "ja": "思う・推測する・仮定する",
+  "ipa": "səˈpoʊz",
+  "theme": "actions",
+  "ex": "I suppose you're right.",
+  "exJa": "あなたの言うとおりだと思います。"
+ },
+ {
+  "id": "en-1910",
+  "w": "crossing",
+  "pos": "名詞",
+  "ja": "踏切・横断歩道・交差点",
+  "ipa": "ˈkrɔsɪŋ",
+  "theme": "places",
+  "ex": "There is a railroad crossing near my house.",
+  "exJa": "家の近くに踏切がある。"
+ },
+ {
+  "id": "en-1911",
+  "w": "outdoors",
+  "pos": "副詞",
+  "ja": "屋外で・野外で",
+  "ipa": "ˌaʊtˈdɔrz",
+  "theme": "grammar",
+  "ex": "The kids love playing outdoors.",
+  "exJa": "子どもたちは外で遊ぶのが大好きだ。"
+ },
+ {
+  "id": "en-1912",
+  "w": "toothache",
+  "pos": "名詞",
+  "ja": "歯痛",
+  "ipa": "ˈtuθˌeɪk",
+  "theme": "body",
+  "ex": "I have a bad toothache.",
+  "exJa": "歯がひどく痛い。"
+ },
+ {
+  "id": "en-1913",
+  "w": "survive",
+  "pos": "動詞",
+  "ja": "生き残る・乗り切る",
+  "ipa": "sɚˈvaɪv",
+  "theme": "actions",
+  "ex": "Plants can't survive without water.",
+  "exJa": "植物は水なしでは生きられない。"
+ },
+ {
+  "id": "en-1914",
+  "w": "panda",
+  "pos": "名詞",
+  "ja": "パンダ",
+  "ipa": "ˈpændə",
+  "theme": "animals",
+  "ex": "We saw a panda at the zoo.",
+  "exJa": "動物園でパンダを見た。"
+ },
+ {
+  "id": "en-1915",
+  "w": "public",
+  "pos": "形容詞",
+  "ja": "公共の・公の",
+  "ipa": "ˈpʌblɪk",
+  "theme": "description",
+  "ex": "Smoking is not allowed in public places.",
+  "exJa": "公共の場所では喫煙が禁止されている。"
+ },
+ {
+  "id": "en-1916",
+  "w": "charger",
+  "pos": "名詞",
+  "ja": "充電器",
+  "ipa": "ˈtʃɑrdʒɚ",
+  "theme": "technology",
+  "ex": "Did you bring your phone charger?",
+  "exJa": "携帯の充電器を持ってきましたか。"
+ },
+ {
+  "id": "en-1917",
+  "w": "printer",
+  "pos": "名詞",
+  "ja": "プリンター",
+  "ipa": "ˈprɪntɚ",
+  "theme": "work",
+  "ex": "The printer is out of paper.",
+  "exJa": "プリンターの紙が切れている。"
+ },
+ {
+  "id": "en-1918",
+  "w": "candy",
+  "pos": "名詞",
+  "ja": "キャンディー・お菓子",
+  "ipa": "ˈkændi",
+  "theme": "food",
+  "ex": "Don't eat too much candy.",
+  "exJa": "お菓子を食べすぎてはいけません。"
+ },
+ {
+  "id": "en-1919",
+  "w": "champion",
+  "pos": "名詞",
+  "ja": "チャンピオン・優勝者",
+  "ipa": "ˈtʃæmpiən",
+  "theme": "people",
+  "ex": "She became the world champion.",
+  "exJa": "彼女は世界チャンピオンになった。"
+ },
+ {
+  "id": "en-1920",
+  "w": "suspect",
+  "pos": "動詞",
+  "ja": "疑う・〜ではないかと思う",
+  "ipa": "səˈspɛkt",
+  "theme": "actions",
+  "ex": "I suspect he's lying.",
+  "exJa": "彼はうそをついているのではないかと思う。"
+ },
+ {
+  "id": "en-1921",
+  "w": "zipper",
+  "pos": "名詞",
+  "ja": "ファスナー・チャック",
+  "ipa": "ˈzɪpɚ",
+  "theme": "clothes",
+  "ex": "The zipper on my jacket is broken.",
+  "exJa": "上着のファスナーが壊れている。"
+ },
+ {
+  "id": "en-1922",
+  "w": "wing",
+  "pos": "名詞",
+  "ja": "翼・羽",
+  "ipa": "wɪŋ",
+  "theme": "nature",
+  "ex": "The bird hurt its wing.",
+  "exJa": "その鳥は翼をけがした。"
+ },
+ {
+  "id": "en-1923",
+  "w": "crosswalk",
+  "pos": "名詞",
+  "ja": "横断歩道",
+  "ipa": "ˈkrɔsˌwɔk",
+  "theme": "transport",
+  "ex": "Always cross at the crosswalk.",
+  "exJa": "必ず横断歩道を渡りましょう。"
+ },
+ {
+  "id": "en-1924",
+  "w": "guitar",
+  "pos": "名詞",
+  "ja": "ギター",
+  "ipa": "ɡɪˈtɑr",
+  "theme": "hobbies",
+  "ex": "Tom plays the guitar well.",
+  "exJa": "トムはギターが上手だ。"
+ },
+ {
+  "id": "en-1925",
+  "w": "tear",
+  "pos": "動詞",
+  "ja": "破る・裂く",
+  "ipa": "tɛr",
+  "theme": "actions",
+  "ex": "Be careful not to tear the paper.",
+  "exJa": "紙を破らないように気をつけてください。"
+ },
+ {
+  "id": "en-1926",
+  "w": "curiosity",
+  "pos": "名詞",
+  "ja": "好奇心",
+  "ipa": "ˌkjʊriˈɑsəti",
+  "theme": "feelings",
+  "ex": "Children are full of curiosity.",
+  "exJa": "子どもは好奇心でいっぱいだ。"
+ },
+ {
+  "id": "en-1927",
+  "w": "living room",
+  "pos": "名詞",
+  "ja": "居間・リビング",
+  "ipa": "ˈlɪvɪŋ ˌrum",
+  "theme": "home",
+  "ex": "We watch TV in the living room.",
+  "exJa": "私たちは居間でテレビを見る。"
+ },
+ {
+  "id": "en-1928",
+  "w": "official",
+  "pos": "形容詞",
+  "ja": "公式の・正式な",
+  "ipa": "əˈfɪʃəl",
+  "theme": "description",
+  "ex": "This is the official website.",
+  "exJa": "これは公式サイトです。"
+ },
+ {
+  "id": "en-1929",
+  "w": "vacation",
+  "pos": "名詞",
+  "ja": "休暇・休み",
+  "ipa": "veɪˈkeɪʃən",
+  "theme": "time",
+  "ex": "We went to Hawaii on vacation.",
+  "exJa": "休暇でハワイに行った。"
+ },
+ {
+  "id": "en-1930",
+  "w": "overseas",
+  "pos": "副詞",
+  "ja": "海外へ・海外で",
+  "ipa": "ˌoʊvɚˈsiz",
+  "theme": "grammar",
+  "ex": "I want to study overseas.",
+  "exJa": "海外で勉強したい。"
+ },
+ {
+  "id": "en-1931",
+  "w": "tend",
+  "pos": "動詞",
+  "ja": "〜しがちである・〜する傾向がある",
+  "ipa": "tɛnd",
+  "theme": "actions",
+  "ex": "I tend to sleep late on weekends.",
+  "exJa": "週末は遅くまで寝ていることが多い。"
+ },
+ {
+  "id": "en-1932",
+  "w": "gum",
+  "pos": "名詞",
+  "ja": "ガム・歯ぐき",
+  "ipa": "ɡʌm",
+  "theme": "food",
+  "ex": "Would you like some gum?",
+  "exJa": "ガムはいかがですか。"
+ },
+ {
+  "id": "en-1933",
+  "w": "graduation",
+  "pos": "名詞",
+  "ja": "卒業・卒業式",
+  "ipa": "ˌɡrædʒuˈeɪʃən",
+  "theme": "school",
+  "ex": "My parents came to my graduation.",
+  "exJa": "両親が私の卒業式に来てくれた。"
+ },
+ {
+  "id": "en-1934",
+  "w": "accident",
+  "pos": "名詞",
+  "ja": "事故・偶然",
+  "ipa": "ˈæksədənt",
+  "theme": "society",
+  "ex": "He had a car accident yesterday.",
+  "exJa": "彼は昨日交通事故にあった。"
+ },
+ {
+  "id": "en-1935",
+  "w": "intersection",
+  "pos": "名詞",
+  "ja": "交差点",
+  "ipa": "ˌɪntɚˈsɛkʃən",
+  "theme": "places",
+  "ex": "Turn left at the next intersection.",
+  "exJa": "次の交差点を左に曲がってください。"
+ },
+ {
+  "id": "en-1936",
+  "w": "threaten",
+  "pos": "動詞",
+  "ja": "脅す・脅かす",
+  "ipa": "ˈθrɛtən",
+  "theme": "actions",
+  "ex": "The storm threatened the small town.",
+  "exJa": "嵐が小さな町を脅かした。"
+ },
+ {
+  "id": "en-1937",
+  "w": "opponent",
+  "pos": "名詞",
+  "ja": "対戦相手・相手",
+  "ipa": "əˈpoʊnənt",
+  "theme": "people",
+  "ex": "Our opponent was very strong.",
+  "exJa": "対戦相手はとても強かった。"
+ },
+ {
+  "id": "en-1938",
+  "w": "blood pressure",
+  "pos": "名詞",
+  "ja": "血圧",
+  "ipa": "ˈblʌd ˌprɛʃɚ",
+  "theme": "health",
+  "ex": "The doctor checked my blood pressure.",
+  "exJa": "医者が私の血圧を測った。"
+ },
+ {
+  "id": "en-1939",
+  "w": "international",
+  "pos": "形容詞",
+  "ja": "国際的な・国際の",
+  "ipa": "ˌɪntɚˈnæʃənəl",
+  "theme": "description",
+  "ex": "Narita is an international airport.",
+  "exJa": "成田は国際空港です。"
+ },
+ {
+  "id": "en-1940",
+  "w": "camel",
+  "pos": "名詞",
+  "ja": "ラクダ",
+  "ipa": "ˈkæməl",
+  "theme": "animals",
+  "ex": "We rode a camel in the desert.",
+  "exJa": "砂漠でラクダに乗った。"
+ },
+ {
+  "id": "en-1941",
+  "w": "tour",
+  "pos": "動詞",
+  "ja": "見て回る・ツアーをする",
+  "ipa": "tʊr",
+  "theme": "actions",
+  "ex": "We toured the old castle.",
+  "exJa": "私たちは古い城を見て回った。"
+ },
+ {
+  "id": "en-1942",
+  "w": "tail",
+  "pos": "名詞",
+  "ja": "しっぽ・尾",
+  "ipa": "teɪl",
+  "theme": "nature",
+  "ex": "The dog is wagging its tail.",
+  "exJa": "犬がしっぽを振っている。"
+ },
+ {
+  "id": "en-1943",
+  "w": "piano",
+  "pos": "名詞",
+  "ja": "ピアノ",
+  "ipa": "piˈænoʊ",
+  "theme": "hobbies",
+  "ex": "Amy plays the piano every day.",
+  "exJa": "エイミーは毎日ピアノを弾く。"
+ },
+ {
+  "id": "en-1944",
+  "w": "trade",
+  "pos": "動詞",
+  "ja": "交換する・取引する・貿易する",
+  "ipa": "treɪd",
+  "theme": "actions",
+  "ex": "Let's trade seats.",
+  "exJa": "席を替わりましょう。"
+ },
+ {
+  "id": "en-1945",
+  "w": "yogurt",
+  "pos": "名詞",
+  "ja": "ヨーグルト",
+  "ipa": "ˈjoʊɡɚt",
+  "theme": "food",
+  "ex": "I eat yogurt with fruit.",
+  "exJa": "ヨーグルトに果物を入れて食べる。"
+ },
+ {
+  "id": "en-1946",
+  "w": "dining room",
+  "pos": "名詞",
+  "ja": "ダイニング・食堂",
+  "ipa": "ˈdaɪnɪŋ ˌrum",
+  "theme": "home",
+  "ex": "We eat dinner in the dining room.",
+  "exJa": "私たちはダイニングで夕食を食べる。"
+ },
+ {
+  "id": "en-1947",
+  "w": "backache",
+  "pos": "名詞",
+  "ja": "腰痛・背中の痛み",
+  "ipa": "ˈbækˌeɪk",
+  "theme": "body",
+  "ex": "I have a backache from sitting too long.",
+  "exJa": "長く座りすぎて腰が痛い。"
+ },
+ {
+  "id": "en-1948",
+  "w": "national",
+  "pos": "形容詞",
+  "ja": "国の・国民の・全国的な",
+  "ipa": "ˈnæʃənəl",
+  "theme": "description",
+  "ex": "Today is a national holiday.",
+  "exJa": "今日は国民の祝日です。"
+ },
+ {
+  "id": "en-1949",
+  "w": "despite",
+  "pos": "前置詞",
+  "ja": "〜にもかかわらず",
+  "ipa": "dɪˈspaɪt",
+  "theme": "grammar",
+  "ex": "We went out despite the rain.",
+  "exJa": "雨にもかかわらず私たちは出かけた。"
+ },
+ {
+  "id": "en-1950",
+  "w": "cable",
+  "pos": "名詞",
+  "ja": "ケーブル・コード",
+  "ipa": "ˈkeɪbəl",
+  "theme": "technology",
+  "ex": "Connect this cable to the TV.",
+  "exJa": "このケーブルをテレビにつないでください。"
+ },
+ {
+  "id": "en-1951",
+  "w": "degree",
+  "pos": "名詞",
+  "ja": "（温度の）度・学位・程度",
+  "ipa": "dɪˈɡri",
+  "theme": "weather",
+  "ex": "It's 30 degrees today.",
+  "exJa": "今日は30度です。"
+ },
+ {
+  "id": "en-1952",
+  "w": "shift",
+  "pos": "名詞",
+  "ja": "（勤務の）交代・シフト",
+  "ipa": "ʃɪft",
+  "theme": "work",
+  "ex": "I work the night shift.",
+  "exJa": "私は夜勤をしている。"
+ },
+ {
+  "id": "en-1953",
+  "w": "sleeve",
+  "pos": "名詞",
+  "ja": "袖",
+  "ipa": "sliv",
+  "theme": "clothes",
+  "ex": "This shirt has short sleeves.",
+  "exJa": "このシャツは半袖だ。"
+ },
+ {
+  "id": "en-1954",
+  "w": "signal",
+  "pos": "名詞",
+  "ja": "信号・合図",
+  "ipa": "ˈsɪɡnəl",
+  "theme": "transport",
+  "ex": "Stop when the signal turns red.",
+  "exJa": "信号が赤になったら止まりなさい。"
+ },
+ {
+  "id": "en-1955",
+  "w": "treat",
+  "pos": "動詞",
+  "ja": "扱う・治療する・おごる",
+  "ipa": "trit",
+  "theme": "actions",
+  "ex": "He treats me like a child.",
+  "exJa": "彼は私を子どもみたいに扱う。"
+ },
+ {
+  "id": "en-1956",
+  "w": "coach",
+  "pos": "名詞",
+  "ja": "コーチ・監督",
+  "ipa": "koʊtʃ",
+  "theme": "people",
+  "ex": "Our coach is very strict.",
+  "exJa": "私たちのコーチはとても厳しい。"
+ },
+ {
+  "id": "en-1957",
+  "w": "trip",
+  "pos": "動詞",
+  "ja": "つまずく",
+  "ipa": "trɪp",
+  "theme": "actions",
+  "ex": "I tripped on the stairs.",
+  "exJa": "階段でつまずいた。"
+ },
+ {
+  "id": "en-1958",
+  "w": "currency",
+  "pos": "名詞",
+  "ja": "通貨",
+  "ipa": "ˈkɝənsi",
+  "theme": "money",
+  "ex": "The yen is Japan's currency.",
+  "exJa": "円は日本の通貨だ。"
+ },
+ {
+  "id": "en-1959",
+  "w": "entrance exam",
+  "pos": "名詞",
+  "ja": "入学試験",
+  "ipa": "ˈɛntrəns ɪɡˌzæm",
+  "theme": "school",
+  "ex": "He passed the entrance exam.",
+  "exJa": "彼は入試に合格した。"
+ },
+ {
+  "id": "en-1960",
+  "w": "emergency",
+  "pos": "名詞",
+  "ja": "緊急事態・非常時",
+  "ipa": "ɪˈmɝdʒənsi",
+  "theme": "society",
+  "ex": "In an emergency, call this number.",
+  "exJa": "緊急時はこの番号に電話してください。"
+ },
+ {
+  "id": "en-1961",
+  "w": "local",
+  "pos": "形容詞",
+  "ja": "地元の・地域の",
+  "ipa": "ˈloʊkəl",
+  "theme": "description",
+  "ex": "We shop at a local market.",
+  "exJa": "私たちは地元の市場で買い物をする。"
+ },
+ {
+  "id": "en-1962",
+  "w": "square",
+  "pos": "名詞",
+  "ja": "広場・正方形",
+  "ipa": "skwɛr",
+  "theme": "places",
+  "ex": "People gathered in the town square.",
+  "exJa": "人々が町の広場に集まった。"
+ },
+ {
+  "id": "en-1963",
+  "w": "cream",
+  "pos": "名詞",
+  "ja": "クリーム",
+  "ipa": "krim",
+  "theme": "food",
+  "ex": "Do you take cream in your coffee?",
+  "exJa": "コーヒーにクリームを入れますか。"
+ },
+ {
+  "id": "en-1964",
+  "w": "unlock",
+  "pos": "動詞",
+  "ja": "（鍵を）開ける・解除する",
+  "ipa": "ʌnˈlɑk",
+  "theme": "actions",
+  "ex": "I can't unlock the door.",
+  "exJa": "ドアの鍵が開けられない。"
+ },
+ {
+  "id": "en-1965",
+  "w": "donkey",
+  "pos": "名詞",
+  "ja": "ロバ",
+  "ipa": "ˈdɑŋki",
+  "theme": "animals",
+  "ex": "The donkey carried heavy bags.",
+  "exJa": "ロバが重い袋を運んだ。"
+ },
+ {
+  "id": "en-1966",
+  "w": "advertisement",
+  "pos": "名詞",
+  "ja": "広告",
+  "ipa": "ˌædvɚˈtaɪzmənt",
+  "theme": "shopping",
+  "ex": "I saw an advertisement for a new phone.",
+  "exJa": "新しいスマホの広告を見た。"
+ },
+ {
+  "id": "en-1967",
+  "w": "invitation",
+  "pos": "名詞",
+  "ja": "招待・招待状",
+  "ipa": "ˌɪnvɪˈteɪʃən",
+  "theme": "smalltalk",
+  "ex": "Thank you for the invitation.",
+  "exJa": "ご招待ありがとうございます。"
+ },
+ {
+  "id": "en-1968",
+  "w": "claw",
+  "pos": "名詞",
+  "ja": "（動物の）爪・（カニなどの）はさみ",
+  "ipa": "klɔ",
+  "theme": "nature",
+  "ex": "Cats have sharp claws.",
+  "exJa": "猫には鋭い爪がある。"
+ },
+ {
+  "id": "en-1969",
+  "w": "violin",
+  "pos": "名詞",
+  "ja": "バイオリン",
+  "ipa": "ˌvaɪəˈlɪn",
+  "theme": "hobbies",
+  "ex": "She has played the violin for ten years.",
+  "exJa": "彼女は10年間バイオリンを弾いている。"
+ },
+ {
+  "id": "en-1970",
+  "w": "basement",
+  "pos": "名詞",
+  "ja": "地下室・地階",
+  "ipa": "ˈbeɪsmənt",
+  "theme": "home",
+  "ex": "We keep old boxes in the basement.",
+  "exJa": "古い箱は地下室にしまってある。"
+ },
+ {
+  "id": "en-1971",
+  "w": "update",
+  "pos": "動詞",
+  "ja": "更新する・アップデートする",
+  "ipa": "ˌʌpˈdeɪt",
+  "theme": "actions",
+  "ex": "I need to update my phone.",
+  "exJa": "スマホをアップデートしないといけない。"
+ },
+ {
+  "id": "en-1972",
+  "w": "unlike",
+  "pos": "前置詞",
+  "ja": "〜と違って",
+  "ipa": "ˌʌnˈlaɪk",
+  "theme": "grammar",
+  "ex": "Unlike me, my sister loves sports.",
+  "exJa": "私と違って、姉はスポーツが大好きだ。"
+ },
+ {
+  "id": "en-1973",
+  "w": "foreign",
+  "pos": "形容詞",
+  "ja": "外国の",
+  "ipa": "ˈfɔrən",
+  "theme": "description",
+  "ex": "Can you speak a foreign language?",
+  "exJa": "外国語を話せますか。"
+ },
+ {
+  "id": "en-1974",
+  "w": "athlete",
+  "pos": "名詞",
+  "ja": "運動選手・スポーツ選手",
+  "ipa": "ˈæθˌlit",
+  "theme": "people",
+  "ex": "He is a professional athlete.",
+  "exJa": "彼はプロのスポーツ選手だ。"
+ },
+ {
+  "id": "en-1975",
+  "w": "value",
+  "pos": "動詞",
+  "ja": "大切にする・評価する",
+  "ipa": "ˈvælju",
+  "theme": "actions",
+  "ex": "I value our friendship.",
+  "exJa": "私たちの友情を大切にしています。"
+ },
+ {
+  "id": "en-1976",
+  "w": "confidence",
+  "pos": "名詞",
+  "ja": "自信・信頼",
+  "ipa": "ˈkɑnfədəns",
+  "theme": "feelings",
+  "ex": "She spoke with confidence.",
+  "exJa": "彼女は自信を持って話した。"
+ },
+ {
+  "id": "en-1977",
+  "w": "anniversary",
+  "pos": "名詞",
+  "ja": "記念日",
+  "ipa": "ˌænəˈvɝsəri",
+  "theme": "time",
+  "ex": "Today is our wedding anniversary.",
+  "exJa": "今日は私たちの結婚記念日です。"
+ },
+ {
+  "id": "en-1978",
+  "w": "coffee shop",
+  "pos": "名詞",
+  "ja": "喫茶店・コーヒーショップ",
+  "ipa": "ˈkɔfi ˌʃɑp",
+  "theme": "food",
+  "ex": "Let's meet at the coffee shop.",
+  "exJa": "喫茶店で会いましょう。"
+ },
+ {
+  "id": "en-1979",
+  "w": "diet",
+  "pos": "名詞",
+  "ja": "ダイエット・食事",
+  "ipa": "ˈdaɪət",
+  "theme": "health",
+  "ex": "I'm on a diet.",
+  "exJa": "ダイエット中です。"
+ },
+ {
+  "id": "en-1980",
+  "w": "warn",
+  "pos": "動詞",
+  "ja": "警告する・注意する",
+  "ipa": "wɔrn",
+  "theme": "actions",
+  "ex": "The teacher warned us not to be late.",
+  "exJa": "先生は私たちに遅刻しないよう注意した。"
+ },
+ {
+  "id": "en-1981",
+  "w": "sweat",
+  "pos": "名詞",
+  "ja": "汗",
+  "ipa": "swɛt",
+  "theme": "body",
+  "ex": "My shirt is wet with sweat.",
+  "exJa": "シャツが汗でぬれている。"
+ },
+ {
+  "id": "en-1982",
+  "w": "native",
+  "pos": "形容詞",
+  "ja": "母国の・生まれた土地の・その土地固有の",
+  "ipa": "ˈneɪtɪv",
+  "theme": "description",
+  "ex": "Her native language is Spanish.",
+  "exJa": "彼女の母語はスペイン語だ。"
+ },
+ {
+  "id": "en-1983",
+  "w": "wifi",
+  "pos": "名詞",
+  "ja": "ワイファイ・無線LAN",
+  "ipa": "ˈwaɪˌfaɪ",
+  "theme": "technology",
+  "ex": "Does this café have free wifi?",
+  "exJa": "このカフェには無料のWi-Fiがありますか。"
+ },
+ {
+  "id": "en-1984",
+  "w": "overtime",
+  "pos": "名詞",
+  "ja": "残業・時間外労働",
+  "ipa": "ˈoʊvɚˌtaɪm",
+  "theme": "work",
+  "ex": "I did two hours of overtime.",
+  "exJa": "2時間残業した。"
+ },
+ {
+  "id": "en-1985",
+  "w": "collar",
+  "pos": "名詞",
+  "ja": "襟・（犬などの）首輪",
+  "ipa": "ˈkɑlɚ",
+  "theme": "clothes",
+  "ex": "Your collar is crooked.",
+  "exJa": "襟が曲がっていますよ。"
+ },
+ {
+  "id": "en-1986",
+  "w": "traffic light",
+  "pos": "名詞",
+  "ja": "信号機",
+  "ipa": "ˈtræfɪk ˌlaɪt",
+  "theme": "transport",
+  "ex": "Turn right at the traffic light.",
+  "exJa": "信号を右に曲がってください。"
+ },
+ {
+  "id": "en-1987",
+  "w": "waste",
+  "pos": "動詞",
+  "ja": "無駄にする・浪費する",
+  "ipa": "weɪst",
+  "theme": "actions",
+  "ex": "Don't waste food.",
+  "exJa": "食べ物を無駄にしないでください。"
+ },
+ {
+  "id": "en-1988",
+  "w": "scholarship",
+  "pos": "名詞",
+  "ja": "奨学金",
+  "ipa": "ˈskɑlɚˌʃɪp",
+  "theme": "school",
+  "ex": "She got a scholarship to study abroad.",
+  "exJa": "彼女は留学のための奨学金をもらった。"
+ },
+ {
+  "id": "en-1989",
+  "w": "charity",
+  "pos": "名詞",
+  "ja": "慈善・慈善団体",
+  "ipa": "ˈtʃɛrəti",
+  "theme": "society",
+  "ex": "We gave money to charity.",
+  "exJa": "私たちは慈善団体にお金を寄付した。"
+ },
+ {
+  "id": "en-1990",
+  "w": "plaza",
+  "pos": "名詞",
+  "ja": "広場",
+  "ipa": "ˈplɑzə",
+  "theme": "places",
+  "ex": "There is a fountain in the plaza.",
+  "exJa": "広場に噴水がある。"
+ },
+ {
+  "id": "en-1991",
+  "w": "goat",
+  "pos": "名詞",
+  "ja": "ヤギ",
+  "ipa": "ɡoʊt",
+  "theme": "animals",
+  "ex": "The goat is eating grass.",
+  "exJa": "ヤギが草を食べている。"
+ },
+ {
+  "id": "en-1992",
+  "w": "nest",
+  "pos": "名詞",
+  "ja": "巣",
+  "ipa": "nɛst",
+  "theme": "nature",
+  "ex": "A bird built a nest in the tree.",
+  "exJa": "鳥が木に巣を作った。"
+ },
+ {
+  "id": "en-1993",
+  "w": "drum",
+  "pos": "名詞",
+  "ja": "ドラム・太鼓",
+  "ipa": "drʌm",
+  "theme": "hobbies",
+  "ex": "Ken plays the drums in a band.",
+  "exJa": "ケンはバンドでドラムをたたいている。"
+ },
+ {
+  "id": "en-1994",
+  "w": "attic",
+  "pos": "名詞",
+  "ja": "屋根裏部屋",
+  "ipa": "ˈætɪk",
+  "theme": "home",
+  "ex": "We found old photos in the attic.",
+  "exJa": "屋根裏部屋で古い写真を見つけた。"
+ },
+ {
+  "id": "en-1995",
+  "w": "indeed",
+  "pos": "副詞",
+  "ja": "本当に・実に",
+  "ipa": "ɪnˈdid",
+  "theme": "grammar",
+  "ex": "It was indeed a great day.",
+  "exJa": "それは本当にすばらしい日だった。"
+ },
+ {
+  "id": "en-1996",
+  "w": "player",
+  "pos": "名詞",
+  "ja": "選手・プレーヤー",
+  "ipa": "ˈpleɪɚ",
+  "theme": "people",
+  "ex": "He is a good soccer player.",
+  "exJa": "彼は上手なサッカー選手だ。"
+ },
+ {
+  "id": "en-1997",
+  "w": "weigh",
+  "pos": "動詞",
+  "ja": "重さが〜ある・重さを量る",
+  "ipa": "weɪ",
+  "theme": "actions",
+  "ex": "This bag weighs five kilos.",
+  "exJa": "このかばんは5キロある。"
+ },
+ {
+  "id": "en-1998",
+  "w": "soda",
+  "pos": "名詞",
+  "ja": "炭酸飲料・ソーダ",
+  "ipa": "ˈsoʊdə",
+  "theme": "food",
+  "ex": "I'd like a soda, please.",
+  "exJa": "炭酸飲料をください。"
+ },
+ {
+  "id": "en-1999",
+  "w": "global",
+  "pos": "形容詞",
+  "ja": "世界的な・地球規模の",
+  "ipa": "ˈɡloʊbəl",
+  "theme": "description",
+  "ex": "Climate change is a global problem.",
+  "exJa": "気候変動は世界的な問題だ。"
+ },
+ {
+  "id": "en-2000",
+  "w": "wonder",
+  "pos": "動詞",
+  "ja": "〜かなと思う・不思議に思う",
+  "ipa": "ˈwʌndɚ",
+  "theme": "actions",
+  "ex": "I wonder if it will rain.",
+  "exJa": "雨が降るかな。"
  }
 ]

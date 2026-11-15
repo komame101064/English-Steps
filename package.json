@@ -2,7 +2,7 @@
   "name": "english-steps",
   "version": "1.0.0",
   "private": true,
-  "description": "English for Japanese speakers: 1,000 core words and everyday phrases",
+  "description": "English for Japanese speakers: 2,000 core words and everyday phrases",
   "scripts": {"test": "node tests/english.test.cjs", "start": "python3 -m http.server 8080 -d site"},
   "engines": {"node": ">=18"}
 }

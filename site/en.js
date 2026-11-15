@@ -1,13 +1,16 @@
-// English Steps: English for Japanese speakers — 1,000 core words and beginner phrases.
+// English Steps: English for Japanese speakers — 2,000 core words and beginner phrases.
 // Data: data/words.json, data/phrases.json. Progress is kept in localStorage under english-steps-v1 (separate from Thai Steps).
 const KEY='english-steps-v1',$=s=>document.querySelector(s),DAYS=[1,3,7,14,30,60],STEP=10;
-const THEMES={people:'人',greetings:'あいさつ',food:'食べ物',animals:'動物',body:'体',places:'場所',home:'家',time:'時',weather:'天気',transport:'乗り物',money:'お金',actions:'動作',feelings:'気持ち',description:'様子',grammar:'文法の語',numbers:'数',colors:'色',work:'仕事',nature:'自然',basics:'基本',shopping:'買い物',directions:'道案内',smalltalk:'雑談',travel:'旅行',help:'困ったとき',clothes:'服',school:'学校',hobbies:'趣味',society:'社会',health:'健康'};
+const THEMES={people:'人',greetings:'あいさつ',food:'食べ物',animals:'動物',body:'体',places:'場所',home:'家',time:'時',weather:'天気',transport:'乗り物',money:'お金',actions:'動作',feelings:'気持ち',description:'様子',grammar:'文法の語',numbers:'数',colors:'色',work:'仕事',nature:'自然',basics:'基本',shopping:'買い物',directions:'道案内',smalltalk:'雑談',travel:'旅行',help:'困ったとき',clothes:'服',school:'学校',hobbies:'趣味',society:'社会',health:'健康',technology:'IT・機器'};
 const ICON={home:'<path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/>',words:'<path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 19V5"/>',phrases:'<path d="M4 5h16v10H9l-5 4z"/>',review:'<path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v4h4"/><path d="M12 8v4l3 2"/>',star:'<path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z"/>',audio:'<path d="M4 9v6h4l5 4V5L8 9z"/><path d="M16 9a4 4 0 0 1 0 6"/><path d="M18.5 6.5a7.5 7.5 0 0 1 0 11"/>'};
 const icon=n=>`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICON[n]}</svg>`;
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);
 const shuffle=a=>{a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
 const today=()=>new Date().toISOString().slice(0,10);
-let W=[],P=[],byId=new Map(),view='home',cur=null,sess=null,query='',theme='',ptheme='',favTab='w',loadState='loading';
+// Levels follow learning order: 基本 1-500, 初級 501-1000, 中級 1001-1500, 上級 1501-.
+const LEVELS=[['基本',0,500],['初級',500,1000],['中級',1000,1500],['上級',1500,Infinity]];
+const levelOf=w=>{const i=idx.get(w.id);return LEVELS.findIndex(([,a,b])=>i>=a&&i<b)};
+let W=[],P=[],byId=new Map(),idx=new Map(),lv=-1,view='home',cur=null,sess=null,query='',theme='',ptheme='',favTab='w',loadState='loading';
 // ---- state ----
 const fresh=()=>({rec:{},today:{date:'',steps:0},streak:{last:'',days:0},perDay:1,rate:0.9});
 let S=fresh();
@@ -39,22 +42,24 @@ function home(){const learned=W.filter(w=>rec(w.id).seen>0).length,next=nextWord
  return `<section class="card"><div class="daily-head"><h2 style="margin:0">今日の学習</h2>${met?'<span class="badge">✓ 今日の分は完了</span>':`<span class="muted">${t} / ${S.perDay}ステップ</span>`}</div>
  ${next.length||due?`<div class="tasks"><div class="task${due?'':' zero'}"><b>${Math.min(due,10)}</b><span>復習する語</span></div><div class="task${next.length?'':' zero'}"><b>${next.length}</b><span>新しい語</span></div></div>
  <button class="btn wide" onclick="startStep()">${met?'もう1ステップ進める →':'今日の学習をはじめる →'}</button>`:'<p><b>${W.length}語をすべて学習しました。</b>復習とフレーズで定着させましょう。</p>'}
- <div class="meta"><span>${S.streak.days&&S.streak.last>=yesterday()?`連続${S.streak.days}日`:''}</span><span>基本${W.length}語 ${learned} / ${W.length}</span></div><div class="bar"><i style="width:${pct}%"></i></div></section>
+ <div class="meta"><span>${S.streak.days&&S.streak.last>=yesterday()?`連続${S.streak.days}日`:''}</span><span>全${W.length}語 ${learned} / ${W.length}</span></div><div class="bar"><i style="width:${pct}%"></i></div>
+ <div class="levels">${LEVELS.map(([n,a,b],k)=>{const xs=W.slice(a,Math.min(b,W.length));if(!xs.length)return'';const d=xs.filter(w=>rec(w.id).seen>0).length;return `<button class="lvl${d===xs.length?' done':''}" onclick="lv=${k};theme='';go('words')"><b>${n}</b><small>${d} / ${xs.length}</small><span class="bar"><i style="width:${Math.round(d/xs.length*100)}%"></i></span></button>`}).join('')}</div></section>
  <div class="home-links"><button class="home-link" onclick="go('phrases')"><b>フレーズ</b><small>${P.length}の定番表現</small></button><button class="home-link" onclick="go('words')"><b>単語一覧</b><small>${W.length}語・テーマ別</small></button></div>`}
 const yesterday=()=>new Date(Date.now()-86400000).toISOString().slice(0,10);
 // ---- words ----
 const fold=s=>String(s).toLowerCase();
-function wordList(){const q=fold(query.trim());return W.filter(w=>(!theme||w.theme===theme)&&(!q||fold(w.w).includes(q)||w.ja.includes(query.trim())))}
+function wordList(){const q=fold(query.trim());return W.filter(w=>(lv<0||levelOf(w)===lv)&&(!theme||w.theme===theme)&&(!q||fold(w.w).includes(q)||w.ja.includes(query.trim())))}
 function words(){const xs=wordList(),themes=[...new Set(W.map(w=>w.theme))];
  return `<h1>単語</h1><input class="search" type="search" placeholder="英語・日本語で検索" value="${esc(query)}" oninput="query=this.value;document.getElementById('wl').innerHTML=wordRows()">
+ <div class="chips" aria-label="レベル"><button class="chip" aria-pressed="${lv<0}" onclick="lv=-1;render()">全レベル</button>${LEVELS.map(([n,a,b],k)=>`<button class="chip" aria-pressed="${lv===k}" onclick="lv=${k};render()">${n} <small>${a+1}–${Math.min(b,W.length)}</small></button>`).join('')}</div>
  <div class="chips"><button class="chip" aria-pressed="${!theme}" onclick="theme='';render()">すべて</button>${themes.map(t=>`<button class="chip" aria-pressed="${theme===t}" onclick="theme='${t}';render()">${THEMES[t]||t}</button>`).join('')}</div>
  <div class="row-actions" style="margin-bottom:10px"><button class="btn light" onclick="startQuiz('w',wordList(),'enja')">英→日 テスト</button><button class="btn light" onclick="startQuiz('w',wordList(),'jaen')">日→英 テスト</button><button class="btn light" onclick="startQuiz('w',wordList(),'listen')">聞き取り</button></div>
  <ul class="list" id="wl">${wordRows()}</ul>`}
-function wordRows(){const xs=wordList();return xs.length?xs.map(w=>`<li>${rec(w.id).seen?'<span class="seen-dot" title="学習済み"></span>':''}<button class="item" onclick="openWord('${w.id}')"><b>${esc(w.w)}</b><span class="ipa">/${esc(w.ipa)}/</span><small>${esc(w.ja)}</small></button>${audioBtn(w.w)}${starBtn(w.id)}</li>`).join(''):'<li class="empty">見つかりません</li>'}
+function wordRows(){const xs=wordList();return xs.length?xs.map(w=>`<li>${rec(w.id).seen?'<span class="seen-dot" title="学習済み"></span>':''}<button class="item" onclick="openWord('${w.id}')"><b>${esc(w.w)}</b><span class="ipa">/${esc(w.ipa)}/</span><small><span class="lv">${LEVELS[levelOf(w)][0]}</span>${esc(w.ja)}</small></button>${audioBtn(w.w)}${starBtn(w.id)}</li>`).join(''):'<li class="empty">見つかりません</li>'}
 function wordDetail(){const w=byId.get(cur);if(!w)return words();const i=W.indexOf(w);
  return `<button class="btn light" onclick="go('words')" style="min-height:40px;margin-bottom:10px">← 単語一覧</button><section class="card"><div style="display:flex;justify-content:space-between;align-items:flex-start;gap:8px"><div><p class="word-big">${esc(w.w)}</p><span class="ipa-big">/${esc(w.ipa)}/</span> <span class="pos">${esc(w.pos)}</span></div><div class="row-actions">${audioBtn(w.w)}${starBtn(w.id)}</div></div>
  <p class="ja-big">${esc(w.ja)}</p><div class="ex"><div style="display:flex;justify-content:space-between;gap:8px;align-items:center"><p class="en">${esc(w.ex)}</p>${audioBtn(w.ex,'例文を再生')}</div><p>${esc(w.exJa)}</p></div>
- <p class="muted">${i+1}語目 · ${THEMES[w.theme]||w.theme}</p></section>
+ <p class="muted"><span class="lv">${LEVELS[levelOf(w)][0]}</span> ${i+1}語目 · ${THEMES[w.theme]||w.theme}</p></section>
  <div class="row-actions">${i>0?`<button class="btn light" onclick="openWord('${W[i-1].id}')">← ${esc(W[i-1].w)}</button>`:''}${i<W.length-1?`<button class="btn light" onclick="openWord('${W[i+1].id}')">${esc(W[i+1].w)} →</button>`:''}</div>`}
 // ---- phrases ----
 function phraseList(){return P.filter(p=>!ptheme||p.theme===ptheme)}
@@ -104,7 +109,7 @@ function resultView(){const s=sess;return `<section class="card result"><p class
 function endSession(){if(sess&&sess.kind==='step'&&sess.i>=sess.tasks.length)finishSession();sess=null;render();window.scrollTo(0,0)}
 // ---- boot ----
 load();
-Promise.all(['data/words.json','data/phrases.json'].map(u=>fetch(u+'?v=20261116').then(r=>{if(!r.ok)throw Error();return r.json()}))).then(([w,p])=>{W=w;P=p;byId=new Map([...W,...P].map(x=>[x.id,x]));loadState='ready';render()}).catch(()=>{loadState='error';render()});
+Promise.all(['data/words.json','data/phrases.json'].map(u=>fetch(u+'?v=20261116b').then(r=>{if(!r.ok)throw Error();return r.json()}))).then(([w,p])=>{W=w;P=p;byId=new Map([...W,...P].map(x=>[x.id,x]));idx=new Map(W.map((x,i)=>[x.id,i]));loadState='ready';render()}).catch(()=>{loadState='error';render()});
 if(typeof navigator!=='undefined'&&'serviceWorker'in navigator&&location.protocol==='https:')navigator.serviceWorker.register('sw.js',{scope:'./'}).catch(()=>{});
 window.addEventListener('hashchange',()=>{const v=location.hash.slice(1);if(['home','words','phrases','review','favorites','settings'].includes(v))go(v)});
 render();
