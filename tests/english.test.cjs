@@ -24,7 +24,7 @@ vm.runInContext(fs.readFileSync('site/en.js','utf8').replace("window.addEventLis
  vm.runInContext("startGame();gameAnswer(sess.q.choices.findIndex(c=>c.id===sess.q.x.id));gameOver()",ctx);assert(vm.runInContext('S.games.speed>=10',ctx));vm.runInContext('sess=null;S.rec={};save();render()',ctx);
  const z2=vm.runInContext("sanitize({stepSize:20,autoplay:false,games:{speed:'50'},gram:{g01:{best:9,miss:[1,1,'x',2]}},rec:{'en-0001':{}}})",ctx);assert(z2.stepSize===20&&z2.autoplay===false&&z2.games.speed===50&&z2.gram.g01.best===5&&z2.gram.g01.miss.join()==='1,2');
  for(const x of ['cat','dog','water','house','school'])assert(W.findIndex(w=>w.w===x)<100,x);
- assert(els['#main'].innerHTML.includes('今日の学習'));
+ assert(els['#main'].innerHTML.includes('英語辞書')&&els['#main'].innerHTML.includes('h-rows'));vm.runInContext("go('words')",ctx);assert(els['#main'].innerHTML.includes('今日の学習'));vm.runInContext("go('home')",ctx);
  // A step: 10 new words shown, recalled both ways; full marks schedule them a day later; progress saved under its own key.
  vm.runInContext('startStep()',ctx);const s=vm.runInContext('sess',ctx);assert.equal(s.tasks.filter(t=>t.type==='learn').length,10);
  vm.runInContext("while(sess&&sess.i<sess.tasks.length){const t=sess.tasks[sess.i];if(t.type!=='learn'){render();const x=item(t);answer(sess.choices.findIndex(c=>c.id===x.id))}nextTask()}",ctx);
