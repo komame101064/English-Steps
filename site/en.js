@@ -1,4 +1,4 @@
-// English Steps: English for Japanese speakers — 8,000 words and beginner phrases.
+// English Steps: English for Japanese speakers — 11,000 words and beginner phrases.
 // Data: data/words.json, data/phrases.json. Progress is kept in localStorage under english-steps-v1 (separate from Thai Steps).
 const KEY='english-steps-v1',$=s=>document.querySelector(s),DAYS=[1,3,7,14,30,60];
 const THEMES={people:'人',greetings:'あいさつ',food:'食べ物',animals:'動物',body:'体',places:'場所',home:'家',time:'時',weather:'天気',transport:'乗り物',money:'お金',actions:'動作',feelings:'気持ち',description:'様子',grammar:'文法の語',numbers:'数',colors:'色',work:'仕事',nature:'自然',basics:'基本',shopping:'買い物',directions:'道案内',smalltalk:'雑談',travel:'旅行',help:'困ったとき',clothes:'服',school:'学校',hobbies:'趣味',society:'社会',health:'健康',technology:'IT・機器',casual:'口語・ネット'};
@@ -234,7 +234,7 @@ function resultView(){const s=sess;return `<section class="card result"><p class
 function endSession(){if(sess&&sess.kind==='step'&&sess.i>=sess.tasks.length)finishSession();sess=null;render();window.scrollTo(0,0)}
 // ---- boot ----
 load();
-Promise.all(['data/words.json','data/phrases.json','data/grammar.json'].map(u=>fetch(u+'?v=20261116k').then(r=>{if(!r.ok)throw Error();return r.json()}))).then(([w,p,g])=>{W=w;P=p;G=g;byId=new Map([...W,...P].map(x=>[x.id,x]));loadState='ready';render();fetch('data/ja-readings.json?v=20261116k').then(r=>r.ok?r.json():{}).then(x=>{R=x&&typeof x==='object'?x:{};if(view==='dict')render()}).catch(()=>{})}).catch(()=>{loadState='error';render()});
+Promise.all(['data/words.json','data/phrases.json','data/grammar.json'].map(u=>fetch(u+'?v=20261116l').then(r=>{if(!r.ok)throw Error();return r.json()}))).then(([w,p,g])=>{W=w;P=p;G=g;byId=new Map([...W,...P].map(x=>[x.id,x]));loadState='ready';render();fetch('data/ja-readings.json?v=20261116l').then(r=>r.ok?r.json():{}).then(x=>{R=x&&typeof x==='object'?x:{};if(view==='dict')render()}).catch(()=>{})}).catch(()=>{loadState='error';render()});
 if(typeof navigator!=='undefined'&&'serviceWorker'in navigator&&location.protocol==='https:')navigator.serviceWorker.register('sw.js',{scope:'./'}).catch(()=>{});
 window.addEventListener('hashchange',()=>{const v=location.hash.slice(1);if(['home','dict','words','grammar','phrases','review','favorites','settings'].includes(v))go(v)});
 render();
